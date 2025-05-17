@@ -1,5 +1,5 @@
 baseurl = "https://mycompany-8vy.pages.dev/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
-title = "Universal11"
+title = "Universal"
 theme = "universal"
 themesDir = "themes"
 languageCode = "en-us"
