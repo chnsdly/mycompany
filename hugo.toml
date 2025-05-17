@@ -333,7 +333,7 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "欢迎访问我们的网站！"
+    title = "欢迎访问宝恒国际！"
     subtitle = "我们是一家专注于高质量产品和服务的小型公司，致力于为客户提供最佳体验。"
     link_url = "#"
     link_text = "Check other homepages"
