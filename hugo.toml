@@ -89,7 +89,7 @@ pluralizelisttitles = false
     name       = "Header variations"
     identifier = "section.headervariations2"
     url        = ""
-    weight     = 2
+    weight     = 3
     parent     = "menu.features"
     post       = 3
 
