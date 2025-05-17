@@ -27,7 +27,7 @@ pluralizelisttitles = false
 # Main menu
 [menu]
 [[menu.main]]
-    name       = "Home"
+    name       = "主页"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
@@ -63,7 +63,7 @@ pluralizelisttitles = false
     parent     = "menu.home"
 
 [[menu.main]]
-    name       = "Features"
+    name       = "产品"
     identifier = "menu.features"
     url        = "/img/template-easy-customize.png"
     weight     = 3
@@ -83,6 +83,15 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "menu.features"
     post       = 2
+
+
+[[menu.main]]
+    name       = "Header variations"
+    identifier = "section.headervariations2"
+    url        = ""
+    weight     = 2
+    parent     = "menu.features"
+    post       = 3
 
 [[menu.main]]
     name       = "Accordions"
