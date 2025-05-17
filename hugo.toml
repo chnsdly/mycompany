@@ -50,17 +50,6 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
-
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
 
 [[menu.main]]
     name       = "产品"
@@ -86,14 +75,6 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations2"
-    url        = ""
-    weight     = 3
-    parent     = "menu.features"
-    post       = 3
-
-[[menu.main]]
     name       = "Accordions"
     url        = ""
     weight     = 1
@@ -105,41 +86,6 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "Buttons"
-    url        = ""
-    weight     = 3
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Content Boxes"
-    url        = ""
-    weight     = 4
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Horizontal Blocks"
-    url        = ""
-    weight     = 5
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
-
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
 
 [[menu.main]]
     name       = "Default Sticky Header"
@@ -147,17 +93,6 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.headervariations"
 
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
 
 [[menu.main]]
     name       = "Portfolio"
@@ -179,11 +114,6 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.portfolio"
 
-[[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
-    weight     = 2
-    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "3 Columns"
@@ -191,35 +121,6 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "section.portfolio"
 
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "About"
@@ -255,109 +156,6 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.marketing"
 
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
-    weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
-[[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "menu.blog"
-    url        = "/blog/"
-    weight     = 5
-
-[[menu.main]]
-    name       = "FAQ"
-    identifier = "menu.faq"
-    url        = "/faq/"
-    weight     = 6
 
 [[menu.main]]
     identifier = "contact"
@@ -535,8 +333,8 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "欢迎访问我们的网站！"
+    subtitle = "我们是一家专注于高质量产品和服务的小型公司，致力于为客户提供最佳体验。"
     link_url = "#"
     link_text = "Check other homepages"
 
