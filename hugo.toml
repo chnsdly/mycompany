@@ -55,7 +55,7 @@ pluralizelisttitles = false
     name       = "产品"
     identifier = "menu.features"
     url        = "/img/template-easy-customize.png"
-    weight     = 3
+    weight     = 2
 
 [[menu.main]]
     name       = "Shortcodes"
@@ -95,13 +95,13 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    name       = "Portfolio"
+    name       = "动态"
     identifier = "menu.portfolio"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "Portfolio"
+    name       = "产品动态"
     identifier = "section.portfolio"
     url        = ""
     weight     = 1
@@ -158,47 +158,16 @@ pluralizelisttitles = false
 
 
 [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
+    identifier = "section.contact"
+    name       = "联系我们"
     url        = "/contact/"
-    weight     = 7
+    weight     = 4
 
 
-# Top bar social links menu
-
-[[menu.topbar]]
-    weight = 1
-    name = "Phone"
-    url = "tel:+12 34 567 89 01"
-    pre = "<i class='fas fa-2x fa-phone'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "GitHub"
-    url = "https://github.com/devcows/hugo-universal-theme"
-    pre = "<i class='fab fa-2x fa-github'></i>"
-
-[[menu.topbar]]
-    weight = 3
-    name = "Facebook"
-    url = "https://facebook.com"
-    pre = "<i class='fab fa-2x fa-facebook'></i>"
-
-[[menu.topbar]]
-    weight = 4
-    name = "X"
-    url = "https://x.com"
-    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
-
-[[menu.topbar]]
-    weight = 5
-    name = "Email"
-    url = "mailto:hello@universal.com"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
-    author = "DevCows"
+   # viewMorePostLink = "/blog/"
+    author = "xavi"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
@@ -252,7 +221,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>我们是一支充满热情的团队，致力于为客户提供贴心的产品和服务。相信通过真诚和创新，可以与客户一起成长，共同实现美好未来。</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -266,27 +235,14 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
-      </p>
-      """
-
+   address = """<p class="text-uppercase"><strong>临沂市兰山区北京路10号</strong>
+<br>中国山东省
+<br>邮编 276000
+</p>"""
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
-[params.topbar]
-    enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
-      </p>
-      """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -333,10 +289,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "欢迎访问宝恒国际！"
-    subtitle = "我们是一家专注于高质量产品和服务的小型公司，致力于为客户提供最佳体验。"
-    link_url = "#"
-    link_text = "Check other homepages"
+    title = "欢迎访问宝恒国际官网！"
+    subtitle = "我们专注于高质量的产品和服务，致力于为客户提供最佳体验。"
+    link_url = "/products/"
+    link_text = "查看产品"
 
 [params.clients]
     enable = true
@@ -351,9 +307,6 @@ pluralizelisttitles = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
-
-[params.footer.recent_posts]
-    enable = true
 
 [taxonomies]
     category = "categories"
