@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 宝恒国际</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://mycompany-8vy.pages.dev/tags/</link>
     <description>Recent content in Tags on 宝恒国际</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mycompany-8vy.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golang</title>
-      <link>http://localhost:1313/tags/golang/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/golang/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/golang/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/tags/hugo/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/hugo/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/hugo/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>http://localhost:1313/tags/programming/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/programming/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/programming/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Theme</title>
-      <link>http://localhost:1313/tags/theme/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/theme/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>http://localhost:1313/tags/theme/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/theme/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>http://localhost:1313/tags/go/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/go/</link>
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      <guid>http://localhost:1313/tags/go/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Ipsum</title>
-      <link>http://localhost:1313/tags/ipsum/</link>
+      <link>https://mycompany-8vy.pages.dev/tags/ipsum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ipsum/</guid>
+      <guid>https://mycompany-8vy.pages.dev/tags/ipsum/</guid>
       <description></description>
     </item>
   </channel>
