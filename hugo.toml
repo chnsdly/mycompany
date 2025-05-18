@@ -1,4 +1,4 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://mycompany-8vy.pages.dev/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
 theme = "universal"
 themesDir = "themes"
@@ -32,35 +32,35 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-[[menu.main]]
-    name       = "Option 1: Default Page"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
+# [[menu.main]]
+# name       = "Option 1: Default Page"
+# url        = "/"
+# weight     = 1
+# parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 2: Application"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
+# [[menu.main]]
+# name       = "Option 2: Application"
+# url        = "/"
+# weight     = 2
+# parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 3: Startup"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
+# [[menu.main]]
+# name       = "Option 3: Startup"
+# url        = "/"
+# weight     = 3
+# parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 4: Agency"
-    url        = "/"
-    weight     = 4
-    parent     = "menu.home"
+# [[menu.main]]
+# name       = "Option 4: Agency"
+# url        = "/"
+# weight     = 4
+# parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
+# [[menu.main]]
+# name       = "Option 5: Portfolio"
+# url        = "/"
+# weight     = 5
+# parent     = "menu.home"
 
 [[menu.main]]
     name       = "Features"
