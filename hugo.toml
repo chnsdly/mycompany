@@ -530,10 +530,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "Do you want to see more?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    title = "欢迎进入宝恒国际官网"
+    subtitle = "我们专注于高质量的产品和服务，致力于为客户提供最佳体验。"
     link_url = "#"
-    link_text = "Check other homepages"
+    link_text = "进入产品页"
 
 [params.clients]
     enable = true
