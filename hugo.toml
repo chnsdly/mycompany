@@ -1,4 +1,4 @@
-baseurl = "https://mycompany-8vy.pages.dev/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl = "https://devcows.github.io/hugo-universal-theme/" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
 theme = "universal"
 themesDir = "themes"
@@ -27,7 +27,7 @@ pluralizelisttitles = false
 # Main menu
 [menu]
 [[menu.main]]
-    name       = "主页"
+    name       = "Home"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
@@ -50,12 +50,23 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "menu.home"
 
+[[menu.main]]
+    name       = "Option 4: Agency"
+    url        = "/"
+    weight     = 4
+    parent     = "menu.home"
 
 [[menu.main]]
-    name       = "产品"
+    name       = "Option 5: Portfolio"
+    url        = "/"
+    weight     = 5
+    parent     = "menu.home"
+
+[[menu.main]]
+    name       = "Features"
     identifier = "menu.features"
     url        = "/img/template-easy-customize.png"
-    weight     = 2
+    weight     = 3
 
 [[menu.main]]
     name       = "Shortcodes"
@@ -73,7 +84,6 @@ pluralizelisttitles = false
     parent     = "menu.features"
     post       = 2
 
-
 [[menu.main]]
     name       = "Accordions"
     url        = ""
@@ -86,6 +96,41 @@ pluralizelisttitles = false
     weight     = 2
     parent     = "section.shortcodes"
 
+[[menu.main]]
+    name       = "Buttons"
+    url        = ""
+    weight     = 3
+    parent     = "section.shortcodes"
+
+[[menu.main]]
+    name       = "Content Boxes"
+    url        = ""
+    weight     = 4
+    parent     = "section.shortcodes"
+
+[[menu.main]]
+    name       = "Horizontal Blocks"
+    url        = ""
+    weight     = 5
+    parent     = "section.shortcodes"
+
+[[menu.main]]
+    name       = "Pagination"
+    url        = ""
+    weight     = 6
+    parent     = "section.shortcodes"
+
+[[menu.main]]
+    name       = "Tabs"
+    url        = ""
+    weight     = 7
+    parent     = "section.shortcodes"
+
+[[menu.main]]
+    name       = "Typography"
+    url        = ""
+    weight     = 8
+    parent     = "section.shortcodes"
 
 [[menu.main]]
     name       = "Default Sticky Header"
@@ -93,15 +138,26 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.headervariations"
 
+[[menu.main]]
+    name       = "No Sticky Header"
+    url        = ""
+    weight     = 2
+    parent     = "section.headervariations"
 
 [[menu.main]]
-    name       = "动态"
+    name       = "Light Header"
+    url        = ""
+    weight     = 3
+    parent     = "section.headervariations"
+
+[[menu.main]]
+    name       = "Portfolio"
     identifier = "menu.portfolio"
     url        = "/img/template-homepage.png"
     weight     = 3
 
 [[menu.main]]
-    name       = "产品动态"
+    name       = "Portfolio"
     identifier = "section.portfolio"
     url        = ""
     weight     = 1
@@ -114,6 +170,11 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.portfolio"
 
+[[menu.main]]
+    name       = "2 Columns With Negative Space"
+    url        = ""
+    weight     = 2
+    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "3 Columns"
@@ -121,6 +182,35 @@ pluralizelisttitles = false
     weight     = 3
     parent     = "section.portfolio"
 
+[[menu.main]]
+    name       = "3 Columns With Negative Space"
+    url        = ""
+    weight     = 4
+    parent     = "section.portfolio"
+
+[[menu.main]]
+    name       = "4 Columns"
+    url        = ""
+    weight     = 5
+    parent     = "section.portfolio"
+
+[[menu.main]]
+    name       = "4 Columns With Negative Space"
+    url        = ""
+    weight     = 6
+    parent     = "section.portfolio"
+
+[[menu.main]]
+    name       = "Portfolio - detail"
+    url        = ""
+    weight     = 7
+    parent     = "section.portfolio"
+
+[[menu.main]]
+    name       = "Portfolio - detail 2"
+    url        = ""
+    weight     = 8
+    parent     = "section.portfolio"
 
 [[menu.main]]
     name       = "About"
@@ -156,18 +246,152 @@ pluralizelisttitles = false
     weight     = 1
     parent     = "section.marketing"
 
-
 [[menu.main]]
-    identifier = "section.contact"
-    name       = "联系我们"
-    url        = "/contact/"
+    name       = "All Pages"
+    identifier = "menu.allpages"
+    url        = ""
     weight     = 4
 
+[[menu.main]]
+    name       = "Home"
+    identifier = "section.ap-home"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 1
 
+[[menu.main]]
+    name       = "About"
+    identifier = "section.ap-about"
+    url        = ""
+    weight     = 2
+    parent     = "menu.allpages"
+    post       = 1
+
+[[menu.main]]
+    name       = "Marketing"
+    identifier = "section.ap-marketing"
+    url        = ""
+    weight     = 3
+    parent     = "menu.allpages"
+    post       = 1
+
+[[menu.main]]
+    name       = "Portfolio"
+    identifier = "section.ap-portfolio"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 2
+
+[[menu.main]]
+    name       = "User Pages"
+    identifier = "section.ap-userpages"
+    url        = ""
+    weight     = 2
+    parent     = "menu.allpages"
+    post       = 2
+
+[[menu.main]]
+    name       = "Shop"
+    identifier = "section.ap-shop"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 3
+
+[[menu.main]]
+    name       = "Shop - Order Process"
+    identifier = "section.ap-shoporderprocess"
+    url        = ""
+    weight     = 2
+    parent     = "menu.allpages"
+    post       = 3
+
+[[menu.main]]
+    name       = "Contact"
+    identifier = "section.ap-contact"
+    url        = ""
+    weight     = 1
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Pages"
+    identifier = "section.ap-pages"
+    url        = ""
+    weight     = 2
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "section.ap-blog"
+    url        = "/blog/"
+    weight     = 3
+    parent     = "menu.allpages"
+    post       = 4
+
+[[menu.main]]
+    name       = "Blog Listing Big"
+    url        = "/blog/"
+    weight     = 1
+    parent     = "section.ap-blog"
+
+[[menu.main]]
+    name       = "Blog"
+    identifier = "menu.blog"
+    url        = "/blog/"
+    weight     = 5
+
+[[menu.main]]
+    name       = "FAQ"
+    identifier = "menu.faq"
+    url        = "/faq/"
+    weight     = 6
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Contact"
+    url        = "/contact/"
+    weight     = 7
+
+
+# Top bar social links menu
+
+[[menu.topbar]]
+    weight = 1
+    name = "Phone"
+    url = "tel:+12 34 567 89 01"
+    pre = "<i class='fas fa-2x fa-phone'></i>"
+
+[[menu.topbar]]
+    weight = 2
+    name = "GitHub"
+    url = "https://github.com/devcows/hugo-universal-theme"
+    pre = "<i class='fab fa-2x fa-github'></i>"
+
+[[menu.topbar]]
+    weight = 3
+    name = "Facebook"
+    url = "https://facebook.com"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[[menu.topbar]]
+    weight = 4
+    name = "X"
+    url = "https://x.com"
+    pre = "<i class='fab fa-2x fa-x-twitter'></i>"
+
+[[menu.topbar]]
+    weight = 5
+    name = "Email"
+    url = "mailto:hello@universal.com"
+    pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-   # viewMorePostLink = "/blog/"
-    author = "xavi"
+    viewMorePostLink = "/blog/"
+    author = "DevCows"
     defaultKeywords = ["devcows", "hugo", "go"]
     mainSections = ["blog"]
     defaultDescription = "Site template made by Devcows using Hugo"
@@ -221,7 +445,7 @@ pluralizelisttitles = false
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>我们是一支充满热情的团队，致力于为客户提供贴心的产品和服务。相信通过真诚和创新，可以与客户一起成长，共同实现美好未来。</p>"
+    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
     copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -235,14 +459,27 @@ pluralizelisttitles = false
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
-   address = """<p class="text-uppercase"><strong>临沂市兰山区北京路10号</strong>
-<br>中国山东省
-<br>邮编 276000
-</p>"""
+    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
+        <br>13/25 New Avenue
+        <br>Newtown upon River
+        <br>45Y 73J
+        <br>England
+        <br>
+        <strong>Great Britain</strong>
+      </p>
+      """
+
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
 
 # Enable or disable top bar with social icons
+[params.topbar]
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+      """
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
@@ -289,10 +526,10 @@ pluralizelisttitles = false
 [params.see_more]
     enable = true
     icon = "far fa-file-alt"
-    title = "欢迎访问宝恒国际官网！"
-    subtitle = "我们专注于高质量的产品和服务，致力于为客户提供最佳体验。"
-    link_url = "/products/"
-    link_text = "查看产品"
+    title = "Do you want to see more?"
+    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    link_url = "#"
+    link_text = "Check other homepages"
 
 [params.clients]
     enable = true
@@ -307,6 +544,9 @@ pluralizelisttitles = false
     title = "From our blog"
     subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
     hide_summary = false
+
+[params.footer.recent_posts]
+    enable = true
 
 [taxonomies]
     category = "categories"
