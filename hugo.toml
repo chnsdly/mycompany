@@ -63,7 +63,7 @@ pluralizelisttitles = false
 # parent     = "menu.home"
 
 [[menu.main]]
-    name       = "全部产品"
+    name       = "产品"
     identifier = "menu.features"
     url        = "/img/template-easy-customize.png"
     weight     = 3
