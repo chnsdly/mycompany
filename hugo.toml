@@ -27,7 +27,7 @@ pluralizelisttitles = false
 # Main menu
 [menu]
 [[menu.main]]
-    name       = "主页"
+    name       = "首页"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
@@ -460,12 +460,11 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
+        <br>No. 100 Beijing Road,Lanshan District
+        <br>Linyi City, Shandong Province, China
+        <br>Phone: 1234567890
+        <br>Email: baoheng@gmail.com
         <br>
-        <strong>Great Britain</strong>
       </p>
       """
 
@@ -483,9 +482,9 @@ pluralizelisttitles = false
       </p>
       """
 
-# Enable and disable widgets for the right sidebar
+# 右侧边栏是否显示
 [params.widgets]
-    categories = true
+    categories = false
     tags = true
     search = true
 
