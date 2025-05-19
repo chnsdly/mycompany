@@ -63,7 +63,7 @@ pluralizelisttitles = false
 # parent     = "menu.home"
 
 [[menu.main]]
-    name       = "产品"
+    name       = "全部产品"
     identifier = "menu.features"
     url        = "/img/template-easy-customize.png"
     weight     = 3
@@ -151,7 +151,7 @@ pluralizelisttitles = false
     parent     = "section.headervariations"
 
 [[menu.main]]
-    name       = "动态"
+    name       = "公司动态"
     identifier = "menu.portfolio"
     url        = "/img/template-homepage.png"
     weight     = 3
