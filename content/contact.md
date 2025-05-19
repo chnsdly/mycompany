@@ -3,8 +3,15 @@ title = "Contact"
 id = "contact"
 +++
 
-# We are here to help you
+## 我们在这里为您提供帮助。
 
-Are you curious about something? Do you have some kind of problem with our products? As am hastily invited settled at limited civilly fortune me. Really spring in extent an by. Judge but built gay party world. Of so am he remember although required. Bachelor unpacked be advanced at. Confined in declared marianne is vicinity.
+你是否对某些内容感到好奇？或者在使用我们的产品时遇到问题？我们非常乐意为您提供帮助。
 
-Please feel free to contact us, our customer service center is working for you 24/7.
+请随时联系我们，我们的客户服务中心全天候（24/7）为您服务。
+
+---
+📧 邮箱：baoheng@yourcompany.com  
+
+📞 电话：123-456-7890  
+
+📍 地址：临沂市兰山区XX路100号 
