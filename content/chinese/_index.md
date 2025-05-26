@@ -4,7 +4,7 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "用安全高效的电池解决方案 <br/> 驱动未来"
+  title: "用安全高效的电池<br/> 驱动未来"
   content: "赋能智慧社会发展，持续提供稳定、高效、安全的新能源技术，助力实现可持续的未来"
   button:
     enable: true
