@@ -7,12 +7,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/"
+                href="//localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/"
+                href="//localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -35,12 +35,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/faq/"
+                href="//localhost:1313/faq/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/faq/"
+                href="//localhost:1313/en/faq/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -63,12 +63,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/categories/"
+                href="//localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/"
+                href="//localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -91,12 +91,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/how-to/"
+                href="//localhost:1313/tags/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/how-to/"
+                href="//localhost:1313/en/tags/how-to/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -119,12 +119,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/"
+                href="//localhost:1313/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/"
+                href="//localhost:1313/en/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -147,12 +147,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/date-i18n/"
+                href="//localhost:1313/blog/date-i18n/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/date-i18n/"
+                href="//localhost:1313/en/blog/date-i18n/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -175,12 +175,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/"
+                href="//localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/"
+                href="//localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -203,12 +203,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/categories/technical-assistance/"
+                href="//localhost:1313/categories/technical-assistance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/technical-assistance/"
+                href="//localhost:1313/en/categories/technical-assistance/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -231,12 +231,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/technology/"
+                href="//localhost:1313/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/technology/"
+                href="//localhost:1313/en/tags/technology/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -259,12 +259,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/advice/"
+                href="//localhost:1313/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/advice/"
+                href="//localhost:1313/en/tags/advice/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -287,12 +287,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/ai/"
+                href="//localhost:1313/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/ai/"
+                href="//localhost:1313/en/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -315,12 +315,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/android/"
+                href="//localhost:1313/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/android/"
+                href="//localhost:1313/en/tags/android/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -343,12 +343,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/categories/artificial-intelligence/"
+                href="//localhost:1313/categories/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/artificial-intelligence/"
+                href="//localhost:1313/en/categories/artificial-intelligence/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -371,12 +371,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/company/"
+                href="//localhost:1313/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/company/"
+                href="//localhost:1313/en/tags/company/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -399,12 +399,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/categories/company-news/"
+                href="//localhost:1313/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/company-news/"
+                href="//localhost:1313/en/categories/company-news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -427,12 +427,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-1/"
+                href="//localhost:1313/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-1/"
+                href="//localhost:1313/en/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -455,12 +455,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-2/"
+                href="//localhost:1313/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-2/"
+                href="//localhost:1313/en/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -483,12 +483,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-3/"
+                href="//localhost:1313/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-3/"
+                href="//localhost:1313/en/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -511,12 +511,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-4/"
+                href="//localhost:1313/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-4/"
+                href="//localhost:1313/en/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -539,12 +539,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-5/"
+                href="//localhost:1313/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-5/"
+                href="//localhost:1313/en/blog/blog-post-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -567,12 +567,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/blog/blog-post-6/"
+                href="//localhost:1313/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/blog/blog-post-6/"
+                href="//localhost:1313/en/blog/blog-post-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -595,12 +595,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/categories/legacy-support/"
+                href="//localhost:1313/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/categories/legacy-support/"
+                href="//localhost:1313/en/categories/legacy-support/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -623,12 +623,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/mechine/"
+                href="//localhost:1313/tags/mechine/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/mechine/"
+                href="//localhost:1313/en/tags/mechine/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -651,12 +651,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/news/"
+                href="//localhost:1313/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/news/"
+                href="//localhost:1313/en/tags/news/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -679,12 +679,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/tags/retro/"
+                href="//localhost:1313/tags/retro/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/tags/retro/"
+                href="//localhost:1313/en/tags/retro/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -706,12 +706,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/message_sent/"
+                href="//localhost:1313/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/message_sent/"
+                href="//localhost:1313/en/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -733,12 +733,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/author/"
+                href="//localhost:1313/author/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/author/"
+                href="//localhost:1313/en/author/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -760,12 +760,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/service/"
+                href="//localhost:1313/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/service/"
+                href="//localhost:1313/en/service/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -787,12 +787,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/author/john-doe/"
+                href="//localhost:1313/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/author/john-doe/"
+                href="//localhost:1313/en/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -814,12 +814,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/author/mark-dinn/"
+                href="//localhost:1313/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/author/mark-dinn/"
+                href="//localhost:1313/en/author/mark-dinn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -841,12 +841,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-1/"
+                href="//localhost:1313/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-1/"
+                href="//localhost:1313/en/project/rio-furniture-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -868,12 +868,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-2/"
+                href="//localhost:1313/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-2/"
+                href="//localhost:1313/en/project/rio-furniture-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -895,12 +895,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-3/"
+                href="//localhost:1313/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-3/"
+                href="//localhost:1313/en/project/rio-furniture-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -922,12 +922,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-4/"
+                href="//localhost:1313/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-4/"
+                href="//localhost:1313/en/project/rio-furniture-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -949,12 +949,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-5/"
+                href="//localhost:1313/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-5/"
+                href="//localhost:1313/en/project/rio-furniture-5/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -976,12 +976,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/rio-furniture-6/"
+                href="//localhost:1313/project/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/rio-furniture-6/"
+                href="//localhost:1313/en/project/rio-furniture-6/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1003,12 +1003,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/contact/"
+                href="//localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/contact/"
+                href="//localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1030,12 +1030,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/about/"
+                href="//localhost:1313/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/about/"
+                href="//localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1057,12 +1057,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/project/"
+                href="//localhost:1313/project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/project/"
+                href="//localhost:1313/en/project/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -1084,12 +1084,12 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="//localhost:1313/zh/pricing/"
+                href="//localhost:1313/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="//localhost:1313/pricing/"
+                href="//localhost:1313/en/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
