@@ -24,24 +24,24 @@ about:
 portfolio:
   enable: true
   bg_image: "images/feature-bg.jpg"
-  title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  title: "我们相信伟大的创意"
+  content: " 新能源正在改变世界的能源格局。我们致力于研发高性能锂电池解决方案，为绿色出行、储能系统和智能制造提供稳定而高效的动力支持。通过不断的技术创新，我们推动能源使用向低碳、环保迈进。
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  在锂电池的每一个电芯背后，是我们对品质的极致追求。从原材料选择到生产流程，我们严格把控每一个环节，只为提供更安全、更可靠的新能源产品，助力客户实现可持续发展的目标。
 
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  未来属于绿色能源。我们相信，锂电池技术的持续进化将驱动更多产业变革，为全球低碳转型注入强劲动力。与我们一同携手，让能源更智能、世界更清洁。
   "
   button:
     enable: true
-    label: "View Works"
+    label: "查看公司动态"
     link: "project/"
 
 
 ############################# Service ############################
 service:
-  enable: true
+  enable: false
   # service content comes from "service.md" file
 
 
@@ -49,16 +49,19 @@ service:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "我们致力于提供先进的锂电池解决方案，引领新能源行业可持续发展。"
+  content: "凭借强大的技术研发能力与完善的产业链配套，我们为客户量身定制高性能、高安全性的储能与动力电池产品。
+我们始终坚持“品质为本，创新驱动”，已成功服务全球多家知名企业，赢得广泛信赖与认可。
+欢迎了解我们的产品优势与研发实力，与恒力新能源携手共建绿色未来。
+"
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "给我们留言"
     link: "contact/"
 
 ############################# Funfacts ###############################
 funfacts:
-  enable: true
+  enable: false
   title: "Fun Facts About Us"
   description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:

@@ -783,33 +783,6 @@
                 href="//localhost:1313/author/"
                 />
   </url><url>
-    <loc>//localhost:1313/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="//localhost:1313/en/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="//localhost:1313/fr/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="//localhost:1313/it/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="//localhost:1313/de/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/contact/"
-                />
-  </url><url>
     <loc>//localhost:1313/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1105,6 +1078,33 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="//localhost:1313/service/"
+                />
+  </url><url>
+    <loc>//localhost:1313/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="//localhost:1313/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="//localhost:1313/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="//localhost:1313/it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="//localhost:1313/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="//localhost:1313/contact/"
                 />
   </url>
 </urlset>

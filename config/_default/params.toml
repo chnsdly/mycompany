@@ -1,5 +1,5 @@
 #################### default parameters ################################
-# favicon
+# favicon标签页的图标
 favicon = "images/favicon.png"
 # logo
 logo = "images/logo.png"
@@ -7,26 +7,26 @@ logo = "images/logo.png"
 # Note: logo_width is not work with .svg file
 logo_width = "150px"
 # logo text will only show when logo is missing.
-logo_text = "Airspace"
+logo_text = "xavi"
 # navbar fixed to top
-navbar_fixed = false
+navbar_fixed = true
 # OpenGraph / Twitter Card metadata
 description = "This is meta description"
-author = "Themefisher"
+author = "xavi"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "0124857985320"
-email = "demo@email.com"
+phone = "0123456789"
+email = "hengli@email.com"
 location = """
-**Themefisher**  
-North Main Street  
-Brooklyn, New South Wales  
-Australia
+**location**  
+lanshan District  
+linyi city  
+china
 """
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "© 2025 Hengli Lithium New Energy (Linyi) Tech Co., Ltd."
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 
 custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
