@@ -22,7 +22,7 @@ about:
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
+  enable: false
   bg_image: "images/feature-bg.jpg"
   title: "我们相信伟大的创意"
   content: " 新能源正在改变世界的能源格局。我们致力于研发高性能锂电池解决方案，为绿色出行、储能系统和智能制造提供稳定而高效的动力支持。通过不断的技术创新，我们推动能源使用向低碳、环保迈进。

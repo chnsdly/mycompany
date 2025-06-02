@@ -2,9 +2,9 @@
 title: "Rio Furniture"
 description: "this is meta description"
 draft: false
-image : "images/portfolio/work5.jpg"
+image : "images/wrapper-img.png"
 bg_image: "images/feature-bg.jpg"
-category: "Illustration"
+category: "24V"
 information:
   - label : "Client"
     info : "Jannie Kelonsky"

@@ -16,24 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>//localhost:1313/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Company News</title>
       <link>//localhost:1313/categories/company-news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
       <guid>//localhost:1313/categories/company-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Legacy Support</title>
-      <link>//localhost:1313/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/legacy-support/</guid>
       <description></description>
     </item>
   </channel>

@@ -314,11 +314,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/tags/android/"
                 />
@@ -340,11 +335,6 @@
   </url><url>
     <loc>//localhost:1313/en/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/categories/artificial-intelligence/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -454,11 +444,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/blog/blog-post-2/"
                 />
@@ -480,11 +465,6 @@
   </url><url>
     <loc>//localhost:1313/en/blog/blog-post-3/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/blog/blog-post-3/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -510,11 +490,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/blog/blog-post-4/"
                 />
@@ -536,11 +511,6 @@
   </url><url>
     <loc>//localhost:1313/en/blog/blog-post-5/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/blog/blog-post-5/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
@@ -594,11 +564,6 @@
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="fr-FR"
                 href="//localhost:1313/fr/categories/legacy-support/"
                 />
@@ -620,11 +585,6 @@
   </url><url>
     <loc>//localhost:1313/en/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/tags/mechine/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
