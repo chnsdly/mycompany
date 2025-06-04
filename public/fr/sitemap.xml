@@ -881,11 +881,6 @@
     <loc>//localhost:1313/fr/project/rio-furniture-1/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-US"
                 href="//localhost:1313/en/project/rio-furniture-1/"
                 />
@@ -906,11 +901,6 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/project/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-2/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -935,11 +925,6 @@
     <loc>//localhost:1313/fr/project/rio-furniture-3/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-US"
                 href="//localhost:1313/en/project/rio-furniture-3/"
                 />
@@ -960,11 +945,6 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/project/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-4/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -989,11 +969,6 @@
     <loc>//localhost:1313/fr/project/rio-furniture-5/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en-US"
                 href="//localhost:1313/en/project/rio-furniture-5/"
                 />
@@ -1014,11 +989,6 @@
                 />
   </url><url>
     <loc>//localhost:1313/fr/project/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="//localhost:1313/project/rio-furniture-6/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"

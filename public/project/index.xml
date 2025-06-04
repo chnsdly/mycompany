@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>我们的产品 on Hengli Lithium New Energy (Linyi) Tech Co., Ltd.</title>
+    <title>Projects on Hengli Lithium New Energy (Linyi) Tech Co., Ltd.</title>
     <link>//localhost:1313/project/</link>
-    <description>Recent content in 我们的产品 on Hengli Lithium New Energy (Linyi) Tech Co., Ltd.</description>
+    <description>Recent content in Projects on Hengli Lithium New Energy (Linyi) Tech Co., Ltd.</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <atom:link href="//localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-1/</link>
+      <title></title>
+      <link>//localhost:1313/project/product1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-1/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-2/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-3/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-4/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-5/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Rio Furniture</title>
-      <link>//localhost:1313/project/rio-furniture-6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/project/rio-furniture-6/</guid>
-      <description>&lt;h2 id=&#34;behance-website-redesign&#34;&gt;Behance Website Redesign&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas officiis cumque, harum dicta necessitatibus&#xA;reprehenderit, delectus molestiae, impedit alias adipisci distinctio voluptas. Tempora modi amet voluptate&#xA;at provident soluta consequatur.&lt;/p&gt;</description>
+      <guid>//localhost:1313/project/product1/</guid>
+      <description>&lt;div class=&#34;product-container&#34;&gt;&#xA;&lt;div class=&#34;product-header&#34;&gt;&#xA;  &lt;h1 class=&#34;product-title&#34;&gt;全新磷酸铁锂A品电芯&lt;/h1&gt;&#xA;  &lt;p class=&#34;product-tagline&#34;&gt;值得信赖的选择&lt;/p&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;product-gallery&#34;&gt;&#xA;  &lt;div class=&#34;main-image&#34;&gt;&#xA;    &lt;img id=&#34;main-product-image&#34; src=&#34;//localhost:1313/images/wrapper-img.png&#34; alt=&#34;磷酸铁锂电池主图&#34;&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div class=&#34;thumbnails&#34;&gt;&#xA;    &lt;div class=&#34;thumbnail&#34; onclick=&#34;changeMainImage(&#39;/images/wrapper-img.png&#39;, &#39;整体外观&#39;)&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:1313/images/wrapper-img.png&#34; alt=&#34;整体外观&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;thumbnail&#34; onclick=&#34;changeMainImage(&#39;/images/battery-detail.jpg&#39;, &#39;电池结构&#39;)&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:1313/images/wrapper-img.jpg&#34; alt=&#34;电池结构&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;thumbnail&#34; onclick=&#34;changeMainImage(&#39;/images/feature-bg.jpg&#39;, &#39;应用场景&#39;)&#34;&gt;&#xA;      &lt;img src=&#34;//localhost:1313/images/feature-bg.jpg&#34; alt=&#34;应用场景&#34;&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;script&gt;&#xA;function changeMainImage(src, alt) {&#xA;  document.getElementById(&#39;main-product-image&#39;).src = src;&#xA;  document.getElementById(&#39;main-product-image&#39;).alt = alt;&#xA;  &#xA;  // 可选：添加活动状态的样式&#xA;  const thumbnails = document.querySelectorAll(&#39;.thumbnail&#39;);&#xA;  thumbnails.forEach(thumb =&gt; {&#xA;    thumb.classList.remove(&#39;active&#39;);&#xA;  });&#xA;  event.currentTarget.classList.add(&#39;active&#39;);&#xA;}&#xA;&lt;/script&gt;&#xA;&lt;style&gt;&#xA;/* 添加活动状态样式 */&#xA;.thumbnail.active {&#xA;  border: 2px solid #3498db;&#xA;  box-shadow: 0 0 10px rgba(52, 152, 219, 0.5);&#xA;}&#xA;&#xA;.thumbnail {&#xA;  cursor: pointer;&#xA;  transition: all 0.3s ease;&#xA;  border: 2px solid transparent;&#xA;}&#xA;&#xA;.thumbnail:hover {&#xA;  transform: scale(1.05);&#xA;}&#xA;&lt;/style&gt;&#xA;&lt;div class=&#34;product-specs&#34;&gt;&#xA;  &lt;h2&gt;产品技术规格&lt;/h2&gt;&#xA;  &lt;table&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;th&gt;技术参数&lt;/th&gt;&#xA;      &lt;th&gt;规格详情&lt;/th&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;电池类型&lt;/td&gt;&#xA;      &lt;td&gt;磷酸铁锂（LiFePO₄）动力电池&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;标称电压&lt;/td&gt;&#xA;      &lt;td&gt;12V/24V/48V（可定制）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;额定容量&lt;/td&gt;&#xA;      &lt;td&gt;50Ah-200Ah（支持组串扩容）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;循环寿命&lt;/td&gt;&#xA;      &lt;td&gt;≥2500次（80% DoD，国标测试条件）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;设计寿命&lt;/td&gt;&#xA;      &lt;td&gt;8-10年（25℃标准环境）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;工作温度&lt;/td&gt;&#xA;      &lt;td&gt;-20℃~55℃（支持低温加热选配）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;充电效率&lt;/td&gt;&#xA;      &lt;td&gt;≥95%（0.5C充电速率）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;安装方式&lt;/td&gt;&#xA;      &lt;td&gt;卧式安装（IP65防护等级）&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;    &lt;tr&gt;&#xA;      &lt;td&gt;安全认证&lt;/td&gt;&#xA;      &lt;td&gt;GB/T、CE、UN38.3认证&lt;/td&gt;&#xA;    &lt;/tr&gt;&#xA;  &lt;/table&gt;&#xA;&lt;/div&gt;&#xA;&lt;div class=&#34;product-highlights&#34;&gt;&#xA;  &lt;h2&gt;产品核心优势&lt;/h2&gt;&#xA;  &lt;div class=&#34;highlight&#34;&gt;&#xA;    &lt;h3&gt;⚡ 安全&lt;/h3&gt;&#xA;    &lt;p&gt;采用磷酸铁锂化学体系，热失控温度高达500℃，通过针刺/挤压等极端安全测试，彻底解决三元电池起火风险&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

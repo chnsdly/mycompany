@@ -8,45 +8,22 @@ url = ""
 weight = 1
 
 [[main]]
-name = "关于我们"
+name = "公司概况"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "产品"
-url = "project/"
+name = "产品中心"
+url = "project/product1"
 weight = 3
 
 [[main]]
-name = "新闻"
+name = "公司动态"
 url = "blog/"
 weight = 4
 
 [[main]]
-weight = 5
-name = "更多"
-hasChildren = true
-
-  [[main]]
-  parent = "更多"
-  name = "服务"
-  url = "service/"
-  weight = 1
-
-  [[main]]
-  parent = "更多"
-  name = "价格"
-  url = "pricing/"
-  weight = 2
-
-  [[main]]
-  parent = "更多"
-  name = "常见问题"
-  url = "faq/"
-  weight = 3
-
-[[main]]
-name = "联系方式"
+name = "联系我们"
 url = "contact/"
 weight = 6
 
@@ -78,6 +55,6 @@ url = "faq/"
 weight = 6
 
 [[footer]]
-name = "联系方式"
+name = "联系我们"
 url = "contact/"
 weight = 7
