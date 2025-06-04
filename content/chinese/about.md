@@ -87,7 +87,6 @@ mission_vision:
     illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
     temporibus eos sequi alias hic nemo."
 
-
 ############################# call to action #################################
 cta:
   enable : true

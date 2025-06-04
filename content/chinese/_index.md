@@ -12,9 +12,52 @@ banner:
     link: "project/"
 
 ############################# About #################################
+
 about:
   enable: true
   title: "关于恒锂新能源"
+  subtitle: "全球认证的动力电池专家"
+  description: "通过ISO 9001/CE/UL认证，服务全球30+国家客户"
+  content: |
+    <div class="row">
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h3 class="text-primary">技术创新</h3>
+            <p>50+核心专利 | 能量密度领先行业30%</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h3 class="text-primary">智能制造</h3>
+            <p>全自动化产线 | 不良率<0.01%</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-4 mb-4">
+        <div class="card h-100">
+          <div class="card-body">
+            <h3 class="text-primary">全球服务</h3>
+            <p>7×24小时响应 | 本地化技术支持</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="text-center mt-5">
+      <a href="/certificates" class="d-inline-block mx-2">
+        <img src="images/iso-badge.png" alt="ISO认证" width="120">
+      </a>
+      <a href="/certificates" class="d-inline-block mx-2">
+        <img src="images/ul-badge.png" alt="UL认证" width="120">
+      </a>
+    </div>
+
+about:
+  enable: true
+  title: "关于恒锂新能源1"
   subtitle: "全球认证的动力电池专家"  # 新增副标题，增强层次感
   description: "通过ISO 9001/CE/UL认证，服务全球30+国家客户"  # 合并信息，更紧凑
   content: >
@@ -113,22 +156,11 @@ funfacts:
 
   testimonial_slider:
   # testimonial item loop
-  - name: "Raymond Roy"
+  - name: "魏本龙"
     image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
+    designation: "CEO-恒锂科技"
+    content: "我们始终坚信：动力电池不仅要提供强劲能量，更要为每位用户的安全保驾护航。在动力源，我们用军工级的电池安全标准守护运输从业者的每一趟行程，以2500次循环寿命和零下30度依然可靠的动力输出，成为客户最坚实的后盾。"
 
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
 
 
 ---

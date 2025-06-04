@@ -21,9 +21,9 @@ phone = "0123456789"
 email = "hengli@email.com"
 location = """
 **location**  
-lanshan District  
-linyi city  
-china
+中国
+山东省临沂市
+兰山区解放路100号
 """
 # copyright
 copyright = "© 2025 Hengli Lithium New Energy (Linyi) Tech Co., Ltd."
