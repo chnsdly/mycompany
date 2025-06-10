@@ -1,0 +1,18 @@
+[
+  {
+    "title": "我们的twitter",
+    "description": "All the bare necessities are there.",
+    "icon": "icon-twitter"
+  },
+  {
+    "title": "我们的tiktok",
+    "description": "Light weight and fast loading speed.",
+    "icon": "icon-lightbulb_outline"
+  },
+  {
+    "title": "我们的facebook",
+    "description": "Please fork the Github repository and contribute to this theme!",
+    "icon": "icon-facebook",
+    "link": "https://github.com/opera7133/tella"
+  }
+]
