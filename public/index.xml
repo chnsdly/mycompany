@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tella</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Tella</description>
+    <title>hengli</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on hengli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 11 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example Project</title>
-      <link>https://example.com/products/example/</link>
+      <link>http://localhost:1313/products/example/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>https://example.com/products/example/</guid>
+      <guid>http://localhost:1313/products/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
     </item>
     <item>
       <title>再攀高峰：公司斩获重大订单，荣膺行业巨头核心供应商</title>
-      <link>https://example.com/blog/markdown-syntax/</link>
+      <link>http://localhost:1313/blog/markdown-syntax/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/markdown-syntax/</guid>
+      <guid>http://localhost:1313/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;在新能源动力领域持续深耕的我们，今日迎来又一重要里程碑：公司凭借领先的技术实力与卓越的产品品质，成功斩获某行业领先企业的重大战略订单，并正式成为其核心锂电池供应商。这一深度合作不仅彰显了市场对我们解决方案的高度认可，更标志着公司在动力锂电领域的综合竞争力跃升至全新层级。&lt;/p&gt;&#xA;&lt;p&gt;客户代表在合作确立时表示：“我们系统评估了众多供应商，最终选择贵公司，是基于对贵司深厚技术积累、规模化精益制造能力以及产品一致性的高度信心。我们期待双方建立长期稳定的战略伙伴关系，共同推进动力解决方案的进步。”&lt;/p&gt;&#xA;&lt;p&gt;本次合作的核心产品，正是公司立足市场、引以为傲的标准化锂电平台。该系列产品以方形铝壳磷酸铁锂电池为核心载体，在安全性、能量密度、循环寿命及环境适应性方面均达到行业标杆水准。&lt;/p&gt;&#xA;&lt;p&gt;“成为重要战略客户的核心供应商，是公司发展历程中的一次重大飞跃。” 公司董事长魏本龙表示，“这不仅印证了我们技术路线的正确性和产品的市场竞争力，也为未来开拓更广阔的多元化应用场景奠定了坚实基础。我们将以此为契机，持续加大研发投入，深化精益制造，优化服务体验，以更安全、更高效、更可靠的锂电解决方案，赋能全球合作伙伴，共同驱动绿色能源应用的蓬勃发展。”&lt;/p&gt;&#xA;&lt;p&gt;此次核心供应商地位的取得，是公司市场拓展的重大突破，更是综合实力的有力证明。公司将持续聚焦新能源动力锂电池技术的创新与应用，致力于成为全球客户最值得信赖的合作伙伴，为构建更绿色、更高效的能源未来贡献核心动力。&lt;/p&gt;</description>
     </item>
     <item>
       <title>从过去到未来的创新之路</title>
-      <link>https://example.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;hr&gt;&#xA;&lt;h3 id=&#34;公司简介&#34;&gt;公司简介&lt;/h3&gt;&#xA;&lt;p&gt;恒锂新能源（临沂）有限公司，成立于2013年，是一家专注于动力锂电池研发、生产和销售的高新技术企业。自创立以来，公司致力于为全球新能源领域提供高性能、长寿命的动力电池解决方案。凭借强大的技术创新能力和深厚的行业经验，恒锂新能源在行业中迅速崭露头角，成为国内外知名企业的战略合作伙伴。&lt;/p&gt;&#xA;&lt;h3 id=&#34;过去扎根创新开创先河&#34;&gt;过去：扎根创新，开创先河&lt;/h3&gt;&#xA;&lt;p&gt;恒锂新能源自成立之初，便紧跟科技发展的潮流，投身于锂电池领域。通过多年的技术积累和研发投入，公司在锂电池的能量密度、充电速度和安全性等方面取得了显著突破。2015年，恒锂新能源的第一代动力电池正式投放市场，并迅速获得了行业认可。至今，公司已累计为全球数十家知名新能源汽车厂商提供了稳定可靠的电池产品，为推动全球绿色交通革命贡献了自己的力量。&lt;/p&gt;&#xA;&lt;h3 id=&#34;现在精益求精引领行业&#34;&gt;现在：精益求精，引领行业&lt;/h3&gt;&#xA;&lt;p&gt;进入2020年代，恒锂新能源在创新的道路上继续探索前行。公司不仅加大了对电池材料和技术的研发投入，还致力于智能化、电动化的生产方式升级。通过智能化工厂的建设和自动化生产线的引进，恒锂新能源成功实现了生产效率和产品质量的双重提升。&lt;/p&gt;&#xA;&lt;p&gt;目前，恒锂新能源的产品已经广泛应用于多个领域，服务网络覆盖国内外市场。无论是在技术研发还是在产品质量保障方面，恒锂新能源都以严格的标准要求自己，始终处于行业的领先地位。&lt;/p&gt;&#xA;&lt;h3 id=&#34;未来持续创新携手共进&#34;&gt;未来：持续创新，携手共进&lt;/h3&gt;&#xA;&lt;p&gt;展望未来，恒锂新能源将继续秉承“创新驱动、绿色发展”的企业理念，持续提升产品性能，拓展更多应用场景。未来，公司将聚焦以下几个方面：&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;技术创新&lt;/strong&gt;：恒锂新能源将进一步加大对锂电池新技术的研发投入，特别是在电池管理系统（BMS）、固态电池以及快充技术等领域，不断推动电池技术的突破。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;全球布局&lt;/strong&gt;：公司计划在海外市场进一步扩展，并积极布局欧洲、北美等新能源汽车需求旺盛的区域，以适应全球电动化浪潮的快速发展。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;可持续发展&lt;/strong&gt;：公司将加大绿色环保技术的研发力度，探索锂电池回收和再利用的可行性，以推动循环经济的发展。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;智能制造&lt;/strong&gt;：恒锂新能源还将在智能化制造和自动化生产方面做出更多努力，推动产业升级，为全球客户提供更高效、更环保的产品。&lt;/p&gt;&#xA;&lt;p&gt;通过持续的技术创新和全球化战略布局，恒锂新能源将不断提升在全球电池产业中的竞争力，并在未来成为全球新能源动力电池解决方案的领先提供商。&lt;/p&gt;&#xA;&lt;h3 id=&#34;结语&#34;&gt;结语&lt;/h3&gt;&#xA;&lt;p&gt;从2013年创业至今，恒锂新能源（临沂）有限公司始终以技术创新为驱动，在动力锂电池行业取得了令人瞩目的成绩。面对未来，公司将继续秉承创新精神，在全球新能源产业的浪潮中乘风破浪，为可持续发展的未来贡献力量。&lt;/p&gt;</description>
     </item>
     <item>
       <title>扬帆出海：公司强势启动海外市场战略布局</title>
-      <link>https://example.com/blog/rich-content/</link>
+      <link>http://localhost:1313/blog/rich-content/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/rich-content/</guid>
+      <guid>http://localhost:1313/blog/rich-content/</guid>
       <description>&lt;p&gt;在成功巩固国内新能源动力锂电池市场领先地位后，公司正式吹响进军海外市场的号角。依托强大的技术实力、卓越的产品品质和规模化制造优势，公司将以自信的姿态和积极进取的精神，将安全、高效、可靠的锂电解决方案推向更广阔的国际舞台，深度参与全球绿色能源转型浪潮。&lt;/p&gt;&#xA;&lt;p&gt;“我们的产品在安全性、性能与可靠性上已历经国内严苛市场环境的充分验证，获得了核心战略客户的高度认可。这赋予我们充足的信心去迎接全球市场的挑战与机遇。”公司总经理魏本龙在战略启动会上强调，“海外拓展是公司发展的必然战略选择，也是我们技术自信、产品自信的集中体现。我们已做好充分准备，以开放的心态、专业的服务，为全球不同区域的客户创造价值。”&lt;/p&gt;&#xA;&lt;p&gt;本次海外战略布局的核心优势在于：&lt;/p&gt;&#xA;&lt;p&gt;技术自信，产品为王： 核心产品采用领先的方形铝壳磷酸铁锂技术路线，具备高安全、长寿命、宽温域、强一致性的显著优势，完美契合全球市场对动力电池的核心诉求。产品平台成熟稳定，性能指标对标国际先进水准。&lt;/p&gt;&#xA;&lt;p&gt;精益智造，产能保障： 公司拥有行业领先的高度自动化、智能化生产线，具备强大的规模化交付能力和稳定的品质输出，可有效支撑国际市场的快速响应与大批量需求。&lt;/p&gt;&#xA;&lt;p&gt;认证先行，合规运营： 公司高度重视国际市场准入规则，核心产品正积极推进包括UN38.3、IEC 62619、UL等在内的多项国际主流安全与性能认证，确保产品符合目标市场法规要求，为顺利进入全球市场铺平道路。&lt;/p&gt;&#xA;&lt;p&gt;海外市场拓展初期，公司将聚焦于轻型电动车需求旺盛且对高品质锂电池解决方案有迫切需求的区域，同时积极探索其他多元化动力应用场景的海外机遇。公司将通过参与国际行业展会、深化与海外渠道伙伴合作、开展精准市场推广等多种方式，提升品牌国际知名度与影响力。&lt;/p&gt;</description>
     </item>
     <item>
       <title>创新引擎：公司核心技术研发再突破</title>
-      <link>https://example.com/blog/placeholder-text/</link>
+      <link>http://localhost:1313/blog/placeholder-text/</link>
       <pubDate>Sun, 08 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/placeholder-text/</guid>
+      <guid>http://localhost:1313/blog/placeholder-text/</guid>
       <description>&lt;p&gt;在电池技术飞速迭代的浪潮中，公司研发中心再次传来振奋人心的捷报。依托强大的自主研发实力和前瞻性技术布局，公司在核心材料体系、电池结构设计及系统集成等关键技术领域实现重大突破，显著提升了产品综合性能，进一步夯实了公司在动力锂电领域的核心竞争力与行业引领地位。此次突破标志着公司技术研发能力迈上新台阶，为满足全球市场对高性能、高安全、长寿命锂电池的持续升级需求提供了强大支撑。&lt;/p&gt;&#xA;&lt;p&gt;雄厚人才基石，驱动创新引擎&#xA;持续的研发突破源于公司对顶尖人才队伍的战略性投入与构建。公司汇聚了一支高水平、专业化、跨学科研发团队。团队在电化学、材料科学、结构设计、热管理及智能制造等领域拥有深厚积淀，形成了强大的协同创新能力。公司高度重视人才培养与激励，建立了完善的知识产权体系和创新容错机制，营造了“勇于探索、敢于突破”的研发氛围，使创新活力源源不断。&lt;/p&gt;&#xA;&lt;p&gt;此次技术突破聚焦于提升电池的核心性能指标：&lt;/p&gt;&#xA;&lt;p&gt;能量密度跃升： 通过材料体系创新与工艺优化，新一代技术平台在保证高安全性的前提下，实现了能量密度的显著提升，为终端应用提供更持久的续航能力。&lt;/p&gt;&#xA;&lt;p&gt;循环寿命再攀高峰： 在关键材料界面稳定性和结构设计上取得突破，大幅延长了电池在严苛工况下的使用寿命，有效降低全生命周期成本。&lt;/p&gt;&#xA;&lt;p&gt;安全性能全方位强化： 在主动安全和被动防护机制上实现多重优化升级，构建起更完善、更可靠的安全保障体系。&lt;/p&gt;&#xA;&lt;p&gt;快充性能优化： 改善了锂离子在极端条件下的迁移效率，提升了产品的快充能力与用户体验。&lt;/p&gt;&#xA;&lt;p&gt;此次研发里程碑的达成，是公司向“技术驱动型全球领先企业”目标迈进的关键一步。它不仅将直接赋能现有产品线的升级迭代，为公司开拓高端市场、服务全球顶尖客户提供强大技术背书，更彰显了公司以创新引领行业发展的决心与实力。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>https://example.com/blog/math-typesetting/</link>
+      <link>http://localhost:1313/blog/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/math-typesetting/</guid>
+      <guid>http://localhost:1313/blog/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>https://example.com/blog/emoji-support/</link>
+      <link>http://localhost:1313/blog/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/emoji-support/</guid>
+      <guid>http://localhost:1313/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;To contact us, please fill out the form below.&lt;/p&gt;&#xA;&lt;form name=&#34;contact&#34; action=&#34;https://getform.io/&#34; method=&#34;POST&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Name&#34; name=&#34;name&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Email&#34; name=&#34;mail&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;input type=&#34;text&#34; placeholder=&#34;Title&#34; name=&#34;title&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;input&#34;&gt;&#xD;&#xA;        &lt;textarea rows=&#34;5&#34; cols=&#34;30&#34; placeholder=&#34;Message&#34; name=&#34;message&#34; class=&#34;p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500&#34; required&gt;&lt;/textarea&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;    &lt;input type=&#34;submit&#34; value=&#34;Submit&#34; class=&#34;px-8 py-2 duration-200 bg-gray-800 text-white cursor-pointer transition-colors hover:bg-gray-400&#34;&gt;&#xD;&#xA;&lt;/form&gt;</description>
     </item>
   </channel>
