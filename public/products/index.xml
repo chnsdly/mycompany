@@ -1,18 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Products on hengli</title>
+    <title>产品目录 on hengli</title>
     <link>http://localhost:1313/products/</link>
-    <description>Recent content in Products on hengli</description>
+    <description>Recent content in 产品目录 on hengli</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 23 Jun 2020 12:33:45 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Project</title>
-      <link>http://localhost:1313/products/example/</link>
+      <title>容量 60V30AH</title>
+      <link>http://localhost:1313/products/6030/</link>
       <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
-      <guid>http://localhost:1313/products/example/</guid>
+      <guid>http://localhost:1313/products/6030/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V60AH</title>
+      <link>http://localhost:1313/products/6060/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/6060/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V80AH</title>
+      <link>http://localhost:1313/products/6080/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/6080/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V100AH</title>
+      <link>http://localhost:1313/products/60100/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/60100/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V120AH</title>
+      <link>http://localhost:1313/products/60120/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/60120/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V150AH</title>
+      <link>http://localhost:1313/products/60150/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/60150/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V160AH</title>
+      <link>http://localhost:1313/products/60160/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/60160/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>容量 60V180AH</title>
+      <link>http://localhost:1313/products/60180/</link>
+      <pubDate>Tue, 23 Jun 2020 12:33:45 +1000</pubDate>
+      <guid>http://localhost:1313/products/60180/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec accumsan dapibus purus, vel maximus erat facilisis vel. Suspendisse eu ipsum consequat, sodales nulla vel, faucibus velit. Fusce imperdiet lacus nec cursus auctor. In vulputate arcu et nulla placerat, nec pulvinar quam rhoncus. Praesent vel placerat nunc. Mauris elit felis, pulvinar egestas risus ut, fermentum ullamcorper orci. Integer tempor, neque sed fermentum eleifend, ligula est tincidunt purus, sodales semper elit enim ut mi. Vestibulum commodo tristique hendrerit. Duis interdum tristique augue id aliquam. Sed et tellus aliquam, accumsan erat at, facilisis tortor. Donec ac sapien sed lectus ullamcorper ultrices. Nullam placerat mauris nec urna rhoncus, vitae faucibus nulla venenatis. Donec vestibulum justo auctor, vestibulum diam quis, egestas erat. Vivamus volutpat et metus ut fermentum. Donec volutpat neque nec quam lacinia, nec faucibus felis ullamcorper.&lt;/p&gt;</description>
     </item>
   </channel>
