@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ or .Site.Language.Lang "ja" }}">
+<html lang="{{ or .Site.Language.Lang "zh" }}">
 
 <head>
   {{- partial "head.html" . -}}
@@ -7,8 +7,8 @@
 </head>
 
 <body class="flex flex-col min-h-screen">
+  {{- partial "header.html" . -}}
   <main class="flex-grow">
-    {{- partial "header.html" . -}}
     <div class="scroll-top rounded-full">
       <span class="icon-keyboard_arrow_up text-2xl"></span>
     </div>
