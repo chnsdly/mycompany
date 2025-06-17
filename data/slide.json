@@ -1,11 +1,11 @@
 [
   {
-    "title": "安全 · 动力 · 未来",
+    "title": "安全 · 科技 · 未来",
     "image": "img/slide/slide01.jpg"
   },
   {
     "title": "创新 · 品质 · 信赖",
     "image": "img/slide/slide02.jpg",
-    "color": "text-black"
+    "color": "text-white"
   }
 ]
