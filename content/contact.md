@@ -1,12 +1,6 @@
 ---
 title: 'Contact'
 ---
-
-To contact us, please fill out the form below.
-
-{{< form >}}
----
-
 --- 
 ## **📱 联系方式**
 
@@ -26,11 +20,10 @@ To contact us, please fill out the form below.
 - **Facebook**: [YourFacebookPage](https://www.facebook.com/YourFacebookPage)  
 
 ---
-
-## **📍 地图位置**
-[点击查看地图](https://maps.google.com?q=中国临沂市北京路100号)
+To contact us, please fill out the form below.
+{{< form >}}
 
 ---
-
 > ⏰ **工作时间**：周一至周五 9:00-18:00  
 > 📧 **紧急联系**：优先通过电话或邮件沟通。
+---
