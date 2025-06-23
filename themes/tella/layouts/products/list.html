@@ -1,197 +1,186 @@
 {{ define "main" }}
 
 <link rel="stylesheet" href="/css/product.css">
-<div class="product-container">
-
-<div class="product-header">
-  <h1 class="product-title">全新动力磷酸铁锂A品电芯</h1>
-  <p class="product-tagline">值得信赖的选择</p>
-</div>
-
-<div class="product-gallery">
-  <div class="main-image">
-    <img id="main-product-image" src="/img/product/battery.jpg" alt="电池主图">
-  </div>
-  
-  <div class="thumbnails">
-    <div class="thumbnail" onclick="changeMainImage('/img/product/battery.jpg', '整体外观')">
-      <img src="/img/product/battery.jpg" alt="整体外观">
+<div class="container">
+  <section id="hero" class="hero-section">
+    <div class="hero-content">
+      <h2>领先的动力锂电池专家</h2>
+      <p>提供高性能、长寿命、更安全的动力锂电池解决方案。</p>
+      <a href="/products" class="btn-primary">查看产品目录</a>
     </div>
-    <div class="thumbnail" onclick="changeMainImage('/img/product/battery1.jpg', '外观细节')">
-      <img src="/img/product/battery1.jpg" alt="电池结构">
-    </div>
-    <div class="thumbnail" onclick="changeMainImage('/img/product/battery2.jpg', '外观')">
-      <img src="/img/product/battery2.jpg" alt="应用场景">
-    </div>
-  </div>
-</div>
+  </section>
 
-<script>
-function changeMainImage(src, alt) {
-  document.getElementById('main-product-image').src = src;
-  document.getElementById('main-product-image').alt = alt;
-  
-  // 可选：添加活动状态的样式
-  const thumbnails = document.querySelectorAll('.thumbnail');
-  thumbnails.forEach(thumb => {
-    thumb.classList.remove('active');
-  });
-  event.currentTarget.classList.add('active');
-}
-</script>
-
-
-<div class="product-specs">
-  <h2>产品技术规格</h2>
-  <table>
-    <tr>
-      <th>技术参数</th>
-      <th>规格详情</th>
-    </tr>
-    <tr>
-      <td>电池类型</td>
-      <td>磷酸铁锂（LiFePO₄）动力电池</td>
-    </tr>
-    <tr>
-      <td>标称电压</td>
-      <td>12V/24V/48V/60V/72V</td>
-    </tr>
-    <tr>
-      <td>额定容量</td>
-      <td>50Ah-200Ah（支持组串扩容）</td>
-    </tr>
-    <tr>
-      <td>循环寿命</td>
-      <td>≥2500次（80% DoD，国标测试条件）</td>
-    </tr>
-    <tr>
-      <td>设计寿命</td>
-      <td>8-10年（25℃标准环境）</td>
-    </tr>
-    <tr>
-      <td>工作温度</td>
-      <td>-20℃~55℃</td>
-    </tr>
-    <tr>
-      <td>充电效率</td>
-      <td>≥95%（0.5C充电速率）</td>
-    </tr>
-    <tr>
-      <td>安装方式</td>
-      <td>卧式安装（IP65防护等级）</td>
-    </tr>
-    <tr>
-      <td>安全认证</td>
-      <td>GB/T、CE、UN38.3认证</td>
-    </tr>
-  </table>
-</div>
-
-<div class="product-highlights">
-  <h2>产品核心优势</h2>
-  
-  <div class="highlight">
-    <h3>⚡ 安全</h3>
-    <p>采用磷酸铁锂化学体系，热失控温度高达500℃，通过针刺/挤压等极端安全测试，彻底解决三元电池起火风险</p>
-  </div>
-  
-  <div class="highlight">
-    <h3>🔄 超长寿命</h3>
-    <p>2500次循环后容量保持率＞80%，日历寿命达10年，较铅酸电池使用成本降低60%</p>
-  </div>
-  
-  <div class="highlight">
-    <h3>❄️ 低温战神</h3>
-    <p>-20℃低温环境下仍保持85%容量输出，可选配智能预热系统，攻克北方冬季续航痛点</p>
-  </div>
-  
-  <div class="highlight">
-    <h3>🏋️ 高能密度</h3>
-    <p>体积能量密度达300Wh/L，同等容量下比铅酸电池轻40%，有效提升车辆载重能力</p>
-  </div>
-  
-  <div class="highlight">
-    <h3>🔧 即装即用</h3>
-    <p>标准化接口设计，兼容市面主流三四轮车电气系统，支持铅酸电池原位替换</p>
-  </div>
-</div>
-
-<div class="testimonials">
-  <h2>用户反馈</h2>
-  
-  <div class="review">
-    <div class="rating">★★★★★</div>
-    <p>"换了这套电池后，我的快递三轮车续航从80公里提升到130公里，每天少充一次电，半年就省出了电池钱！充电站老板都说我最近去得少了。"</p>
-    <div class="reviewer">- 王强，物流公司配送员 | 使用10个月</div>
-  </div>
-  
-  <div class="review">
-    <div class="rating">★★★★★</div>
-    <p>"在黑龙江用了两个冬天，零下25度照样能启动，以前铅酸电池到这个温度只能跑三分之一路程，现在至少能保证70%续航，终于不用推车了。"</p>
-    <div class="reviewer">- 赵雪峰，哈尔滨菜贩 | 使用2个冬季</div>
-  </div>
-  
-  <div class="review">
-    <div class="rating">★★★★☆</div>
-    <p>"电池管理系统很精准，手机能实时看到剩余电量百分比，再也不用像以前那样靠电压猜电量了。就是快充时发热稍微明显，建议配套散热更好的充电器。"</p>
-    <div class="reviewer">- 李师傅，电动车维修店主 | 测试15组电池</div>
-  </div>
-
-<div class="faq">
-  <h2>常见问题解答</h2>
-  
-  <details>
-    <summary>订单的生产周期是多久？</summary>
-    <p>常规订单在付款确认后3-5个工作日内发货，批量订单可能需要7-10天的生产时间。</p>
-  </details>
-  
-  <details>
-    <summary>接受小批量订单吗？</summary>
-    <p>支持最小10件的样品订单，方便您验证产品质量。具体需求欢迎通过邮件或电话与我们沟通。</p>
-  </details>
-  
-  <details>
-    <summary>支持哪些付款方式？</summary>
-    <p>我们接受电汇(T/T)、支付宝、PayPal以及阿里巴巴担保交易，保障资金安全。</p>
-  </details>
-  
-  <details>
-    <summary>如何处理质量问题？</summary>
-    <p>提供1年质保服务，只需提供问题产品照片/视频，我们将立即安排换货或退款。</p>
-  </details>
-  
-  <details>
-    <summary>发货到哪些国家？</summary>
-    <p>目前通过DHL/联邦快递覆盖欧美、东南亚地区，具体运费和时效欢迎咨询。</p>
-  </details>
-  
-  <details>
-    <summary>有进出口资质吗？</summary>
-    <p>我们拥有完整的进出口经营权，可提供原产地证、质检报告等全套清关文件。</p>
-  </details>
-  
-  <details>
-    <summary>如何获取更多产品信息？</summary>
-    <p>欢迎随时联系我们的外贸团队：<br>
-    电话：+86 123 4567 8910<br>
-    邮箱：export@yourcompany.com<br>
-    工作日9:00-18:00在线响应</p>
-  </details>
-</div>
-
-</div>
-
-
-
-<div class="mx-auto my-10 max-w-6xl">
-    <div class="mx-3 col-span-3 lg:col-span-2 px-2">
-        <h1 class="title text-5xl mb-4">{{.Title}}</h1>
-        <div class="content py-1">{{.Content}}</div>
-        <div class="grid grid-cols-1 md:grid-cols-2 mb-2 gap-2">
-        {{ range .Pages.ByWeight }}
-        {{ .Render "summary" }}
-        {{ end }}
+  <section id="about" class="section-padded">
+    <div class="container">
+      <h3>创新驱动，品质为本</h3>
+      <div class="grid-2-columns">
+        <div class="text-content">
+          <h4>研发团队</h4>
+          <p>
+            作为新能源领域的先行者，我们深知核心技术对于产品力的重要性。公司拥有强大的<strong>核心研发团队</strong>，汇聚行业顶尖专家，致力于锂电池前沿技术的探索与创新。我们凭借自主知识产权和多项专利技术，确保产品始终走在行业前沿。
+          </p>
+          <h4>质量管理</h4>
+          <p>
+            每一块出厂的电池都承载着我们对品质的承诺。我们建立了<strong>严格的质量管理体系</strong>，从原材料采购、电芯筛选到生产组装，再到出厂前的多重检测，每一步都精益求精，确保为您提供性能卓越、安全可靠的高品质电池产品。
+          </p>
         </div>
+        <div class="image-content">
+          <img src="/img/product/company.jpg" alt="核心研发团队照片" class="img-responsive">
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="products" class="section-padded bg-light">
+    <div class="container">
+      <h3>我们的产品：卓越性能，安心之选</h3>
+      <div class="product-gallery">
+        <div class="product-item">
+          <img src="/img/product/product1.jpg" alt="电动三轮车锂电池产品图1">
+          <h4>高性能</h4>
+          <p>适用于各类电动三轮车，提供强劲动力支持。</p>
+        </div>
+        <div class="product-item">
+          <img src="/img/product/product2.jpg" alt="电动三轮车锂电池产品图2">
+          <h4>耐用型</h4>
+          <p>专为高强度使用设计，循环寿命长，持久耐用。</p>
+        </div>
+        <div class="product-item">
+          <img src="/img/product/product3.jpg" alt="电动三轮车锂电池产品图3">
+          <h4>智能安全</h4>
+          <p>内置BMS智能管理系统，多重保护，用电无忧。</p>
+        </div>
+      </div>
+      <p class="text-center mt-4">（更多产品信息请联系客服获取详细资料）</p>
+    </div>
+  </section>
+
+  <section id="features" class="section-padded">
+    <div class="container">
+      <h3>核心优势：技术领先，安全可靠</h3>
+      <div class="features-grid">
+        <div class="feature-item">
+          <i class="fa-solid fa-battery-full"></i> <!-- A品电芯图标 (或 fa-solid fa-microchip, fa-solid fa-flask) -->
+          <h4>大单体A品电芯</h4>
+          <p>采用汽车级A品电芯，能量密度高，寿命更长，安全性更高。</p>
+        </div>
+
+        <div class="feature-item">
+          <i class="fa-solid fa-temperature-low"></i> <!-- 耐低温图标 -->
+          <h4>耐低温零下20°C</h4>
+          <p>严寒条件下性能依然稳定，轻松应对冬季出行挑战。</p>
+        </div>
+        <div class="feature-item">
+          <i class="fa-solid fa-arrows-rotate"></i> <!-- 可达2500次循环图标 (表示循环/刷新) -->
+          <h4>可达2500次循环</h4>
+          <p>超长循环寿命，经久耐用，为您节省长期使用成本。</p>
+        </div>
+        <div class="feature-item">
+          <i class="fa-solid fa-microchip"></i> <!-- BMS智能芯片图标 -->
+          <h4>BMS智能芯片</h4>
+          <p>内置智能BMS，实时监测电池状态，全面解决用电安全问题。</p>
+        </div>
+        <div class="feature-item">
+          <i class="fa-solid fa-bolt"></i> <!-- 多重模式充电图标 (或 fa-solid fa-charging-station) -->
+          <h4>多重模式充电</h4>
+          <p>兼容多种充电方式，智能匹配，快速高效。</p>
+        </div>
+
+
+        <div class="feature-item">
+          <i class="fa-solid fa-award"></i> <!-- 三年质保图标 -->
+          <h4>三年质保</h4>
+          <p>我们承诺为您提供三年超长质保服务，让您使用无忧。</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="bms-section">
+      <h3>BMS智能保护板：您的安全守护者</h3>
+      <div class="grid-2-columns">
+        <div class="bms-image">
+          <img src="/img/product/bluetooth.jpg" alt="内部蓝牙软件保护板展示图" class="img-responsive">
+          <p class="image-caption">蓝牙智能BMS保护板实拍</p>
+        </div>
+        <div class="bms-functions">
+          <ul>
+            <li><i class="icon-check"></i> <strong>过充保护：</strong> 防止电池过度充电，延长寿命。</li>
+            <li><i class="icon-check"></i> <strong>过压保护：</strong> 避免电压过高损坏电池。</li>
+            <li><i class="icon-check"></i> <strong>过放保护：</strong> 防止过度放电，保护电芯。</li>
+            <li><i class="icon-check"></i> <strong>短路保护：</strong> 遇短路立即切断，保障安全。</li>
+            <li><i class="icon-check"></i> <strong>反接保护：</strong> 有效防止电池反接损坏。</li>
+            <li><i class="icon-check"></i> <strong>过流保护：</strong> 智能监测电流，防止过载。</li>
+          </ul>
+          <p>通过专属蓝牙APP，您可实时查看电池状态、健康度等信息，尽享智能便利。</p>
+        </div>
+      </div>
+      <div class="text-center mt-4">
+        <p>提供 **60V / 72V** 多种电压选择，容量覆盖 **30Ah 至 200Ah**，满足不同续航需求。</p>
+      </div>
     </div>
 </div>
-{{ end }}
+</section>
+
+<section id="applications" class="section-padded bg-light">
+  <div class="container">
+    <h3>应用场景：动力强劲，无所不能</h3>
+    <div class="application-grid">
+      <div class="app-item">
+        <img src="/img/product/battery.jpg" alt="电动载客三轮车">
+        <h4>电动载客三轮车</h4>
+        <p>稳定续航，保障日常运营。</p>
+      </div>
+      <div class="app-item">
+        <img src="/img/product/battery.jpg" alt="电动载货三轮车">
+        <h4>电动载货三轮车</h4>
+        <p>强劲动力，轻松应对重载运输。</p>
+      </div>
+      <div class="app-item">
+        <img src="/img/product/battery.jpg" alt="休闲代步三轮车">
+        <h4>休闲代步三轮车</h4>
+        <p>平稳舒适，享受绿色出行。</p>
+      </div>
+      <div class="app-item">
+        <img src="/img/product/battery.jpg" alt="专用电动车辆">
+        <h4>专用电动车辆</h4>
+        <p>可定制化方案，满足特殊需求。</p>
+      </div>
+    </div>
+    <div class="workshop-section mt-5">
+      <h4>生产车间：卓越品质的源泉</h4>
+      <div class="grid-2-columns">
+        <img src="workshop-1.jpg" alt="车间生产线图片1" class="img-responsive">
+        <img src="workshop-2.jpg" alt="车间生产线图片2" class="img-responsive">
+      </div>
+      <p class="text-center mt-3">我们采用先进的自动化生产设备和严格的工艺流程，确保每一块电池都符合高标准要求。</p>
+    </div>
+  </div>
+</section>
+
+<section id="join-us" class="section-padded">
+  <div class="container text-center">
+    <h3>诚招代理商：共创辉煌，携手共赢</h3>
+    <p>我们正积极拓展市场，诚挚邀请有志之士加入我们的代理商网络，共同推广优质新能源锂电池产品。</p>
+    <div class="agent-benefits">
+      <div class="benefit-item">
+        <i class="icon-support"></i>
+        <h5>丰厚利润空间</h5>
+        <p>有竞争力的代理价格和灵活的合作模式。</p>
+      </div>
+      <div class="benefit-item">
+        <i class="icon-marketing"></i>
+        <h5>全方位市场支持</h5>
+        <p>提供品牌宣传、营销物料及培训支持。</p>
+      </div>
+      <div class="benefit-item">
+        <i class="icon-tech"></i>
+        <h5>专业技术服务</h5>
+        <p>强大的技术团队提供及时、专业的售后服务。</p>
+      </div>
+    </div>
+    <p class="mt-4">如果您对新能源产业充满热情，并具备良好的市场拓展能力，欢迎与我们联系！</p>
+    <a href="/contact" class="btn-primary">立即联系我们</a>
+  </div>
+</section>
+</div>
+{{end}}
