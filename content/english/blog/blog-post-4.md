@@ -1,52 +1,75 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-4.jpg"
+title: "Customer Case: Solving the Efficiency Puzzle in the 'Last Three Kilometers'"
+date: 2024-08-20T11:07:10+06:00
+author: Wei Benlong
+image : "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Legacy Support"]
-tags: ["Mechine","Retro"]
-description: "this is meta description"
+categories: ["Customer Cases"]
+tags: ["Logistics Transportation", "New Energy"]
+description: "Hengli New Energy Empowers Hutong Express to Build Agile Urban Micro-Distribution Electric Fleet"
 draft: false
 type: "post"
 ---
 
+**Client**  
+**`Hutong Express Supply Chain (Shanghai) Co., Ltd.`**  
+**Industry:** Urban supply chain distribution, community retail/pharmaceutical instant delivery  
+**Application Scenario:** High-frequency, small-batch "last three kilometers" distribution in urban cores (using small electric trikes and micro-vans)  
+**Cooperation Period:** June 2023 - Present  
+**Products Used:** Hengli New Energy High-Energy-Density, Long-Life LiFePO4 (LFP) Battery Packs  
+<!--more-->
+## Client Challenges: "Range Anxiety" in Alleyway Navigation
+Hutong Express, a leading Shanghai supply chain provider for convenience stores, pharmacies and e-commerce platforms, operates fleets of small electric trikes and micro-vans (0.6-1 ton class) for high-frequency urban deliveries.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+Their electrification journey faced unique small-vehicle challenges:
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+### "200km Daily Range" Insufficient
+Existing batteries couldn't sustain full loads with AC/heating in frequent start-stop operations, forcing mid-shift recharging.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+### "Minute-Counting" Charging Time
+Drivers wasted hours daily with 4-6 hour slow charging at service points, reducing vehicle utilization.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+### Reliability Under "Bumpy Road Tests"
+Shanghai's brick alleyways caused connector failures and BMS errors in existing batteries.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+### TCO Pressure in "Cost-Sensitive" Operations
+Short battery life and frequent repairs eroded thin profit margins.
+
+## Hengli Solution: Enduring Power for "Urban Sprites"
+Customized HL-M50 Series LiFePO4 batteries addressed these pain points:
+
+### Compact High-Energy Packs
+50-60 kWh HL-M50 packs (15% higher volumetric density) fit small vehicles while extending range.
+
+### "Coffee Break" Fast Charging
+1.5C fast charging enables 30%-80% recharge during 40-45 min lunch breaks.
+
+### Vibration-Tough Design
+Reinforced aluminum shells with cushioning structures pass rigorous vibration tests.
+
+### Extended Life Economics
+>3500 cycles (@80% DoD) with 5-year/300,000-km warranty reduce per-km costs.
+
+## Results: Efficiency-Cost Transformation
+Since late 2023 deployment, Hutong Express's fleet has transformed:
+
+### Range Breakthrough
+**220-250 km** real-world range (peak **280 km/day**) eliminates "afternoon anxiety".
+
+### Efficiency Leap
+- **+1.8 hrs** daily operation via lunch charging
+- **15% higher** deliveries per driver
+- **>98% fleet availability** (vs. 92% previously)
+
+### Cost Optimization
+- **>60% lower** energy costs vs. fuel vehicles
+- **40% fewer** battery-related repairs
+- Industry-leading TCO for thin-margin operations
+
+### Flawless Safety Record
+Zero safety incidents after **200+ km/day** operation on Shanghai's toughest roads.
+
+## Client Testimonial
+> "Hengli's HL-M50 batteries solved our urban delivery bottleneck. Drivers now 'recharge to full' during lunch and deliver farther with confidence. Their durability amazed us - minimal failures despite Shanghai's bumpy roads. Beyond the robust product, Hengli's team offers rapid, insightful service. These batteries are trusted partners for our 'city navigators'! We're phasing out older batteries across our fleet."  
+> **— Zhang Wei, Operations Director**  
+> *Hutong Express Supply Chain (Shanghai) Co., Ltd.*

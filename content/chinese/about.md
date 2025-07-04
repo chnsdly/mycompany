@@ -1,6 +1,6 @@
 ---
-title: "我们致力于动力电池的全球引领者"
-description: "自公司创立以来，恒锂新能源始终专注动力电池核心技术，以全球认证的安全、高效、可靠产品，驱动绿色能源变革，承诺一个更可持续的未来"
+title: "恒锂新能源 · 动力电池技术引领者"
+description: "我们始终专注动力电池核心技术研发，以安全、高效、可靠产品，驱动绿色能源变革"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -59,12 +59,12 @@ features:
   # feature item loop
   - icon : "fas fa-flask"
     name : "核心专利技术"
-    content : "150+ 项全球电池技术专利，构筑行业技术壁垒"
+    content : "72+ 项全球电池技术专利，构筑行业技术壁垒"
 
   # feature item loop
   - icon : "fas fa-industry"
     name : "年产能规模"
-    content : "10+ GWh 智能化生产线，满足全球市场需求"
+    content : "5+ GWh 智能化生产线，满足全球市场需求"
 
   # feature item loop
   - icon : "fas fa-car"
@@ -74,7 +74,7 @@ features:
   # feature item loop
   - icon : "fas fa-shield-alt"
     name : "国际安全认证"
-    content : "20+ 项全球安全认证，包括UL/IEC/UN38.3"
+    content : "20+ 项全球安全认证"
 
   # feature item loop
   - icon : "fas fa-certificate"

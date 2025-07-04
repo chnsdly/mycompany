@@ -6,69 +6,41 @@
     <description>Recent content in Tags on Hengli | Energy</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To</title>
-      <link>http://localhost:1313/es/tags/how-to/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/tags/how-to/</guid>
+      <title>Energía Nueva</title>
+      <link>http://localhost:1313/es/tags/energ%C3%ADa-nueva/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/energ%C3%ADa-nueva/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/es/tags/technology/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/tags/technology/</guid>
+      <title>Transporte Logístico</title>
+      <link>http://localhost:1313/es/tags/transporte-log%C3%ADstico/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/transporte-log%C3%ADstico/</guid>
       <description></description>
     </item>
     <item>
-      <title>Advice</title>
-      <link>http://localhost:1313/es/tags/advice/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/advice/</guid>
+      <title>Mercado</title>
+      <link>http://localhost:1313/es/tags/mercado/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/mercado/</guid>
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/es/tags/ai/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/ai/</guid>
+      <title>Negocios Corporativos</title>
+      <link>http://localhost:1313/es/tags/negocios-corporativos/</link>
+      <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/negocios-corporativos/</guid>
       <description></description>
     </item>
     <item>
-      <title>Android</title>
-      <link>http://localhost:1313/es/tags/android/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Company</title>
-      <link>http://localhost:1313/es/tags/company/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/company/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mechine</title>
-      <link>http://localhost:1313/es/tags/mechine/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/mechine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/es/tags/news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retro</title>
-      <link>http://localhost:1313/es/tags/retro/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/tags/retro/</guid>
+      <title>I&#43;D</title>
+      <link>http://localhost:1313/es/tags/i&#43;d/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/tags/i&#43;d/</guid>
       <description></description>
     </item>
   </channel>

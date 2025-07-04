@@ -38,22 +38,26 @@
     <loc>http://localhost:1313/chinese/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/android/</loc>
+    <loc>http://localhost:1313/english/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spanish/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spanish/blog/blog-post-4/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/casos-cliente/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/tags/android/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/android/"
+                href="http://localhost:1313/es/categories/casos-cliente/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/android/"
+                href="http://localhost:1313/categories/casos-cliente/"
                 />
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -89,23 +93,72 @@
                 href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/retro/</loc>
+    <loc>http://localhost:1313/blog/blog-post-4/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/tags/retro/"
+                href="http://localhost:1313/es/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/retro/"
+                href="http://localhost:1313/zh/blog/blog-post-4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/retro/"
+                href="http://localhost:1313/blog/blog-post-4/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-4/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/customer-cases/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/energ%C3%ADa-nueva/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/energ%C3%ADa-nueva/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/energ%C3%ADa-nueva/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/blog/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/spanish/blog/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/logistics-transportation/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/new-energy/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
@@ -140,6 +193,19 @@
                 href="http://localhost:1313/tags/"
                 />
   </url><url>
+    <loc>http://localhost:1313/tags/transporte-log%C3%ADstico/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/transporte-log%C3%ADstico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/transporte-log%C3%ADstico/"
+                />
+  </url><url>
     <loc>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
     <xhtml:link
@@ -159,8 +225,103 @@
     <loc>http://localhost:1313/chinese/blog/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/%E6%96%B0%E8%83%BD%E6%BA%90/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/%E6%96%B0%E8%83%BD%E6%BA%90/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/%E6%96%B0%E8%83%BD%E6%BA%90/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/%E7%89%A9%E6%B5%81%E8%BF%90%E8%BE%93/</loc>
+    <lastmod>2024-08-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/%E7%89%A9%E6%B5%81%E8%BF%90%E8%BE%93/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/%E7%89%A9%E6%B5%81%E8%BF%90%E8%BE%93/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/categories/actividades-de-mercado/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/categories/actividades-de-mercado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/categories/actividades-de-mercado/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/blog/blog-post-3/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-3/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/blog/blog-post-3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-3/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/market/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/market-activities/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/mercado/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/mercado/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/mercado/"
+                />
+  </url><url>
     <loc>http://localhost:1313/chinese/blog/blog-post-3/</loc>
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%B8%82%E5%9C%BA/</loc>
+    <lastmod>2024-05-20T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/%E5%B8%82%E5%9C%BA/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/%E5%B8%82%E5%9C%BA/"
+                />
   </url><url>
     <loc>http://localhost:1313/categories/%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8/</loc>
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
@@ -175,29 +336,123 @@
                 href="http://localhost:1313/categories/%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/advice/</loc>
+    <loc>http://localhost:1313/spanish/blog/blog-post-2/</loc>
+    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-2/</loc>
     <lastmod>2023-09-24T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/tags/advice/"
+                href="http://localhost:1313/es/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/advice/"
+                href="http://localhost:1313/zh/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/advice/"
+                href="http://localhost:1313/blog/blog-post-2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-2/</loc>
+    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/corporate-business/</loc>
+    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/negocios-corporativos/</loc>
+    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/negocios-corporativos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/negocios-corporativos/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/tags/%E5%85%AC%E5%8F%B8%E4%B8%9A%E5%8A%A1/</loc>
+    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/%E5%85%AC%E5%8F%B8%E4%B8%9A%E5%8A%A1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/%E5%85%AC%E5%8F%B8%E4%B8%9A%E5%8A%A1/"
                 />
   </url><url>
     <loc>http://localhost:1313/chinese/blog/blog-post-2/</loc>
     <lastmod>2023-09-24T11:07:10+06:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/categories/avance-tecnol%C3%B3gico/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/categories/avance-tecnol%C3%B3gico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/categories/avance-tecnol%C3%B3gico/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/blog/blog-post-1/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/blog/blog-post-1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/i&#43;d/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/tags/i&#43;d/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/tags/i&#43;d/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/blog/blog-post-1/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rd/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technology-breakthrough/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/chinese/blog/blog-post-1/</loc>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4/</loc>
-    <lastmod>2023-09-24T11:07:10+06:00</lastmod>
+    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -209,29 +464,18 @@
                 href="http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/technology/</loc>
+    <loc>http://localhost:1313/tags/%E7%A0%94%E5%8F%91/</loc>
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/technology/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/technology/"
+                href="http://localhost:1313/zh/tags/%E7%A0%94%E5%8F%91/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/technology/"
+                href="http://localhost:1313/tags/%E7%A0%94%E5%8F%91/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/chinese/blog/blog-post-1/</loc>
-    <lastmod>2022-09-08T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/</loc>
-    <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/french/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
@@ -240,9 +484,6 @@
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/italian/</loc>
-    <lastmod>2021-04-01T00:00:00-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/</loc>
     <lastmod>2021-04-01T00:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/chinese/faq/</loc>
@@ -283,37 +524,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/how-to/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/how-to/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/how-to/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/english/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/french/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
@@ -321,26 +531,7 @@
     <loc>http://localhost:1313/italian/blog/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spanish/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/german/blog/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/date-i18n/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/date-i18n/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/english/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/french/blog/date-i18n/</loc>
@@ -352,188 +543,28 @@
     <loc>http://localhost:1313/italian/blog/date-i18n/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spanish/blog/date-i18n/</loc>
-    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/technical-assistance/</loc>
     <lastmod>2021-04-01T00:00:00+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/technical-assistance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/technical-assistance/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/tags/technology/</loc>
+    <lastmod>2021-04-01T00:00:00+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/advice/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/ai/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/tags/android/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/artificial-intelligence/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/artificial-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/artificial-intelligence/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/company/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/company/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/company/"
-                />
   </url><url>
     <loc>http://localhost:1313/categories/company-news/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/company-news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/company-news/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/blog-post-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/blog-post-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/blog-post-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/blog/blog-post-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/blog/blog-post-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/blog/blog-post-6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/english/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/french/blog/blog-post-1/</loc>
@@ -590,62 +621,17 @@
     <loc>http://localhost:1313/italian/blog/blog-post-6/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-1/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-2/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-3/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-4/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-5/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/spanish/blog/blog-post-6/</loc>
-    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/legacy-support/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/legacy-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/legacy-support/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/mechine/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/mechine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/mechine/"
-                />
   </url><url>
     <loc>http://localhost:1313/tags/news/</loc>
     <lastmod>2018-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/news/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/news/"
-                />
+  </url><url>
+    <loc>http://localhost:1313/tags/retro/</loc>
+    <lastmod>2018-09-24T11:07:10+06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/chinese/message_sent/</loc>
   </url><url>
@@ -676,30 +662,446 @@
   </url><url>
     <loc>http://localhost:1313/spanish/message_sent/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-7/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/about/"
+                href="http://localhost:1313/es/products/rio-furniture-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/about/"
+                href="http://localhost:1313/zh/products/rio-furniture-7/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/about/"
+                href="http://localhost:1313/products/rio-furniture-7/"
                 />
   </url><url>
-    <loc>http://localhost:1313/english/about/</loc>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-9/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-9/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-9/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-11/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-11/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-11/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-12/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-12/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-12/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-14/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-14/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-14/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-16/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-16/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-16/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-16/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-18/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-18/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-18/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-18/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-18/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-18/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-18/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-1/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-3/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-5/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-5/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-5/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-8/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-8/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-8/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-10/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-10/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-13/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-13/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-13/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-15/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-15/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-15/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-17/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-17/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-17/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-19/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-19/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-19/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-2/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-4/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/rio-furniture-6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/rio-furniture-6/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/rio-furniture-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/rio-furniture-6/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/rio-furniture-6/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/rio-furniture-6/</loc>
   </url><url>
     <loc>http://localhost:1313/french/about/</loc>
   </url><url>
     <loc>http://localhost:1313/italian/about/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/about/</loc>
   </url><url>
     <loc>http://localhost:1313/author/</loc>
     <xhtml:link
@@ -746,6 +1148,48 @@
     <loc>http://localhost:1313/italian/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/spanish/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/spanish/products/</loc>
+  </url><url>
+    <loc>http://localhost:1313/english/products/</loc>
+  </url><url>
+    <loc>http://localhost:1313/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/about/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/english/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/spanish/about/</loc>
   </url><url>
     <loc>http://localhost:1313/author/john-doe/</loc>
     <xhtml:link
@@ -832,54 +1276,9 @@
   </url><url>
     <loc>http://localhost:1313/spanish/pricing/</loc>
   </url><url>
-    <loc>http://localhost:1313/english/products/</loc>
-  </url><url>
     <loc>http://localhost:1313/french/project/</loc>
   </url><url>
     <loc>http://localhost:1313/italian/project/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-5/</loc>
-  </url><url>
-    <loc>http://localhost:1313/chinese/products/rio-furniture-6/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-5/</loc>
-  </url><url>
-    <loc>http://localhost:1313/english/products/rio-furniture-6/</loc>
   </url><url>
     <loc>http://localhost:1313/french/project/rio-furniture-1/</loc>
   </url><url>
@@ -916,120 +1315,6 @@
     <loc>http://localhost:1313/italian/project/rio-furniture-5/</loc>
   </url><url>
     <loc>http://localhost:1313/italian/project/rio-furniture-6/</loc>
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-1/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-2/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-3/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-5/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-5/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-5/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/products/rio-furniture-6/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/rio-furniture-6/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-6/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-2/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-5/</loc>
-  </url><url>
-    <loc>http://localhost:1313/spanish/products/rio-furniture-6/</loc>
   </url><url>
     <loc>http://localhost:1313/german/contact/</loc>
   </url><url>

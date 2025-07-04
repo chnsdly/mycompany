@@ -10,20 +10,6 @@
     <atom:link href="http://localhost:1313/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pretty-print dates</title>
-      <link>http://localhost:1313/blog/date-i18n/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/blog/date-i18n/</guid>
-      <description>&lt;p&gt;To write out an &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO 8601&lt;/a&gt; timestamp in the current language, you can use the &lt;code&gt;date_l10n&lt;/code&gt; shortcode:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pretty-print dates</title>
-      <link>http://localhost:1313/english/blog/date-i18n/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/english/blog/date-i18n/</guid>
-      <description>&lt;p&gt;To write out an &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO 8601&lt;/a&gt; timestamp in the current language, you can use the &lt;code&gt;date_l10n&lt;/code&gt; shortcode:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pretty-print dates</title>
       <link>http://localhost:1313/french/blog/date-i18n/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/french/blog/date-i18n/</guid>
@@ -42,13 +28,6 @@
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
       <guid>http://localhost:1313/italian/blog/date-i18n/</guid>
       <description>&lt;p&gt;Per scrivere un timestamp &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO 8601&lt;/a&gt; nella lingua corrente, puoi usare lo shortcode &lt;code&gt;date_l10n&lt;/code&gt; :&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pretty-print dates</title>
-      <link>http://localhost:1313/spanish/blog/date-i18n/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/spanish/blog/date-i18n/</guid>
-      <description>&lt;p&gt;To write out an &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO 8601&lt;/a&gt; timestamp in the current language, you can use the &lt;code&gt;date_l10n&lt;/code&gt; shortcode:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

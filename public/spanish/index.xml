@@ -23,17 +23,17 @@
       <description></description>
     </item>
     <item>
-      <title>About Our Company</title>
-      <link>http://localhost:1313/spanish/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/spanish/about/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Drop Us A Note</title>
       <link>http://localhost:1313/spanish/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/spanish/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hengli New Energy · Líder en Tecnología de Baterías para Vehículos</title>
+      <link>http://localhost:1313/spanish/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spanish/about/</guid>
       <description></description>
     </item>
     <item>

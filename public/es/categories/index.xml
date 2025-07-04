@@ -6,34 +6,27 @@
     <description>Recent content in Categories on Hengli | Energy</description>
     <generator>Hugo</generator>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/es/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technical Assistance</title>
-      <link>http://localhost:1313/es/categories/technical-assistance/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/es/categories/technical-assistance/</guid>
+      <title>Casos Cliente</title>
+      <link>http://localhost:1313/es/categories/casos-cliente/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/categories/casos-cliente/</guid>
       <description></description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/es/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/categories/artificial-intelligence/</guid>
+      <title>Actividades De Mercado</title>
+      <link>http://localhost:1313/es/categories/actividades-de-mercado/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/categories/actividades-de-mercado/</guid>
       <description></description>
     </item>
     <item>
-      <title>Company News</title>
-      <link>http://localhost:1313/es/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/categories/company-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Legacy Support</title>
-      <link>http://localhost:1313/es/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/es/categories/legacy-support/</guid>
+      <title>Avance Tecnológico</title>
+      <link>http://localhost:1313/es/categories/avance-tecnol%C3%B3gico/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>http://localhost:1313/es/categories/avance-tecnol%C3%B3gico/</guid>
       <description></description>
     </item>
   </channel>

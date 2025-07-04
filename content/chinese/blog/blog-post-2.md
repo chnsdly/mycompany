@@ -5,7 +5,7 @@ author: 魏本龙
 image : "images/blog/news2.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["市场活动"]
-tags: ["Advice","Retro"]
+tags: ["公司业务"]
 description: "this is meta description"
 draft: false
 type: "post"
