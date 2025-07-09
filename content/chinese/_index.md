@@ -7,7 +7,7 @@ banner:
   title: "领航绿色动力未来  成就恒锂百年品牌"
   content: ""
   button:
-    enable: false
+    enable: ture
     label: "查看产品"
     link: "products/"
 

@@ -483,7 +483,7 @@ China</div></li>
   </div>
 </section>
       
-<div id="map" style="height: 400px; width: 1200px; margin: 20px auto 0 auto;"></div>
+<div id="map" style="height: 400px; width: 1170px; margin: 0px auto 20px auto;"></div>
 
 
 <link rel="stylesheet" href="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css" />
@@ -498,14 +498,14 @@ China</div></li>
       const el = document.getElementById('map');
       if (!el) return;
 
-      const latitude = "35.101525";
-      const longitude = "118.348651";
+      const latitude = "35.015956";
+      const longitude = "118.400828";
       const address = `Xincheng Technology Tower`;
 
       const map = L.map('map').setView([latitude, longitude], 15);
 
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '&copy; <a href="https://openstreetmap.org">OpenStreetMap</a> contributors'
+        attribution: '&copy;OpenStreetMap contributors'
       }).addTo(map);
 
       L.marker([latitude, longitude]).addTo(map).bindPopup(address).openPopup();
