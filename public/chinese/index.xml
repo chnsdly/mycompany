@@ -23,13 +23,6 @@
       <description></description>
     </item>
     <item>
-      <title>Drop Us A Note</title>
-      <link>http://localhost:1313/chinese/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/chinese/contact/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>John Doe</title>
       <link>http://localhost:1313/chinese/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -58,10 +51,24 @@
       <description></description>
     </item>
     <item>
-      <title>恒锂新能源 · 动力电池技术引领者</title>
+      <title>恒锂新能源科技（临沂）有限公司 </title>
       <link>http://localhost:1313/chinese/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/chinese/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>权威认证 ｜ 实力铸就信任 </title>
+      <link>http://localhost:1313/chinese/honors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/honors/</guid>
+      <description>&lt;h2 id=&#34;我们的荣誉与认证&#34;&gt;我们的荣誉与认证&lt;/h2&gt;&#xA;&lt;p&gt;凭借卓越的品质和持续的创新，我们荣获了多项行业认可与权威认证。这些荣誉不仅是对我们技术实力和管理水平的肯定，更是客户对我们信任的基石。&lt;/p&gt;&#xA;&lt;p&gt;以下是我们获得的部分重要证书：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>联系我们</title>
+      <link>http://localhost:1313/chinese/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/chinese/contact/</guid>
       <description></description>
     </item>
   </channel>

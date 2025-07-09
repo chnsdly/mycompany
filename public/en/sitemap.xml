@@ -662,6 +662,8 @@
   </url><url>
     <loc>http://localhost:1313/spanish/message_sent/</loc>
   </url><url>
+    <loc>http://localhost:1313/chinese/products/rio-furniture-20/</loc>
+  </url><url>
     <loc>http://localhost:1313/chinese/products/rio-furniture-7/</loc>
   </url><url>
     <loc>http://localhost:1313/english/products/rio-furniture-7/</loc>
@@ -1122,8 +1124,6 @@
   </url><url>
     <loc>http://localhost:1313/german/service/</loc>
   </url><url>
-    <loc>http://localhost:1313/chinese/contact/</loc>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1352,6 +1352,10 @@
     <loc>http://localhost:1313/german/pricing/</loc>
   </url><url>
     <loc>http://localhost:1313/chinese/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/honors/</loc>
+  </url><url>
+    <loc>http://localhost:1313/chinese/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/chinese/products/</loc>
   </url>

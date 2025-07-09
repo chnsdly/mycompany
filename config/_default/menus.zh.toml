@@ -17,6 +17,11 @@ url = "products/"
 weight = 3
 
 [[main]]
+name = "荣誉资质"
+url = "honors/"
+weight = 3
+
+[[main]]
 name = "新闻"
 url = "blog/"
 weight = 4

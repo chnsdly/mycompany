@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>极限能量，持久动力 on Hengli | Energy</title>
+    <title>高性能磷酸铁锂（LFP）电池组 on Hengli | Energy</title>
     <link>http://localhost:1313/zh/products/</link>
-    <description>Recent content in 极限能量，持久动力 on Hengli | Energy</description>
+    <description>Recent content in 高性能磷酸铁锂（LFP）电池组 on Hengli | Energy</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     <atom:link href="http://localhost:1313/zh/products/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>24V-72V</title>
+      <link>http://localhost:1313/zh/products/rio-furniture-20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/zh/products/rio-furniture-20/</guid>
+      <description></description>
+    </item>
     <item>
       <title>60V100Ah</title>
       <link>http://localhost:1313/zh/products/rio-furniture-7/</link>

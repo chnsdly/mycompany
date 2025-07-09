@@ -1,0 +1,32 @@
+{{/* layouts/partials/leaflet-map.html */}}
+<div id="map" style="height: 400px; width: 1170px; margin: 0px auto 20px auto;"></div>
+
+<!-- Leaflet 样式 -->
+<link rel="stylesheet" href="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css" />
+
+<!-- Leaflet 脚本 -->
+<script src="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js"></script>
+
+<!-- 地图初始化脚本 -->
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    setTimeout(() => {
+      const el = document.getElementById('map');
+      if (!el) return;
+
+      const latitude = {{ default "35.101525" .latitude }};
+      const longitude = {{ default "118.348651" .longitude }};
+      const address = `{{ default "Xincheng Technology Tower" .address | safeHTML }}`;
+
+      const map = L.map('map').setView([latitude, longitude], 15);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy;OpenStreetMap contributors'
+      }).addTo(map);
+
+      L.marker([latitude, longitude]).addTo(map).bindPopup(address).openPopup();
+
+      map.invalidateSize();
+    }, 300);
+  });
+</script>

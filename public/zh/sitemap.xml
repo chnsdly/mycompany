@@ -330,6 +330,8 @@
                 href="http://localhost:1313/zh/message_sent/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/products/rio-furniture-20/</loc>
+  </url><url>
     <loc>http://localhost:1313/zh/products/rio-furniture-7/</loc>
     <xhtml:link
                 rel="alternate"
@@ -670,23 +672,6 @@
                 href="http://localhost:1313/zh/author/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/contact/"
-                />
-  </url><url>
     <loc>http://localhost:1313/zh/author/john-doe/</loc>
     <xhtml:link
                 rel="alternate"
@@ -755,6 +740,23 @@
                 href="http://localhost:1313/zh/service/"
                 />
   </url><url>
+    <loc>http://localhost:1313/zh/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/"
+                />
+  </url><url>
     <loc>http://localhost:1313/zh/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -772,21 +774,23 @@
                 href="http://localhost:1313/zh/about/"
                 />
   </url><url>
-    <loc>http://localhost:1313/zh/products/</loc>
+    <loc>http://localhost:1313/zh/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/"
+                href="http://localhost:1313/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/"
+                href="http://localhost:1313/es/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/"
+                href="http://localhost:1313/zh/contact/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/zh/honors/</loc>
   </url>
 </urlset>

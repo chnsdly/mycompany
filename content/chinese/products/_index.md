@@ -1,6 +1,6 @@
 ---
-title: "极限能量，持久动力"
-description: "领先固态电池技术，超高能量密度与卓越安全性，为您的电动车与储能系统注入澎湃续航"
+title: "高性能磷酸铁锂（LFP）电池组"
+description: "采用车规级A品电芯，兼具高安全与高能量密度。"
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---

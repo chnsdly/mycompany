@@ -1,6 +1,6 @@
 ---
-title: "恒锂新能源 · 动力电池技术引领者"
-description: "我们始终专注动力电池核心技术研发，以安全、高效、可靠产品，驱动绿色能源变革"
+title: "恒锂新能源科技（临沂）有限公司 "
+description: "专注动力电池技术研发，用安全、高效的产品，驱动绿色能源变革"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
@@ -16,8 +16,8 @@ about:
   **质量管理**<br/><br/>每一块出厂的电池都承载着我们对品质的承诺。我们建立了严格的质量管理体系，从原材料采购、电芯筛选到生产组装，再到出厂前的多重检测，每一步都精益求精，确保为您提供性能卓越、安全可靠的高品质电池产品。"
 
   button:
-    enable : false
-    label : "Download Company Profile"
+    enable : true
+    label : "下载产品型号文档"
     link : "#"
 
   funfacts:
@@ -54,12 +54,12 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "恒锂新能源：数字见证的动力电池领导力"
+  title : "恒锂新能源：数字见证专业"
   feature_item:
   # feature item loop
   - icon : "fas fa-flask"
     name : "核心专利技术"
-    content : "72+ 项全球电池技术专利，构筑行业技术壁垒"
+    content : "72项全球技术专利，构筑行业技术标准"
 
   # feature item loop
   - icon : "fas fa-industry"
@@ -79,21 +79,40 @@ features:
   # feature item loop
   - icon : "fas fa-certificate"
     name : "产品可靠性"
-    content : "＜50 PPM 缺陷率，行业领先的质量标准"
+    content : "超低缺陷率，行业领先的质量标准"
 
   # feature item loop
   - icon : "fas fa-globe-asia"
     name : "国际业务覆盖"
-    content : "产品出口30+ 国家地区，服务全球客户"
+    content : "产品出口30+ 国家，服务全球客户"
+
+# 个人加入模块，磷酸铁锂电池产品模块配置
+product_section:
+  enable: true
+  header_title: "专注磷酸铁锂电池，赋能您的产品"
+  header_text: |
+    我们是一家专注于研发和生产高品质磷酸铁锂（LFP）电池的企业。凭借先进的技术和严格的质量控制体系，我们致力于为各行业客户提供安全、可靠、长寿命的能源解决方案。
+
+  feature1:
+    title: "OEM 及 Logo 定制服务"
+    content: |
+        我们提供灵活的 OEM服务以及专属Logo 定制。方便根据您的品牌形象进行个性化定制。
+
+  feature2:
+    title: "核心电芯技术优势"
+    content: |
+        我们采用高品质磷酸铁锂电芯，超长循环寿命、卓越安全性能、宽温域适应性、高能量密度。
+
+  feature3:
+    title: "欢迎莅临考察"
+    content: |
+        我们诚挚邀请您莅临我们的工厂进行实地考察，亲身了解我们的生产流程和技术实力。
 
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
 
 mission_vision:
-  enable : true
+  enable : false
   tabs:
   # tab item loop
   - id: "vision"
