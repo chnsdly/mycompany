@@ -34,6 +34,9 @@ google_tag_manager = "" # example: G-XXXXXXXXXX
 # recaptch v3 site key
 recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 
+[assets]
+customCSS = ["css/custom.css"]
+
 [contact.form]
 enable = true
 # Whether to use [Netlify Forms](https://docs.netlify.com/forms/setup/)

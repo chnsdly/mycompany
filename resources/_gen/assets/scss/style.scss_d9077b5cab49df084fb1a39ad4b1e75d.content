@@ -67,17 +67,17 @@ a:focus,
 a:hover {
   text-decoration: none;
   outline: 0;
-  color: #655e7a; }
+  color: #EB6100; }
 
 blockquote {
   font-size: 18px;
-  border-color: #655e7a;
+  border-color: #EB6100;
   padding: 20px 40px;
   text-align: left;
   color: #737373; }
 
 .navbar-toggle .icon-bar {
-  background: #655e7a; }
+  background: #EB6100; }
 
 input[type="email"],
 input[type="password"],
@@ -92,20 +92,20 @@ input[type="tel"] {
   input[type="text"]:focus,
   input[type="tel"]:focus {
     box-shadow: none;
-    border: 1px solid #655e7a; }
+    border: 1px solid #EB6100; }
 
 .form-control {
   box-shadow: none;
   border-radius: 0; }
   .form-control:focus {
     box-shadow: none;
-    border: 1px solid #655e7a; }
+    border: 1px solid #EB6100; }
 
 .slick-slide {
   outline: 0; }
 
 .btn-main, .btn-small, .btn-transparent {
-  background: #655e7a;
+  background: #EB6100;
   color: #ffffff;
   display: inline-block;
   font-size: 14px;
@@ -123,7 +123,7 @@ input[type="tel"] {
     vertical-align: middle;
     margin-right: 5px; }
   .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-    background: #353240;
+    background: #853700;
     color: #ffffff; }
 
 .btn-solid-border {
@@ -131,16 +131,16 @@ input[type="tel"] {
   background: transparent;
   color: #ffffff; }
   .btn-solid-border:hover {
-    border: 1px solid #655e7a;
-    background: #655e7a; }
+    border: 1px solid #EB6100;
+    background: #EB6100; }
 
 .btn-transparent {
   background: transparent;
   padding: 0;
-  color: #655e7a; }
+  color: #EB6100; }
   .btn-transparent:hover {
     background: transparent;
-    color: #655e7a; }
+    color: #EB6100; }
 
 .btn-large {
   padding: 20px 45px; }
@@ -210,13 +210,13 @@ input[type="tel"] {
   background: #f5f5f5; }
 
 .bg-primary {
-  background: #655e7a; }
+  background: #EB6100; }
 
 .bg-primary-dark {
-  background: #4d485d; }
+  background: #b84c00; }
 
 .bg-primary-darker {
-  background: #353240; }
+  background: #853700; }
 
 .bg-dark {
   background: #202122; }
@@ -380,15 +380,15 @@ input[type="tel"] {
   .tabCommon .nav-tabs li {
     margin-right: 5px; }
   .tabCommon .nav-tabs li.active a {
-    background-color: #655e7a;
-    border: 1px solid #655e7a;
+    background-color: #EB6100;
+    border: 1px solid #EB6100;
     color: #ffffff; }
   .tabCommon .nav-tabs a {
     border-radius: 0;
     background: #f5f5f5; }
     .tabCommon .nav-tabs a:hover {
       border: 1px solid transparent;
-      background: #655e7a;
+      background: #EB6100;
       color: #ffffff; }
 
 .tabCommon .tab-content {
@@ -441,7 +441,7 @@ input[type="tel"] {
 
 .alert-solid {
   background: transparent;
-  color: #655e7a; }
+  color: #EB6100; }
 
 @media (max-width: 480px) {
   .buttonPart li {
@@ -462,12 +462,12 @@ input[type="tel"] {
     right: 0;
     width: 100%;
     height: 100%;
-    background: #292732;
+    background: #6c2c00;
     opacity: 0.8; }
 
 .owl-dots .owl-dot.active span,
 .owl-theme .owl-dots .owl-dot:hover span {
-  background: #655e7a !important; }
+  background: #EB6100 !important; }
 
 #success,
 #error {
@@ -618,13 +618,13 @@ header .navbar-default .navbar-nav li a:hover {
         -o-transition: color 0.1s ease, padding 0.3s ease;
         transition: color 0.1s ease, padding 0.3s ease; }
         .navigation .navbar .dropdown-menu a:hover {
-          background: #655e7a;
+          background: #EB6100;
           color: #ffffff;
           padding-left: 25px; }
       .navigation .navbar .dropdown-menu a.current {
         padding-left: 25px;
         color: #ffffff;
-        background: #655e7a; }
+        background: #EB6100; }
 
 .nav .open > a {
   background: transparent; }
@@ -730,7 +730,7 @@ header .navbar-default .navbar-nav li a:hover {
     padding-bottom: 30px; }
     .service .service-item i {
       font-size: 50px;
-      color: #655e7a; }
+      color: #EB6100; }
     .service .service-item h4 {
       padding-top: 15px;
       margin: 0;
@@ -1015,8 +1015,7 @@ header .navbar-default .navbar-nav li a:hover {
   height: 300px; }
 
 .contact-box {
-  padding-top: 35px;
-  padding-bottom: 58px; }
+  padding-top: 35px; }
   .contact-box .block img {
     width: 100%; }
   .contact-box .block h2 {
@@ -1044,7 +1043,7 @@ header .navbar-default .navbar-nav li a:hover {
     color: #626262; }
     .pricing-table .pricing-item li i {
       margin-right: 6px;
-      color: #655e7a; }
+      color: #EB6100; }
 
 .pricing-table .price-title {
   padding: 30px 0 20px; }
@@ -1059,7 +1058,7 @@ header .navbar-default .navbar-nav li a:hover {
     line-height: 18px;
     margin-top: 5px; }
   .pricing-table .price-title .value {
-    color: #655e7a;
+    color: #EB6100;
     font-size: 50px;
     padding: 10px 0; }
 
@@ -1111,7 +1110,7 @@ header .navbar-default .navbar-nav li a:hover {
           font-size: 18px; }
           .product-item .product-thumb .preview-meta li a:hover,
           .product-item .product-thumb .preview-meta li span:hover {
-            background: #655e7a;
+            background: #EB6100;
             color: #ffffff; }
   .product-item:hover .product-thumb:before {
     opacity: 1; }
@@ -1465,9 +1464,9 @@ header .navbar-default .navbar-nav li a:hover {
     width: 100%; }
 
 .dashboard-menu .active {
-  background: #655e7a;
+  background: #EB6100;
   color: #ffffff;
-  border: 1px solid #655e7a; }
+  border: 1px solid #EB6100; }
 
 .dashboard-menu li {
   padding: 0;
@@ -1547,7 +1546,7 @@ header .navbar-default .navbar-nav li a:hover {
     margin-bottom: 0px;
     font-weight: 500; }
     .post-comments .comment-author a {
-      color: #655e7a;
+      color: #EB6100;
       font-size: 14px;
       text-transform: uppercase; }
   .post-comments time {
@@ -1556,7 +1555,7 @@ header .navbar-default .navbar-nav li a:hover {
     color: #7c7c7c;
     font-size: 12px; }
   .post-comments .comment-button {
-    color: #655e7a;
+    color: #EB6100;
     display: inline-block;
     margin-left: 5px;
     font-size: 12px; }
@@ -1564,7 +1563,7 @@ header .navbar-default .navbar-nav li a:hover {
       margin-right: 5px;
       display: inline-block; }
     .post-comments .comment-button:hover {
-      color: #655e7a; }
+      color: #EB6100; }
 
 .post-excerpt h3 a {
   color: #000000; }
@@ -1577,7 +1576,7 @@ header .navbar-default .navbar-nav li a:hover {
   .post-excerpt blockquote.quote-post p {
     line-height: 30px;
     font-size: 20px;
-    color: #655e7a; }
+    color: #EB6100; }
 
 .single-blog {
   background-color: #fff;
@@ -1599,7 +1598,7 @@ header .navbar-default .navbar-nav li a:hover {
   .next-prev a {
     color: #000000; }
     .next-prev a:hover {
-      color: #655e7a; }
+      color: #EB6100; }
   .next-prev .prev-post i {
     margin-right: 10px; }
   .next-prev .next-post i {
@@ -1613,7 +1612,7 @@ header .navbar-default .navbar-nav li a:hover {
     display: block;
     font-size: 16px; }
     .social-profile ul li a i:hover {
-      color: #655e7a; }
+      color: #EB6100; }
 
 .comments-section {
   margin-top: 35px; }
@@ -1647,7 +1646,7 @@ header .navbar-default .navbar-nav li a:hover {
     font-size: 14px;
     margin-bottom: 8px; }
     .comment-wrap .media .media-heading a {
-      color: #655e7a;
+      color: #EB6100;
       font-size: 13px; }
   .comment-wrap .media .comment-meta {
     font-size: 12px;
@@ -1665,7 +1664,7 @@ header .navbar-default .navbar-nav li a:hover {
     .comment-reply-form input:focus,
     .comment-reply-form textarea:focus {
       box-shadow: none;
-      border: 1px solid #655e7a; }
+      border: 1px solid #EB6100; }
   .comment-reply-form textarea,
   .comment-reply-form .btn-main,
   .comment-reply-form .btn-transparent,
@@ -1727,11 +1726,11 @@ header .navbar-default .navbar-nav li a:hover {
       .widget.widget-category ul li a:before {
         padding-right: 10px; }
       .widget.widget-category ul li a:hover {
-        color: #655e7a;
+        color: #EB6100;
         padding-left: 25px; }
       .widget.widget-category ul li a:active {
         padding-left: 24px;
-        border: 1px solid #655e7a;
+        border: 1px solid #EB6100;
         border-radius: 30px;
         -webkit-transition: padding 0s ease-in-out;
         -moz-transition: padding 0s ease-in-out;
@@ -1740,8 +1739,8 @@ header .navbar-default .navbar-nav li a:hover {
         transition: padding 0s ease-in-out; }
     .widget.widget-category ul li a.current {
       color: #ffffff;
-      background: #655e7a;
-      border: 1px solid #655e7a;
+      background: #EB6100;
+      border: 1px solid #EB6100;
       border-radius: 30px;
       pointer-events: none;
       cursor: default; }
@@ -1762,12 +1761,12 @@ header .navbar-default .navbar-nav li a:hover {
       -o-transition: background-color 0.3s ease, border 0.3s ease, color 0.1s ease;
       transition: background-color 0.3s ease, border 0.3s ease, color 0.1s ease; }
       .widget.widget-tag ul li a:hover {
-        color: #655e7a;
-        background: rgba(101, 94, 122, 0.3);
-        border: 1px solid rgba(101, 94, 122, 0.3); }
+        color: #EB6100;
+        background: rgba(235, 97, 0, 0.3);
+        border: 1px solid rgba(235, 97, 0, 0.3); }
       .widget.widget-tag ul li a:active {
-        color: #655e7a;
-        border: 1px solid #655e7a;
+        color: #EB6100;
+        border: 1px solid #EB6100;
         background: #ffffff;
         -webkit-transition: background-color 0.1s ease;
         -moz-transition: background-color 0.1s ease;
@@ -1776,8 +1775,8 @@ header .navbar-default .navbar-nav li a:hover {
         transition: background-color 0.1s ease; }
     .widget.widget-tag ul li a.current {
       color: #ffffff;
-      background: #655e7a;
-      border: 1px solid #655e7a;
+      background: #EB6100;
+      border: 1px solid #EB6100;
       pointer-events: none;
       cursor: default; }
 
@@ -1802,9 +1801,9 @@ header .navbar-default .navbar-nav li a:hover {
     margin-top: 25px;
     text-transform: uppercase; }
     .post .post-title a {
-      color: #655e7a; }
+      color: #EB6100; }
       .post .post-title a:hover {
-        color: #655e7a; }
+        color: #EB6100; }
   .post .post-meta {
     font-size: 13px;
     margin-top: 10px; }
@@ -1817,7 +1816,7 @@ header .navbar-default .navbar-nav li a:hover {
       .post .post-meta ul li a {
         color: #909090; }
         .post .post-meta ul li a:hover {
-          color: #655e7a; }
+          color: #EB6100; }
     .post .post-meta .post-author {
       color: #000000; }
   .post .post-content {
@@ -1836,7 +1835,7 @@ header .navbar-default .navbar-nav li a:hover {
     .post .post-content blockquote {
       margin-top: 20px;
       font-size: 18px;
-      border-color: #655e7a;
+      border-color: #EB6100;
       padding: 10px 20px;
       text-align: left;
       color: #737373; }
@@ -1866,11 +1865,11 @@ header .navbar-default .navbar-nav li a:hover {
       transition: all 0.3s ease; }
       .post-pagination > li > a:hover {
         color: #ffffff;
-        background: #655e7a;
-        border: 1px solid #655e7a; }
+        background: #EB6100;
+        border: 1px solid #EB6100; }
     .post-pagination > li.active > a {
-      background: #655e7a !important;
-      border: 1px solid #655e7a !important; }
+      background: #EB6100 !important;
+      border: 1px solid #EB6100 !important; }
   .post-pagination > li:first-child > a,
   .post-pagination > li:last-child > a {
     border-radius: 0; }
@@ -2196,3 +2195,6 @@ header .navbar-default .navbar-nav li a:hover {
             color: #000000; }
   .footer .copyright a {
     font-weight: 600; }
+
+.overly::before, .page-title::before {
+  background: rgba(0, 0, 0, 0.8) !important; }
