@@ -45,49 +45,41 @@ featured_service:
 
 ############################# Service ###############################
 service:
-  enable : true
-  title : "Nuestras Ventajas"
-  description : "Soluciones confiables de baterías de litio para cada recorrido"
+  enable: true
+  title: "Nuestras Ventajas Competitivas"
+  description: "Soluciones de litio fiables para cada trayecto"
   service_item:
-    # service item loop
-    - icon : fas fa-tachometer-alt
-      name: Celdas Grado A
-      content: "Alto rendimiento con respuesta inmediata"
-
-    # service item loop
-    - icon : fas fa-plug
-      name: Multi-Voltaje
+    - icon: fas fa-tachometer-alt
+      name: Células Premium
+      content: "Alta potencia con respuesta inmediata"
+    
+    - icon: fas fa-plug
+      name: Adaptación Multiescenario
       content: "Múltiples configuraciones de voltaje y capacidad"
-
-    # service item loop
-    - icon : fas fa-shield-alt
+    
+    - icon: fas fa-shield-alt
       name: Gestión de Seguridad
-      content: "Protección con sistema BMS inteligente incorporado"
-
-    # service item loop
-    - icon : fas fa-battery-full
-      name: Larga Vida Útil
-      content: "Celdas estables con durabilidad extendida"
-
-    # service item loop
-    - icon : fas fa-microchip
-      name: Tecnología Inteligente
-      content: "Monitoreo en tiempo real y diagnóstico remoto"
-
-    # service item loop
-    - icon : fas fa-leaf
-      name: Ecoeficiencia
-      content: "Materiales y procesos sostenibles que reducen huella de carbono"
-
-    # service item loop
-    - icon : fas fa-feather-alt
-      name: Diseño Liviano
-      content: "Estructura optimizada que reduce peso total"
-
-    # service item loop
-    - icon : fas fa-headset
-      name: Soporte Postventa
-      content: "Atención al cliente 24/7 para solución inmediata"
+      content: "Sistema inteligente BMS integrado"
+    
+    - icon: fas fa-battery-full
+      name: Larga Durabilidad
+      content: "Células estables con ciclo de vida excepcional"
+    
+    - icon: fas fa-microchip
+      name: Conectividad Inteligente
+      content: "Monitorización en tiempo real y diagnóstico remoto"
+    
+    - icon: fas fa-leaf
+      name: Diseño Ecoeficiente
+      content: "Materiales ecológicos que reducen huella de carbono"
+    
+    - icon: fas fa-feather-alt
+      name: Ingeniería Ligera
+      content: "Diseño estructural optimizado para mínimo peso"
+    
+    - icon: fas fa-headset
+      name: Soporte Técnico Continuo
+      content: "Asistencia 24/7 con resolución rápida"
 
 ############################# call to action #################################
 cta:

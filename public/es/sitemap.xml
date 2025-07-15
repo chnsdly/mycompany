@@ -11,23 +11,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
+                hreflang="fr-FR"
                 href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
                 href="http://localhost:1313/it/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -44,6 +44,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/blog/blog-post-4/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/blog/blog-post-4/"
                 />
@@ -55,16 +70,6 @@
   </url><url>
     <loc>http://localhost:1313/es/categories/casos-cliente/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/casos-cliente/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/casos-cliente/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/categories/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
@@ -75,23 +80,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
+                hreflang="fr-FR"
                 href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
                 href="http://localhost:1313/it/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,16 +106,6 @@
   </url><url>
     <loc>http://localhost:1313/es/tags/energ%C3%ADa-nueva/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/energ%C3%ADa-nueva/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/energ%C3%ADa-nueva/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/blog/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
@@ -118,6 +113,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/blog/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/blog/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -139,23 +149,23 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
+                hreflang="fr-FR"
                 href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="it"
+                hreflang="it-IT"
                 href="http://localhost:1313/it/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -165,29 +175,9 @@
   </url><url>
     <loc>http://localhost:1313/es/tags/transporte-log%C3%ADstico/</loc>
     <lastmod>2024-08-20T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/transporte-log%C3%ADstico/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/transporte-log%C3%ADstico/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/categories/actividades-de-mercado/</loc>
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/actividades-de-mercado/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/actividades-de-mercado/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/blog/blog-post-3/</loc>
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
@@ -195,6 +185,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/blog/blog-post-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/blog/blog-post-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -209,16 +214,6 @@
   </url><url>
     <loc>http://localhost:1313/es/tags/mercado/</loc>
     <lastmod>2024-05-20T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/mercado/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/mercado/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/blog/blog-post-2/</loc>
     <lastmod>2023-09-24T11:07:10+06:00</lastmod>
@@ -226,6 +221,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/blog/blog-post-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/blog/blog-post-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -240,42 +250,12 @@
   </url><url>
     <loc>http://localhost:1313/es/tags/negocios-corporativos/</loc>
     <lastmod>2023-09-24T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/negocios-corporativos/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/negocios-corporativos/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/categories/avance-tecnol%C3%B3gico/</loc>
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/avance-tecnol%C3%B3gico/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/categories/avance-tecnol%C3%B3gico/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/tags/i&#43;d/</loc>
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/tags/i&#43;d/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/tags/i&#43;d/"
-                />
   </url><url>
     <loc>http://localhost:1313/es/blog/blog-post-1/</loc>
     <lastmod>2022-09-08T11:07:10+06:00</lastmod>
@@ -283,6 +263,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/blog/blog-post-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/blog/blog-post-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -304,6 +299,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/faq/"
                 />
@@ -318,6 +328,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/message_sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/message_sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/message_sent/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/message_sent/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -661,6 +686,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/author/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/author/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/author/"
                 />
@@ -675,6 +715,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/contact/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -712,6 +767,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/about/"
                 />
@@ -726,6 +796,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/author/john-doe/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/author/john-doe/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -746,6 +831,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/author/mark-dinn/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/author/mark-dinn/"
                 />
@@ -760,6 +860,21 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -780,6 +895,21 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/service/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="zh-cn"
                 href="http://localhost:1313/zh/service/"
                 />
@@ -787,6 +917,38 @@
                 rel="alternate"
                 hreflang="es-ES"
                 href="http://localhost:1313/es/service/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/es/honors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/honors/"
                 />
   </url>
 </urlset>

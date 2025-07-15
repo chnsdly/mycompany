@@ -9,13 +9,6 @@
     <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Energía Nueva</title>
-      <link>http://localhost:1313/tags/energ%C3%ADa-nueva/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/energ%C3%ADa-nueva/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Logistics Transportation</title>
       <link>http://localhost:1313/tags/logistics-transportation/</link>
       <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
@@ -30,45 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Transporte Logístico</title>
-      <link>http://localhost:1313/tags/transporte-log%C3%ADstico/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/transporte-log%C3%ADstico/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>新能源</title>
-      <link>http://localhost:1313/tags/%E6%96%B0%E8%83%BD%E6%BA%90/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/%E6%96%B0%E8%83%BD%E6%BA%90/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>物流运输</title>
-      <link>http://localhost:1313/tags/%E7%89%A9%E6%B5%81%E8%BF%90%E8%BE%93/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/%E7%89%A9%E6%B5%81%E8%BF%90%E8%BE%93/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Market</title>
       <link>http://localhost:1313/tags/market/</link>
       <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
       <guid>http://localhost:1313/tags/market/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mercado</title>
-      <link>http://localhost:1313/tags/mercado/</link>
-      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/mercado/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>市场</title>
-      <link>http://localhost:1313/tags/%E5%B8%82%E5%9C%BA/</link>
-      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/%E5%B8%82%E5%9C%BA/</guid>
       <description></description>
     </item>
     <item>
@@ -79,101 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Negocios Corporativos</title>
-      <link>http://localhost:1313/tags/negocios-corporativos/</link>
-      <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/negocios-corporativos/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>公司业务</title>
-      <link>http://localhost:1313/tags/%E5%85%AC%E5%8F%B8%E4%B8%9A%E5%8A%A1/</link>
-      <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/%E5%85%AC%E5%8F%B8%E4%B8%9A%E5%8A%A1/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>I&#43;D</title>
-      <link>http://localhost:1313/tags/i&#43;d/</link>
-      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/i&#43;d/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>R&amp;D</title>
       <link>http://localhost:1313/tags/rd/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
       <guid>http://localhost:1313/tags/rd/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>研发</title>
-      <link>http://localhost:1313/tags/%E7%A0%94%E5%8F%91/</link>
-      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/%E7%A0%94%E5%8F%91/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>How To</title>
-      <link>http://localhost:1313/tags/how-to/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/how-to/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/tags/technology/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/tags/technology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Advice</title>
-      <link>http://localhost:1313/tags/advice/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/advice/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Android</title>
-      <link>http://localhost:1313/tags/android/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Company</title>
-      <link>http://localhost:1313/tags/company/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/company/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mechine</title>
-      <link>http://localhost:1313/tags/mechine/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/mechine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/tags/news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retro</title>
-      <link>http://localhost:1313/tags/retro/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/tags/retro/</guid>
       <description></description>
     </item>
   </channel>

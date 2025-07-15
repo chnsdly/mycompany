@@ -1,3 +1,5 @@
+/*更换主题颜色后，首页大图透明图层修改颜色*/
 .overly::before, .page-title::before {
   background: rgba(0, 0, 0, 0.8) !important;
 }
+

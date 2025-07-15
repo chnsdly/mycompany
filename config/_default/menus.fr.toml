@@ -1,5 +1,3 @@
-############# French navigation ##############
-
 # main menu
 [[main]]
 name = "Accueil"
@@ -7,76 +5,48 @@ url = ""
 weight = 1
 
 [[main]]
-name = "À propos"
+name = "À propos de l'entreprise"
 url = "about/"
 weight = 2
 
 [[main]]
-name = "Projet"
+name = "Produits"
 url = "products/"
 weight = 3
 
 [[main]]
-name = "Blog"
+name = "Distinctions & Certifications"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "Actualités"
 url = "blog/"
 weight = 4
 
 [[main]]
-weight = 5
-name = "Plus"
-hasChildren = true
-
-  [[main]]
-  parent = "Plus"
-  name = "Service"
-  url = "service/"
-  weight = 1
-
-  [[main]]
-  parent = "Plus"
-  name = "Tarification"
-  url = "pricing/"
-  weight = 2
-
-  [[main]]
-  parent = "Plus"
-  name = "Questions fréquentes"
-  url = "faq/"
-  weight = 3
-  
-[[main]]
-name = "Contact"
+name = "Contactez-nous"
 url = "contact/"
 weight = 6
 
 
 # footer menu
 [[footer]]
-name = "À propos"
+name = "À propos de l'entreprise"
 url = "about/"
 weight = 2
 
 [[footer]]
-name = "Projet"
+name = "Produits"
 url = "products/"
 weight = 3
 
 [[footer]]
-name = "Service"
-url = "service/"
+name = "Actualités"
+url = "blog/"
 weight = 4
 
 [[footer]]
-name = "Tarification"
-url = "pricing/"
-weight = 5
-
-[[footer]]
-name = "Questions fréquentes"
-url = "faq/"
-weight = 6
-
-[[footer]]
-name = "Contact"
+name = "Contactez-nous"
 url = "contact/"
 weight = 7

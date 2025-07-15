@@ -4,102 +4,106 @@ banner:
   enable: true
   bg_image: "images/slider-bg.jpg"
   bg_overlay: true
-  title: "A Digital Marketing <br/> & Design Agency"
-  content: "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  title: "Façonner l’avenir de la puissance verte, bâtir la marque centenaire de Hengli"
+  content: ""
   button:
-    enable: true
-    label: "Discover Our Project"
-    link: "project/"
+    enable: ture
+    label: "Voir les produits"
+    link: "products/"
 
 ############################# About #################################
-about:
+products:
   enable: true
-  title: "About Us"
-  description: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
-  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id."
-  image: "images/wrapper-img.png"
+  title: "Solutions d’alimentation tous scénarios"
+  description: "Nous fournissons des systèmes de batteries lithium‑fer phosphate à haute sécurité et longue durée de vie, avec développement sur mesure, adaptés à divers scénarios mondiaux de puissance et de stockage d’énergie."
+  items:
+    - title: "Tricycles passagers et de fret & véhicules utilitaires légers"
+      content: "Conçus pour la logistique urbaine et les véhicules utilitaires légers, offrant une excellente stabilité sous charge et garantissant une exploitation efficace dans les conditions de démarrages et arrêts fréquents."
+      image: "images/company/sanlun.jpg"
 
+    - title: "Mobilité électrique personnelle"
+      content: "Idéal pour vélos électriques, voiturettes de golf et scooters de mobilité, avec un BMS intelligent assurant une protection complète pour une utilisation en toute sécurité."
+      image: "images/company/golf.jpg"
+
+    - title: "Systèmes d’énergie hors réseau et de secours"
+      content: "Choix optimal pour zones hors réseau, stations de base télécoms et centrales domestiques/commerciales : durée de vie ultra‑longue (8–10 ans) avec alimentation stable et continue."
+      image: "images/company/sun.jpg"
+
+    - title: "Équipements d’automatisation industrielle"
+      content: "Solution d’énergie propre pour AGV et chariots élévateurs : certifiée résistance à la perforation et à la compression, conception sans maintenance et haute efficacité pour un fonctionnement continu."
+      image: "images/company/chache.jpg"
+
+    - title: "Véhicules d’exploitation spéciaux"
+      content: "Systèmes de puissance pour balayeuses de rues et bus touristiques : conformes aux normes de sécurité élevées pour les opérations publiques, design compact s’adaptant aux espaces réduits des véhicules spécialisés."
+      image: "images/company/guanguang.jpg"
+
+    - title: "Appareils d’alimentation portables"
+      content: "Alimentation dédiée pour stockage portable et équipements extérieurs, offrant une haute densité énergétique et une charge rapide pour garantir une alimentation fiable en mobilité."
+      image: "images/company/camp.jpg"
 
 ######################### Portfolio ###############################
 portfolio:
-  enable: true
+  enable: false
   bg_image: "images/feature-bg.jpg"
   title: "WE BELIEVE IN GREAT IDEAS"
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+  content: |
+    Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
+    Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
 
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
+    Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
   button:
     enable: true
     label: "View Works"
     link: "project/"
-
 
 ############################# Service ############################
 service:
   enable: true
   # service content comes from "service.md" file
 
+############################# Funfacts ###############################
+funfacts:
+  enable: true
+  title: "Hengli New Energy · Vue d’ensemble"
+  description: "Axés sur la technologie cœur des batteries lithium, nos produits sont vendus dans le monde entier avec des performances techniques leader du secteur."
+  funfact_item:
+    - icon: "fas fa-calendar-alt"
+      name: "Années d’existence"
+      count: "12"
+    - icon: "fas fa-battery-full"
+      name: "Normes de sécurité système"
+      count: "9"
+    - icon: "fas fa-bolt"
+      name: "Capacité annuelle (GWh)"
+      count: "5"
+    - icon: "fas fa-globe-americas"
+      name: "Pays desservis"
+      count: "38"
+
+  testimonial_slider:
+    - name: "Zhang Zhenguo"
+      image: "images/clients/avater-1.jpg"
+      designation: "Directeur général, Northern Logistics Company"
+      content: "Par des hivers extrêmes à -30 °C, notre flotte équipée de batteries Hengli 72V200Ah a fonctionné trois années d’affilée sans aucune défaillance, réduisant nos coûts annuels de 23 % et améliorant considérablement la fiabilité des livraisons."
+    - name: "Amina Jafar"
+      image: "images/clients/avater-3.jpg"
+      designation: "Cliente au Nigeria"
+      content: "À 45 °C près du sud du Sahara, le système Hengli 48V200Ah a fourni une alimentation stable pendant 2 ans, stockant l’énergie solaire le jour et assurant 6 heures d’éclairage nocturne à 200 ménages, tout en maintenant les réfrigérateurs médicaux en fonctionnement continu."
+    - name: "Thomas Müller"
+      image: "images/clients/avater-2.jpg"
+      designation: "Directeur des installations, Green Park Berlin"
+      content: "Nos 20 balayeuses électriques équipées de batteries Hengli 72V150Ah ont conservé une capacité élevée après 2000 cycles et nous ont aidés à dépasser nos objectifs de réduction des émissions de 35 %."
 
 ############################ call to action ###########################
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "We design delightful digital experiences."
-  content: "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+  title: "Invitation à une coopération mondiale"
+  content: "Marges bénéficiaires attractives | Support marché complet | Services techniques professionnels"
   button:
     enable: true
-    label: "Tell Us Your Story"
+    label: "Contactez-nous"
     link: "contact/"
-
-############################# Funfacts ###############################
-funfacts:
-  enable: true
-  title: "Fun Facts About Us"
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics'"
-  funfact_item:
-  # funfacts item loop
-  - icon: "fas fa-mug-hot" #https://fontawesome.com/v5.15/icons
-    name: "Cups Of Coffee"
-    count: "99"
-
-  # funfacts item loop
-  - icon: "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name: "Article Written"
-    count: "45"
-
-  # funfacts item loop
-  - icon: "fas fa-keyboard" #https://fontawesome.com/v5.15/icons
-    name: "Projects Completed"
-    count: "125"
-
-  # funfacts item loop
-  - icon: "fas fa-clock" #https://fontawesome.com/v5.15/icons
-    name: "Combined Projects"
-    count: "200"
-
-  testimonial_slider:
-  # testimonial item loop
-  - name: "Raymond Roy"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Randi Renin"
-    image: "images/clients/avater-1.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
-  # testimonial item loop
-  - name: "Rose Rio"
-    image: "images/clients/avater-3.jpg"
-    designation: "CEO-Themefisher"
-    content: "This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd."
-
 
 ---

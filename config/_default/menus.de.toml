@@ -1,5 +1,3 @@
-############# German navigation ##############
-
 # main menu
 [[main]]
 name = "Startseite"
@@ -12,38 +10,20 @@ url = "about/"
 weight = 2
 
 [[main]]
-name = "Projekt"
+name = "Produkte"
 url = "products/"
 weight = 3
 
 [[main]]
-name = "Blog"
+name = "Auszeichnungen & Zertifikate"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "Nachrichten"
 url = "blog/"
 weight = 4
 
-[[main]]
-weight = 5
-name = "Mehr"
-hasChildren = true
-
-  [[main]]
-  parent = "Mehr"
-  name = "Dienstleistung"
-  url = "service/"
-  weight = 1
-
-  [[main]]
-  parent = "Mehr"
-  name = "Preise"
-  url = "pricing/"
-  weight = 2
-
-  [[main]]
-  parent = "Mehr"
-  name = "Häufige Fragen"
-  url = "faq/"
-  weight = 3
-  
 [[main]]
 name = "Kontakt"
 url = "contact/"
@@ -57,24 +37,14 @@ url = "about/"
 weight = 2
 
 [[footer]]
-name = "Projekt"
+name = "Produkte"
 url = "products/"
 weight = 3
 
 [[footer]]
-name = "Dienstleistung"
-url = "service/"
+name = "Nachrichten"
+url = "blog/"
 weight = 4
-
-[[footer]]
-name = "Preise"
-url = "pricing/"
-weight = 5
-
-[[footer]]
-name = "Häufige Fragen"
-url = "faq/"
-weight = 6
 
 [[footer]]
 name = "Kontakt"

@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*=== MEDIA QUERY ===*/
 @import url(https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:300,400,500,600);
@@ -2196,5 +2197,6 @@ header .navbar-default .navbar-nav li a:hover {
   .footer .copyright a {
     font-weight: 600; }
 
+/*更换主题颜色后，首页大图透明图层修改颜色*/
 .overly::before, .page-title::before {
   background: rgba(0, 0, 0, 0.8) !important; }

@@ -45,50 +45,41 @@ featured_service:
 
 ############################# Service ###############################
 service:
-  enable : true
-  title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  enable: true
+  title: "Nos Atouts Compétitifs"
+  description: "Solutions lithium fiables pour chaque parcours"
   service_item:
-    # service item loop
-    - icon : ion-coffee #https://fontawesome.com/v5.15/icons
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-compass #https://fontawesome.com/v5.15/icons
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-image #https://fontawesome.com/v5.15/icons
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-bug #https://fontawesome.com/v5.15/icons
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #https://fontawesome.com/v5.15/icons
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : fas fa-leaf #https://fontawesome.com/v5.15/icons
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-earth #https://fontawesome.com/v5.15/icons
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon: fas fa-tachometer-alt
+      name: Cellules Haut de Gamme
+      content: "Puissance élevée avec réponse instantanée"
+    
+    - icon: fas fa-plug
+      name: Polyvalence d'Application
+      content: "Configurations multiples en tension et capacité"
+    
+    - icon: fas fa-shield-alt
+      name: Gestion Sécurisée
+      content: "Système intelligent BMS intégré"
+    
+    - icon: fas fa-battery-full
+      name: Longévité Exceptionnelle
+      content: "Cellules stables à durée de vie prolongée"
+    
+    - icon: fas fa-microchip
+      name: Connectivité Intelligente
+      content: "Surveillance en temps réel et diagnostic à distance"
+    
+    - icon: fas fa-leaf
+      name: Éco-Efficacité
+      content: "Matériaux écologiques réduisant l'empreinte carbone"
+    
+    - icon: fas fa-feather-alt
+      name: Design Allégé
+      content: "Structure optimisée pour poids minimal"
+    
+    - icon: fas fa-headset
+      name: Support Technique Permanent
+      content: "Assistance 24h/24 avec résolution rapide"
 
 ############################# call to action #################################
 cta:

@@ -9,31 +9,10 @@
     <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Casos Cliente</title>
-      <link>http://localhost:1313/categories/casos-cliente/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/casos-cliente/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Customer Cases</title>
       <link>http://localhost:1313/categories/customer-cases/</link>
       <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
       <guid>http://localhost:1313/categories/customer-cases/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>客户案例</title>
-      <link>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</link>
-      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/%E5%AE%A2%E6%88%B7%E6%A1%88%E4%BE%8B/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Actividades De Mercado</title>
-      <link>http://localhost:1313/categories/actividades-de-mercado/</link>
-      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/actividades-de-mercado/</guid>
       <description></description>
     </item>
     <item>
@@ -44,59 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>市场活动</title>
-      <link>http://localhost:1313/categories/%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8/</link>
-      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%A8/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Avance Tecnológico</title>
-      <link>http://localhost:1313/categories/avance-tecnol%C3%B3gico/</link>
-      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/avance-tecnol%C3%B3gico/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Technology Breakthrough</title>
       <link>http://localhost:1313/categories/technology-breakthrough/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
       <guid>http://localhost:1313/categories/technology-breakthrough/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>技术突破</title>
-      <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4/</link>
-      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF%E7%AA%81%E7%A0%B4/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technical Assistance</title>
-      <link>http://localhost:1313/categories/technical-assistance/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/categories/technical-assistance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/artificial-intelligence/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Company News</title>
-      <link>http://localhost:1313/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/company-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Legacy Support</title>
-      <link>http://localhost:1313/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/categories/legacy-support/</guid>
       <description></description>
     </item>
   </channel>

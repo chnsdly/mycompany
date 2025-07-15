@@ -1,5 +1,3 @@
-############# English navigation ##############
-
 # main menu
 [[main]]
 name = "Inicio"
@@ -7,7 +5,7 @@ url = ""
 weight = 1
 
 [[main]]
-name = "Sobre Nosotros"
+name = "Sobre nosotros"
 url = "about/"
 weight = 2
 
@@ -17,20 +15,24 @@ url = "products/"
 weight = 3
 
 [[main]]
-name = "Blog"
+name = "Reconocimientos y certificaciones"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "Noticias"
 url = "blog/"
 weight = 4
 
-
 [[main]]
-name = "Contacto"
+name = "Contáctenos"
 url = "contact/"
 weight = 6
 
 
 # footer menu
 [[footer]]
-name = "Sobre Nosotros"
+name = "Sobre nosotros"
 url = "about/"
 weight = 2
 
@@ -39,22 +41,12 @@ name = "Productos"
 url = "products/"
 weight = 3
 
-# [[footer]]
-# name = "Service"
-# url = "service/"
-# weight = 4
-
-# [[footer]]
-# name = "Pricing"
-# url = "pricing/"
-# weight = 5
-
-# [[footer]]
-# name = "FAQ"
-# url = "faq/"
-# weight = 6
+[[footer]]
+name = "Noticias"
+url = "blog/"
+weight = 4
 
 [[footer]]
-name = "Contacto"
+name = "Contáctenos"
 url = "contact/"
 weight = 7

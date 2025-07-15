@@ -46,49 +46,41 @@ featured_service:
 ############################# Service ###############################
 
 service:
-  enable : true
-  title : "Our Advantages"
-  description : "Reliable lithium battery solutions powering every journey"
+  enable: true
+  title: "Our Competitive Advantages"
+  description: "Reliable lithium battery solutions empowering every journey"
   service_item:
-    # service item loop
-    - icon : fas fa-tachometer-alt
-      name: Grade A Battery Cells
-      content: "Powerful performance with rapid response"
+    - icon: fas fa-tachometer-alt
+      name: Premium Grade Cells
+      content: "High power output with rapid response"
 
-    # service item loop
-    - icon : fas fa-plug
-      name: Versatile Use
-      content: "Multiple voltage/capacity options"
+    - icon: fas fa-plug
+      name: Multi-Scenario Compatibility
+      content: "Diverse voltage and capacity configurations"
 
-    # service item loop
-    - icon : fas fa-shield-alt
-      name: Safety Management
-      content: "Built-in intelligent BMS protection"
+    - icon: fas fa-shield-alt
+      name: Intelligent Safety Management
+      content: "Built-in smart BMS protection system"
 
-    # service item loop
-    - icon : fas fa-battery-full
-      name: Long Service Life
-      content: "Stable cells with extended cycle durability"
+    - icon: fas fa-battery-full
+      name: Extended Durability
+      content: "Stable cells with exceptional cycle life"
 
-    # service item loop
-    - icon : fas fa-microchip
-      name: Smart Technology
+    - icon: fas fa-microchip
+      name: Smart Connectivity
       content: "Real-time monitoring and remote diagnostics"
 
-    # service item loop
-    - icon : fas fa-leaf
-      name: Eco-Efficiency
-      content: "Sustainable materials and processes reducing carbon footprint"
+    - icon: fas fa-leaf
+      name: Eco-Efficient Design
+      content: "Green materials and processes reducing carbon footprint"
 
-    # service item loop
-    - icon : fas fa-feather-alt
+    - icon: fas fa-feather-alt
       name: Lightweight Engineering
-      content: "Optimized structural design reducing overall weight"
+      content: "Optimized structural design minimizing weight"
 
-    # service item loop
-    - icon : fas fa-headset
-      name: After-Sales Support
-      content: "24/7 customer service for prompt issue resolution"
+    - icon: fas fa-headset
+      name: 24/7 Technical Support
+      content: "Round-the-clock service with rapid issue resolution"
 
 ############################# call to action #################################
 cta:
