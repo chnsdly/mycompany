@@ -33,13 +33,19 @@
       {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
       {{ with .description }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
-    <div class="row">
+    
+    <!-- 使用Flexbox替代Bootstrap栅格 -->
+    <div class="products-container">
       {{ range .items }}
-      <div class="col-md-4 col-sm-6">
-        <div class="card mb-4 shadow-sm text-center">
-          <img src="{{ .image | relURL }}" alt="{{ .title }}" class="img-fluid mb-3" />
-          <h4>{{ .title }}</h4>
-          <p>{{ .content }}</p>
+      <div class="product-card">
+        <div class="card-image">
+          <img src="{{ .image | relURL }}" alt="{{ .title }}">
+        </div>
+        <div class="card-content">
+          <h3>{{ .title }}</h3>
+          <div class="card-description">
+            {{ .content }}
+          </div>
         </div>
       </div>
       {{ end }}
