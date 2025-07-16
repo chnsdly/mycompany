@@ -1,136 +1,125 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
+title: "Hengli New Energy Technology (Linyi) Co., Ltd."
+description: "Spécialisé dans la R&D des batteries de puissance, propulsant la révolution énergétique verte avec des produits sûrs et performants"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
-
 
 ################################## About #####################################
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
-
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-  velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-  dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+  title : "Innovation et Qualité avant tout"
+  content : "**Équipe de R&D** <br/>
+  En tant que pionnier du secteur des énergies nouvelles, nous comprenons l'importance des technologies de pointe pour la compétitivité des produits. Notre entreprise dispose d'une équipe de R&D solide réunissant les meilleurs experts du secteur, engagés dans l'exploration et l'innovation des technologies de batteries au lithium. Grâce à des brevets propriétaires et à des technologies brevetées, nous restons à la pointe de l'industrie.<br/>
+  **Gestion de la qualité**<br/>
+  Chaque batterie qui sort de notre usine incarne notre engagement envers la qualité. Nous avons mis en place un système rigoureux de gestion de la qualité, allant de l’approvisionnement en matières premières, à la sélection des cellules, à l’assemblage, jusqu’aux tests finaux. Chaque étape est soigneusement contrôlée pour garantir des batteries performantes, sûres et fiables."
 
   button:
     enable : true
-    label : "Download Company Profile"
+    label : "Télécharger le catalogue des spécifications"
     link : "#"
 
   funfacts:
-  # funfacts loop
-  - icon : "fas fa-flask" #https://fontawesome.com/v5.15/icons
-    name : "Completed Projects"
-    count : "349"
+  - icon : "fas fa-flask"
+    name : "Brevets de R&D"
+    count : "150"
 
-  # funfacts loop
-  - icon : "fas fa-fire-alt" #https://fontawesome.com/v5.15/icons
-    name : "Lines Of Code"
+  - icon : "fas fa-industry"
+    name : "Capacité annuelle (GWh)"
     count : "35000"
 
-  # funfacts loop
-  - icon : "fas fa-glasses" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "70"
+  - icon : "fas fa-battery-full"
+    name : "Véhicules équipés"
+    count : "1000000"
 
-  # funfacts loop
-  - icon : "fas fa-trophy" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "10"
+  - icon : "fas fa-globe-asia"
+    name : "Clients partenaires dans le monde"
+    count : "150"
 
-  # funfacts loop
-  - icon : "fas fa-glass-cheers" #https://fontawesome.com/v5.15/icons
-    name : "Satisfied Customer"
-    count : "75"
+  - icon : "fas fa-shield-alt"
+    name : "Certifications de sécurité internationales"
+    count : "18"
 
-  # funfacts loop
-  - icon : "fas fa-certificate" #https://fontawesome.com/v5.15/icons
-    name : "Awards Winner"
-    count : "20"
+  - icon : "fas fa-certificate"
+    name : "PPM sans défaut"
+    count : "50"
 
 ################################ feature #####################################
 features:
   enable : true
-  title : "We are indepented Design & Development Agency"
+  title : "Hengli New Energy : les chiffres parlent pour nous"
   feature_item:
-  # feature item loop
-  - icon : "fab fa-app-store-ios" #https://fontawesome.com/v5.15/icons
-    name : "IOS App Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-flask"
+    name : "Technologie brevetée"
+    content : "72 brevets technologiques mondiaux établissant des normes industrielles"
 
-  # feature item loop
-  - icon : "fas fa-unlock" #https://fontawesome.com/v5.15/icons
-    name : "App Secutity"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-industry"
+    name : "Capacité de production annuelle"
+    content : "5+ GWh de lignes de production intelligentes pour répondre aux besoins mondiaux"
 
-  # feature item loop
-  - icon : "fas fa-gamepad" #https://fontawesome.com/v5.15/icons
-    name : "Games Development"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-car"
+    name : "Applications automobiles"
+    content : "Plus d’un million de véhicules électriques équipés de nos batteries"
 
-  # feature item loop
-  - icon : "fas fa-microphone" #https://fontawesome.com/v5.15/icons
-    name : "Animation and Editing"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-shield-alt"
+    name : "Certifications de sécurité internationales"
+    content : "Plus de 20 certifications de sécurité reconnues à l'international"
 
-  # feature item loop
-  - icon : "fas fa-lightbulb" #https://fontawesome.com/v5.15/icons
-    name : "UI/UX Design"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-certificate"
+    name : "Fiabilité du produit"
+    content : "Taux de défauts extrêmement faible, normes de qualité parmi les meilleures du secteur"
 
-  # feature item loop
-  - icon : "fas fa-star-of-life" #https://fontawesome.com/v5.15/icons
-    name : "Branding"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+  - icon : "fas fa-globe-asia"
+    name : "Présence internationale"
+    content : "Exportation vers plus de 30 pays, service à une clientèle mondiale"
 
+# LFP Battery Product Section
+product_section:
+  enable: true
+  header_title: "Spécialisés dans les batteries LFP pour booster vos produits"
+  header_text: |
+    Nous sommes une entreprise dédiée à la recherche et à la fabrication de batteries au lithium fer phosphate (LFP) de haute qualité. Grâce à notre technologie avancée et à notre contrôle strict de la qualité, nous fournissons des solutions énergétiques sûres, fiables et durables à des clients de divers secteurs.
+
+  feature1:
+    title: "Service OEM et personnalisation de logo"
+    content: |
+        Nous proposons des services OEM flexibles ainsi que la personnalisation de votre logo pour répondre à votre image de marque.
+
+  feature2:
+    title: "Avantage technologique des cellules"
+    content: |
+        Nos batteries intègrent des cellules LFP de haute qualité offrant une longue durée de vie, une sécurité exceptionnelle, une large plage de température et une densité énergétique élevée.
+
+  feature3:
+    title: "Bienvenue pour une visite"
+    content: |
+        Nous vous invitons cordialement à visiter notre usine afin de découvrir nos processus de production et notre savoir-faire technologique.
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
-
 mission_vision:
-  enable : true
+  enable : false
   tabs:
-  # tab item loop
-  - name : "Vision"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - id: "vision"
+    name : "Vision"
+    content : "Devenir un leader mondial de la révolution énergétique en propulsant un avenir zéro carbone grâce à l’innovation continue dans les batteries de puissance.  
+      Nous aspirons à bâtir un monde énergétique vert, intelligent et efficace, fournissant non seulement une énergie de propulsion aux transports électriques et au stockage intelligent, mais contribuant également à la restauration écologique et au développement durable de la civilisation humaine.  
+      Dans le futur, chaque ville sera alimentée par de l’énergie verte, chaque véhicule électrique sera équipé de nos batteries haute performance, et chaque foyer accédera à des systèmes de stockage sûrs, propres et intelligents. Avec une vision mondiale et une base technologique solide, nous serons à l’avant-garde de la transition énergétique des énergies fossiles vers les énergies renouvelables pour réaliser une véritable harmonie entre l’homme et la nature."
 
-  # tab item loop
-  - name : "Mission"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
+  - id: "Mission"
+    name : "Mission"
+    content : "Stimuler l'innovation par la technologie en développant et fabriquant des systèmes de batteries au lithium sûrs, fiables et performants.  
+      Nous proposons des solutions énergétiques efficaces, intelligentes et vertes pour les véhicules électriques, le stockage industriel et résidentiel.  
+      Grâce à une stratégie de déploiement mondiale, une gestion qualité rigoureuse et une co-innovation avec nos clients, nous construisons une marque énergétique compétitive à l’international, contribuant à l’électrification des transports, à la décarbonation énergétique et à l’intelligence des réseaux électriques.  
+      Notre mission ne se limite pas à fournir de l’électricité : elle consiste à faire avancer le monde vers un avenir plus durable et respectueux de l’environnement."
 
-  # tab item loop
-  - name : "Approach"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis ducimus facere repellat
-    harum, eius cupiditate, aliquam aut deserunt. Nemo illo ex impedit autem quod nobis architecto, velit
-    quasi, aut voluptas porro natus. Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus
-    voluptatum aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis, cum facere
-    iusto, modi cumque consectetur saepe. Officia, molestiae tempore! Consequatur ipsa consequuntur saepe
-    suscipit vero laudantium, mollitia, quaerat soluta nihil non tempore, quos dignissimos quasi ab officiis
-    illum numquam quibusdam ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-    temporibus eos sequi alias hic nemo."
-
+  - id: "Approach"
+    name : "Approche"
+    content : "<br/>**Avancées technologiques** : Investissements continus en R&D axés sur les batteries solides, la charge rapide haute intensité, le démarrage à basse température et la gestion thermique pour améliorer à la fois la densité énergétique et la sécurité.<br>
+      **Fabrication intelligente** : Développement de sites industriels selon les standards Industrie 4.0, intégrant automatisation, traçabilité et visualisation pour assurer qualité et cohérence.<br>
+      **Écosystème collaboratif** : Coopération avec les constructeurs de véhicules, intégrateurs de systèmes de stockage et entreprises énergétiques pour bâtir une chaîne de valeur durable et collaborative.<br>
+      **Économie circulaire** : Mise en place d’un système de recyclage vert pour le démontage efficace des batteries usagées et la réutilisation des matériaux, avec un taux d’utilisation supérieur à 95 %.<br>
+      **Capital humain** : Recrutement de talents internationaux en électrochimie, électronique de puissance et fabrication intelligente pour former une équipe diversifiée et innovante, moteur de notre leadership technologique."
 
 ############################# call to action #################################
 cta:

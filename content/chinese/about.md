@@ -17,7 +17,7 @@ about:
 
   button:
     enable : true
-    label : "下载产品型号文档"
+    label : "下载产品规格目录"
     link : "#"
 
   funfacts:

@@ -1,52 +1,45 @@
 ---
-title: "Hengli New Energy · Leader in Power Battery Technology"
-description: "We consistently focus on core power battery R&D, driving green energy transformation with safe, efficient, and reliable products"
+title: "Hengli New Energy Technology (Linyi) Co., Ltd."
+description: "Focused on power battery technology R&D, driving the green energy revolution with safe and efficient products"
 bg_image: "images/feature-bg.jpg"
 layout: "about"
 draft: false
-
 
 ################################## About #####################################
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "Innovation-Driven, Quality-First"
-  content : "**Team**<br/>
-  As pioneers in the new energy sector, we understand the critical importance of core technology for product excellence. Our company boasts a strong core R&D team comprising industry-leading experts, dedicated to exploring and innovating cutting-edge lithium battery technologies. With proprietary intellectual property and multiple patented technologies, we ensure our products remain at the industry forefront.<br/>
-  **Quality Management**<br/>Every battery leaving our factory embodies our commitment to quality. We've established a rigorous quality management system, meticulously controlling every step from raw material procurement and cell selection to production assembly and multiple pre-shipment inspections. This ensures we deliver high-performance, safe, and reliable premium battery products."
+  title : "Innovation-Driven, Quality-Oriented"
+  content : "**R&D Team**<br/>
+  As a pioneer in the new energy industry, we understand the importance of core technology in product competitiveness. Our company has a strong R&D team, bringing together top experts in the industry, dedicated to the exploration and innovation of cutting-edge lithium battery technology. With independent intellectual property and multiple patented technologies, we ensure our products stay ahead of the industry.<br/>
+  **Quality Management**<br/>Every battery that leaves our factory carries our commitment to quality. We have established a rigorous quality management system, from raw material sourcing and cell selection to production and final inspection. Every step is meticulously executed to deliver high-performance, safe, and reliable battery products to you."
 
   button:
-    enable : false
-    label : "Download Company Profile"
+    enable : true
+    label : "Download Product Specification Catalog"
     link : "#"
 
   funfacts:
-  # funfacts loop
   - icon : "fas fa-flask"
-    name : "R&D Patents"
+    name : "Number of Patents"
     count : "150"
 
-  # funfacts loop
   - icon : "fas fa-industry"
     name : "Annual Capacity (GWh)"
     count : "35000"
 
-  # funfacts loop
   - icon : "fas fa-battery-full"
-    name : "Cumulative Vehicle Installations"
+    name : "Total Vehicle Installations"
     count : "1000000"
 
-  # funfacts loop
   - icon : "fas fa-globe-asia"
     name : "Global Partners"
     count : "150"
 
-  # funfacts loop
   - icon : "fas fa-shield-alt"
     name : "International Safety Certifications"
     count : "18"
 
-  # funfacts loop
   - icon : "fas fa-certificate"
     name : "Zero-Defect PPM"
     count : "50"
@@ -54,66 +47,78 @@ about:
 ################################ feature #####################################
 features:
   enable : true
-  title : "Hengli New Energy: Power Battery Leadership Validated by Numbers"
+  title : "Hengli New Energy: Numbers Reflect Our Expertise"
   feature_item:
-  # feature item loop
   - icon : "fas fa-flask"
-    name : "Core Patent Technologies"
-    content : "72+ global battery technology patents, building industry barriers"
+    name : "Core Patent Technology"
+    content : "72 global technology patents setting industry benchmarks"
 
-  # feature item loop
   - icon : "fas fa-industry"
     name : "Annual Production Capacity"
-    content : "5+ GWh smart production lines, meeting global demand"
+    content : "5+ GWh smart production lines meeting global market demand"
 
-  # feature item loop
   - icon : "fas fa-car"
-    name : "Vehicle Applications"
-    content : "1,000,000+ EVs powered by our batteries"
+    name : "Vehicle Application Scale"
+    content : "1,000,000+ electric vehicles equipped with our power batteries"
 
-  # feature item loop
   - icon : "fas fa-shield-alt"
     name : "International Safety Certifications"
-    content : "20+ global safety certifications"
+    content : "Over 20 international safety certifications"
 
-  # feature item loop
   - icon : "fas fa-certificate"
     name : "Product Reliability"
-    content : "＜50 PPM defect rate, industry-leading quality standard"
+    content : "Ultra-low defect rate, industry-leading quality standards"
 
-  # feature item loop
   - icon : "fas fa-globe-asia"
-    name : "Global Business Reach"
-    content : "Products exported to 30+ countries, serving worldwide clients"
+    name : "Global Market Coverage"
+    content : "Exporting to over 30 countries, serving customers worldwide"
 
+# LFP Battery Product Section
+product_section:
+  enable: true
+  header_title: "Focused on LFP Batteries to Empower Your Products"
+  header_text: |
+    We are a company dedicated to the R&D and production of high-quality Lithium Iron Phosphate (LFP) batteries. With advanced technology and strict quality control systems, we are committed to providing safe, reliable, and long-life energy solutions for clients across various industries.
+
+  feature1:
+    title: "OEM & Logo Customization"
+    content: |
+        We offer flexible OEM services and exclusive logo customization, allowing personalized branding that aligns with your brand identity.
+
+  feature2:
+    title: "Advanced Cell Technology"
+    content: |
+        We use high-quality LFP cells with ultra-long cycle life, excellent safety performance, wide temperature range adaptability, and high energy density.
+
+  feature3:
+    title: "Visit Our Factory"
+    content: |
+        We warmly invite you to visit our factory and witness our production process and technological capabilities firsthand.
 
 #################################### testimonial & mission vision #######################################
-testimonial:
-  enable : true
-  # testimonial content comes from "data/*/homepage.yml" file
-
 mission_vision:
-  enable : true
+  enable : false
   tabs:
-  # tab item loop
   - id: "vision"
     name : "Vision"
-    content : "To become a global leader in the new energy revolution, driving a zero-carbon future through innovative power battery technologies. We aspire to create a green, smart, and efficient energy world that not only powers electric mobility and smart storage but also contributes to Earth's ecological restoration and sustainable human development.  
-      In the future, we envision every city powered by green energy, every EV equipped with our high-performance batteries, and every home connected to safe, clean, smart storage systems. With global perspective and technology-first approach, we'll pioneer energy transformation, accelerating the shift from fossil fuels to renewables, ultimately achieving harmony between humanity and nature."
+    content : "To become a global leader in the new energy revolution by driving a zero-carbon future with continuously innovative power battery technologies.  
+      We aim to build a green, intelligent, and efficient energy world—not only powering electric transportation and smart storage, but also contributing to ecological restoration and the sustainable development of human civilization.  
+      In the future, we envision every city powered by green energy, every electric vehicle equipped with our high-performance batteries, and every home accessing safe, clean, and intelligent energy systems. With a global perspective and technology-driven approach, we strive to lead the transition from fossil fuels to renewable energy and achieve harmonious coexistence between humanity and nature."
 
-  # tab item loop
   - id: "Mission"
     name : "Mission"
-    content : "To develop and manufacture safe, reliable, high-performance lithium battery systems powered by technological innovation. We're committed to delivering efficient, smart, green energy solutions for diverse applications including new energy vehicles, industrial storage, and residential storage.  
-      Through global strategic deployment, rigorous quality management, and collaborative innovation with clients, we'll build an internationally competitive energy brand that advances global electrification of transport, decarbonization of energy, and smart grid modernization. Our mission extends beyond providing power—we're driving the world toward a greener, more sustainable future."
+    content : "To drive innovation through technology, developing and manufacturing safe, reliable, and high-performance lithium battery systems.  
+      We are committed to providing efficient, intelligent, and green energy solutions for diverse scenarios such as electric vehicles, industrial storage, and residential energy systems.  
+      Through global strategic deployment, strict quality management, and customer-centered innovation, we are building a globally competitive energy brand—advancing global electrification, low-carbon energy transition, and smart grid transformation.  
+      Our mission goes beyond power supply—it is about pushing the world toward a more sustainable and eco-friendly future."
 
-  # tab item loop
   - id: "Approach"
-    name : "Implementation Strategy"
-    content : "<br/>**Technology Breakthroughs**: Continuous R&D investment in solid-state batteries, high-rate fast charging, low-temperature startup, and thermal management systems to achieve dual improvements in energy density and safety.<br>
-      **Smart Manufacturing**: Develop Industry 4.0 digital factories featuring automated, visual, traceable smart production systems ensuring product consistency and premium quality from source.<br>
-      **Ecosystem Collaboration**: Partner with EV OEMs, storage integrators, and power companies to build cross-industry synergy loops that drive mutual success and technological integration."
-
+    name : "Approach"
+    content : "<br/>**Technological Breakthroughs**: Continuous investment in R&D focused on key technologies like solid-state batteries, high-rate fast charging, low-temperature start-up, and thermal management to achieve dual breakthroughs in energy density and safety.<br>
+      **Smart Manufacturing**: Promoting Industry 4.0 digital factory standards to build automated, visualized, and traceable intelligent production systems that ensure product consistency and quality from the source.<br>
+      **Collaborative Ecosystem**: Partnering with EV manufacturers, energy storage integrators, and power utilities to create a cross-industry collaborative ecosystem for mutual growth and innovation.<br>
+      **Circular Economy**: Establishing a green recycling system to efficiently disassemble used batteries and reuse materials, achieving over 95% resource utilization while reducing environmental impact.<br>
+      **Talent Engine**: Attracting top global talents in electrochemistry, control systems, and smart manufacturing to build a diverse, high-caliber international team that drives ongoing innovation and maintains industry leadership."
 
 ############################# call to action #################################
 cta:
