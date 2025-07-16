@@ -2276,3 +2276,42 @@ header .navbar-default .navbar-nav li a:hover {
     flex: 1 1 100%;
     /* 手机单列 */
     max-width: 100%; } }
+
+/* 核心解决方案 - 仅需这些样式 */
+.equal-height {
+  display: flex;
+  flex-wrap: wrap; }
+
+.equal-height > [class*="col-"] {
+  display: flex;
+  flex-direction: column; }
+
+.service-arrow .block {
+  height: 100%;
+  display: flex;
+  flex-direction: column; }
+
+.service-content {
+  flex-grow: 1; }
+
+/* 可选的美化样式 */
+.service-icon {
+  margin-bottom: 15px;
+  font-size: 2rem; }
+
+.service-title {
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+  color: white; }
+
+.service-content {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6; }
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .equal-height {
+    display: block;
+    /* 小屏幕恢复默认 */ }
+  .service-arrow .col-md-4 {
+    margin-bottom: 20px; } }
