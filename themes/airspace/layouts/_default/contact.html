@@ -68,10 +68,40 @@
   </div>
 </section>
 
+<section class="social">
+  <div class="container">
+    <div class="contact-social contact-social--large">
+      <!-- Facebook -->
+      <a class="contact-social__item" href="https://www.facebook.com/你的账号" target="_blank" rel="noopener"
+        title="Facebook">
+        <i class="fab fa-facebook"></i>
+      </a>
+      <!-- Twitter -->
+      <a class="contact-social__item" href="https://twitter.com/你的账号" target="_blank" rel="noopener" title="Twitter">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <!-- LinkedIn -->
+      <a class="contact-social__item" href="https://www.linkedin.com/in/你的账号" target="_blank" rel="noopener"
+        title="LinkedIn">
+        <i class="fab fa-linkedin"></i>
+      </a>
+      <!-- WhatsApp -->
+      <a class="contact-social__item" href="https://wa.me/8613812345678?text=您好，我想咨询一下" target="_blank" rel="noopener"
+        title="WhatsApp">
+        <i class="fab fa-whatsapp"></i>
+      </a>
+
+      <!-- WeChat 二维码 -->
+      <div class="contact-social__wechat">
+        <img src="/images/wechat-qr.png" alt="扫码加微信">
+        <p>wechat</p>
+      </div>
+    </div>
+  </div>
+
 {{ partial "leaflet-map.html" (dict
   "latitude" "35.015956"
   "longitude" "118.400828"
   "address" "Xincheng Technology Tower"
 ) }}
-
 {{ end }}

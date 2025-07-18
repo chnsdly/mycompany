@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Henli | Energy</title>
-    <link>https://xinnenglifang.com/de/tags/</link>
+    <link>http://localhost:1313/de/tags/</link>
     <description>Recent content in Tags on Henli | Energy</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
-    <atom:link href="https://xinnenglifang.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To</title>
-      <link>https://xinnenglifang.com/de/tags/how-to/</link>
+      <link>http://localhost:1313/de/tags/how-to/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/how-to/</guid>
+      <guid>http://localhost:1313/de/tags/how-to/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://xinnenglifang.com/de/tags/technology/</link>
+      <link>http://localhost:1313/de/tags/technology/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/technology/</guid>
+      <guid>http://localhost:1313/de/tags/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Advice</title>
-      <link>https://xinnenglifang.com/de/tags/advice/</link>
+      <link>http://localhost:1313/de/tags/advice/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/advice/</guid>
+      <guid>http://localhost:1313/de/tags/advice/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://xinnenglifang.com/de/tags/ai/</link>
+      <link>http://localhost:1313/de/tags/ai/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/ai/</guid>
+      <guid>http://localhost:1313/de/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Android</title>
-      <link>https://xinnenglifang.com/de/tags/android/</link>
+      <link>http://localhost:1313/de/tags/android/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/android/</guid>
+      <guid>http://localhost:1313/de/tags/android/</guid>
       <description></description>
     </item>
     <item>
       <title>Company</title>
-      <link>https://xinnenglifang.com/de/tags/company/</link>
+      <link>http://localhost:1313/de/tags/company/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/company/</guid>
+      <guid>http://localhost:1313/de/tags/company/</guid>
       <description></description>
     </item>
     <item>
       <title>Mechine</title>
-      <link>https://xinnenglifang.com/de/tags/mechine/</link>
+      <link>http://localhost:1313/de/tags/mechine/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/mechine/</guid>
+      <guid>http://localhost:1313/de/tags/mechine/</guid>
       <description></description>
     </item>
     <item>
       <title>News</title>
-      <link>https://xinnenglifang.com/de/tags/news/</link>
+      <link>http://localhost:1313/de/tags/news/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/news/</guid>
+      <guid>http://localhost:1313/de/tags/news/</guid>
       <description></description>
     </item>
     <item>
       <title>Retro</title>
-      <link>https://xinnenglifang.com/de/tags/retro/</link>
+      <link>http://localhost:1313/de/tags/retro/</link>
       <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>https://xinnenglifang.com/de/tags/retro/</guid>
+      <guid>http://localhost:1313/de/tags/retro/</guid>
       <description></description>
     </item>
   </channel>
