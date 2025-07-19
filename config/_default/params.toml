@@ -101,9 +101,9 @@ map_marker = "images/marker.png"
 
 [leaflet]
 enable = true
-latitude = "35.101525"
-longitude = "118.348651"
-address = "Xincheng Technology Tower"
+latitude = "35.015956"
+longitude = "118.400828"
+address = "2Xincheng Technology Tower"
 
 # cookies
 [cookies]

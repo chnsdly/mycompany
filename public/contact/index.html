@@ -607,51 +607,19 @@ China</span></li>
 </section>
 
 
-
 <section>
   <div class="container">
-    <div id="map" class="leaflet-map"></div>
+    <div
+      id="map"
+      class="leaflet-map"
+      data-latitude="35.101525"
+      data-longitude="118.348651"
+      data-address="Xincheng Technology Tower"
+    ></div>
   </div>
 </section>
 
-
-<link
-  rel="stylesheet"
-  href="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css"
-/>
-
-
-<script src="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js"></script>
-
-
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const el = document.getElementById('map');
-    if (!el) return;
-
-    const latitude = "35.015956";
-    const longitude = "118.400828";
-    const address = `Xincheng Technology Tower`;
-
-    const map = L.map('map', {
-      center: [latitude, longitude],
-      zoom: 15,
-      scrollWheelZoom: false,
-    });
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors',
-    }).addTo(map);
-
-    L.marker([latitude, longitude]).addTo(map).bindPopup(address).openPopup();
-
-    
-    setTimeout(() => map.invalidateSize(), 200);
-  });
-</script>
-
 <style>
-   
   .leaflet-map {
     height: 400px;
     max-width: 100%;
@@ -660,6 +628,72 @@ China</span></li>
   }
 </style>
 
+<script src="http://localhost:1313/js/lazy-map.js" defer></script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const mapElement = document.getElementById('map');
+
+  if (!mapElement) {
+    return;
+  }
+
+  const options = {
+    root: null, 
+    rootMargin: '0px',
+    threshold: 0.1 
+  };
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        
+        loadLeafletAndInitializeMap();
+        observer.disconnect(); 
+      }
+    });
+  }, options);
+
+  observer.observe(mapElement);
+
+  function loadLeafletAndInitializeMap() {
+    
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css';
+    document.head.appendChild(link);
+
+    
+    const script = document.createElement('script');
+    script.src = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js';
+    script.onload = () => {
+      
+      const latitude = mapElement.dataset.latitude || "35.101525";
+      const longitude = mapElement.dataset.longitude || "118.348651";
+      const address = mapElement.dataset.address || "1Xincheng Technology Tower";
+
+      const map = L.map('map', {
+        center: [parseFloat(latitude), parseFloat(longitude)],
+        zoom: 15,
+        scrollWheelZoom: false,
+      });
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+      }).addTo(map);
+
+      L.marker([parseFloat(latitude), parseFloat(longitude)])
+        .addTo(map)
+        .bindPopup(address)
+        .openPopup();
+
+      setTimeout(() => map.invalidateSize(), 200);
+    };
+    document.body.appendChild(script);
+  }
+});
+</script>
 
 	</main>
 

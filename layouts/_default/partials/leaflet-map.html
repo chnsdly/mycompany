@@ -1,48 +1,16 @@
-<!-- 地图容器 -->
 <section>
   <div class="container">
-    <div id="map" class="leaflet-map"></div>
+    <div
+      id="map"
+      class="leaflet-map"
+      data-latitude="{{ .Params.latitude | default "35.101525" }}"
+      data-longitude="{{ .Params.longitude | default "118.348651" }}"
+      data-address="{{ .Params.address | default "Xincheng Technology Tower" | safeHTMLAttr }}"
+    ></div>
   </div>
 </section>
 
-<!-- Leaflet 样式 -->
-<link
-  rel="stylesheet"
-  href="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css"
-/>
-
-<!-- Leaflet 脚本 -->
-<script src="https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js"></script>
-
-<!-- 地图初始化 -->
-<script>
-  document.addEventListener('DOMContentLoaded', () => {
-    const el = document.getElementById('map');
-    if (!el) return;
-
-    const latitude = {{ .latitude | default "35.101525" }};
-    const longitude = {{ .longitude | default "118.348651" }};
-    const address = `{{ .address | default "Xincheng Technology Tower" | safeHTML }}`;
-
-    const map = L.map('map', {
-      center: [latitude, longitude],
-      zoom: 15,
-      scrollWheelZoom: false,
-    });
-
-    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      attribution: '&copy; OpenStreetMap contributors',
-    }).addTo(map);
-
-    L.marker([latitude, longitude]).addTo(map).bindPopup(address).openPopup();
-
-    // 防止地图容器尺寸问题
-    setTimeout(() => map.invalidateSize(), 200);
-  });
-</script>
-
 <style>
-  /* 可放入 custom.scss 中 */
   .leaflet-map {
     height: 400px;
     max-width: 100%;
@@ -50,3 +18,70 @@
     margin: 0 auto 20px auto;
   }
 </style>
+
+<script src="{{ "js/lazy-map.js" | absURL }}" defer></script>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const mapElement = document.getElementById('map');
+
+  if (!mapElement) {
+    return;
+  }
+
+  const options = {
+    root: null, // 表示视口
+    rootMargin: '0px',
+    threshold: 0.1 // 当目标元素的10%进入视口时触发
+  };
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // 地图进入视口，加载Leaflet并初始化地图
+        loadLeafletAndInitializeMap();
+        observer.disconnect(); // 一旦加载完成，停止观察
+      }
+    });
+  }, options);
+
+  observer.observe(mapElement);
+
+  function loadLeafletAndInitializeMap() {
+    // 动态加载 Leaflet CSS
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css';
+    document.head.appendChild(link);
+
+    // 动态加载 Leaflet JS
+    const script = document.createElement('script');
+    script.src = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js';
+    script.onload = () => {
+      // Leaflet 脚本加载完成后，初始化地图
+      const latitude = mapElement.dataset.latitude || "35.101525";
+      const longitude = mapElement.dataset.longitude || "118.348651";
+      const address = mapElement.dataset.address || "1Xincheng Technology Tower";
+
+      const map = L.map('map', {
+        center: [parseFloat(latitude), parseFloat(longitude)],
+        zoom: 15,
+        scrollWheelZoom: false,
+      });
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+      }).addTo(map);
+
+      L.marker([parseFloat(latitude), parseFloat(longitude)])
+        .addTo(map)
+        .bindPopup(address)
+        .openPopup();
+
+      setTimeout(() => map.invalidateSize(), 200);
+    };
+    document.body.appendChild(script);
+  }
+});
+</script>
