@@ -1,10 +1,10 @@
-/*更换主题颜色后，首页大图透明图层修改颜色*/
+/*----------更换主题颜色后，首页大图透明图层修改颜色----------*/
 .overly::before, .page-title::before {
   background: rgba(0, 0, 0, 0.8) !important;
 }
 
 
-/* 产品容器 - Flexbox布局 */
+/* ----------首页场景布局------------- */
 .products-container {
   display: flex;
   flex-wrap: wrap;
@@ -27,7 +27,7 @@
 
 /* 图片区域 */
 .card-image {
-  height: 200px; /* 固定图片高度 */
+  height: 300px; /* 固定图片高度 */
   overflow: hidden;
   
   img {

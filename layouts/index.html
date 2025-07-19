@@ -24,7 +24,7 @@
 {{ end }}
 <!-- /banner -->
 
-<!-- about -->
+<!-- products -->
 {{ with .Params.products }}
 {{ if .enable }}
 <section class="section products">
@@ -33,7 +33,6 @@
       {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
       {{ with .description }}<p>{{ . | markdownify }}</p>{{ end }}
     </div>
-    
     <!-- 使用Flexbox替代Bootstrap栅格 -->
     <div class="products-container">
       {{ range .items }}
@@ -54,7 +53,7 @@
 </section>
 {{ end }}
 {{ end }}
-<!-- /about -->
+<!-- /products -->
 
 <!-- portfolio -->
 {{ with .Params.portfolio }}
