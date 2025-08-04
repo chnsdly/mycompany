@@ -17,12 +17,13 @@ image = "images/logo.png" # this image will be used as fallback if a page has no
 # Whether to display text descriptors (like "E-mail: ", "Phone: ") before the address block elements
 address_descriptors = false
 # contact info
-phone = "（+86）13792998878 （whatsapp、wechat）"
+phone = "(+86) 17861616766（whatsapp、wechat）"
+phone2 = "(+86) 13792998878（whatsapp、wechat）"
 email = "weibenlong6@gmail.com"
 location = """
-**Xincheng Technology Tower**  
-High-tech Development Zone  
-Linyi, Shandong Province<br>
+**Xincheng Technology Tower**      
+hedong District, Linyi city <br>
+Shandong Province<br>
 China
 """
 # copyright
@@ -122,26 +123,20 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://www.facebook.com/profile.php?id=61577021316542&mibextid=ZbWKwL"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter"  # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "instagram"
-icon = "fab fa-instagram" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
-
-[[social]]
-title = "github"
-icon = "fab fa-github" # fontawesome icon pack : https://fontawesome.com/icons/
-link = "#"
+link = "https://x.com/xinzhou1558615"
 
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # fontawesome icon pack : https://fontawesome.com/icons/
 link = "#"
 
+[[social]]
+title = "WhatsApp"
+icon = "fab fa-whatsapp" # fontawesome icon pack : https://fontawesome.com/icons/
+link = "#"
 

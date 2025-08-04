@@ -68,6 +68,9 @@
           {{ with site.Params.phone }}
           <li><i class="fas fa-phone-alt"></i><span>{{ . }}</span></li>
           {{ end }}
+          {{ with site.Params.phone2 }}
+          <li><i class="fas fa-phone-alt"></i><span>{{ . }}</span></li>
+          {{ end }}
         </ul>
       </div>
       {{ end }}
@@ -82,15 +85,15 @@
             <i class="{{ .icon }}"></i>
           </a>
           {{ end }}
-          <!-- WhatsApp -->
-          <a href="https://wa.me/8613792998878?text=您好，我想咨询一下" target="_blank" rel="noopener" title="WhatsApp">
-            <i class="fab fa-whatsapp"></i>
-          </a>
           <!-- 微信二维码 -->
           <div class="wechat-qr">
             <img src="/images/wechat-qr.png" alt="扫码加微信">
             <p style="text-align: center;">wechat</p>
           </div>
+          <div class="wechat-qr">
+              <img src="/images/whatsapp.jpg" alt="WhatsApp">
+              <p style="text-align: center;">WhatsApp</p>
+            </div>
         </div>
       </div>
 

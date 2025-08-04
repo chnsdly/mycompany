@@ -98,11 +98,6 @@ product_section:
     content: |
         我们提供灵活的 OEM服务以及专属Logo 定制。方便根据您的品牌形象进行个性化定制。
 
-  feature2:
-    title: "核心电芯技术优势"
-    content: |
-        我们采用高品质磷酸铁锂电芯，超长循环寿命、卓越安全性能、宽温域适应性、高能量密度。
-
   feature3:
     title: "欢迎莅临考察"
     content: |
