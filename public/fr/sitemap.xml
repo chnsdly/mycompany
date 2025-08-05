@@ -619,517 +619,708 @@
                 href="http://localhost:1313/fr/message_sent/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-7/</loc>
+    <loc>http://localhost:1313/fr/products/custom/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-7/"
+                href="http://localhost:1313/products/custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-7/"
+                href="http://localhost:1313/es/products/custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-7/"
+                href="http://localhost:1313/it/products/custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-7/"
+                href="http://localhost:1313/de/products/custom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-7/"
+                href="http://localhost:1313/fr/products/custom/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-9/</loc>
+    <loc>http://localhost:1313/fr/products/24-300/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-9/"
+                href="http://localhost:1313/products/24-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-9/"
+                href="http://localhost:1313/es/products/24-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-9/"
+                href="http://localhost:1313/it/products/24-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-9/"
+                href="http://localhost:1313/de/products/24-300/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/24-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-9/"
+                href="http://localhost:1313/fr/products/24-300/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-11/</loc>
+    <loc>http://localhost:1313/fr/products/24-320/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-11/"
+                href="http://localhost:1313/products/24-320/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-11/"
+                href="http://localhost:1313/es/products/24-320/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-11/"
+                href="http://localhost:1313/it/products/24-320/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-11/"
+                href="http://localhost:1313/de/products/24-320/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/24-320/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-11/"
+                href="http://localhost:1313/fr/products/24-320/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-12/</loc>
+    <loc>http://localhost:1313/fr/products/60-100/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-12/"
+                href="http://localhost:1313/products/60-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-12/"
+                href="http://localhost:1313/es/products/60-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-12/"
+                href="http://localhost:1313/it/products/60-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-12/"
+                href="http://localhost:1313/de/products/60-100/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-12/"
+                href="http://localhost:1313/fr/products/60-100/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-14/</loc>
+    <loc>http://localhost:1313/fr/products/60-120/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-14/"
+                href="http://localhost:1313/products/60-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-14/"
+                href="http://localhost:1313/es/products/60-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-14/"
+                href="http://localhost:1313/it/products/60-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-14/"
+                href="http://localhost:1313/de/products/60-120/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-14/"
+                href="http://localhost:1313/fr/products/60-120/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-16/</loc>
+    <loc>http://localhost:1313/fr/products/60-150/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-16/"
+                href="http://localhost:1313/products/60-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-16/"
+                href="http://localhost:1313/es/products/60-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-16/"
+                href="http://localhost:1313/it/products/60-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-16/"
+                href="http://localhost:1313/de/products/60-150/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-16/"
+                href="http://localhost:1313/fr/products/60-150/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-18/</loc>
+    <loc>http://localhost:1313/fr/products/60-160/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-18/"
+                href="http://localhost:1313/products/60-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-18/"
+                href="http://localhost:1313/es/products/60-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-18/"
+                href="http://localhost:1313/it/products/60-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-18/"
+                href="http://localhost:1313/de/products/60-160/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-18/"
+                href="http://localhost:1313/fr/products/60-160/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-1/</loc>
+    <loc>http://localhost:1313/fr/products/60-180/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-1/"
+                href="http://localhost:1313/products/60-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-1/"
+                href="http://localhost:1313/es/products/60-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-1/"
+                href="http://localhost:1313/it/products/60-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-1/"
+                href="http://localhost:1313/de/products/60-180/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-1/"
+                href="http://localhost:1313/fr/products/60-180/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-3/</loc>
+    <loc>http://localhost:1313/fr/products/60-200/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-3/"
+                href="http://localhost:1313/products/60-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-3/"
+                href="http://localhost:1313/es/products/60-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-3/"
+                href="http://localhost:1313/it/products/60-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-3/"
+                href="http://localhost:1313/de/products/60-200/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-3/"
+                href="http://localhost:1313/fr/products/60-200/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-5/</loc>
+    <loc>http://localhost:1313/fr/products/60-30/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-5/"
+                href="http://localhost:1313/products/60-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-5/"
+                href="http://localhost:1313/es/products/60-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-5/"
+                href="http://localhost:1313/it/products/60-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-5/"
+                href="http://localhost:1313/de/products/60-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-30/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-5/"
+                href="http://localhost:1313/fr/products/60-30/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-8/</loc>
+    <loc>http://localhost:1313/fr/products/60-60/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-8/"
+                href="http://localhost:1313/products/60-60/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-8/"
+                href="http://localhost:1313/es/products/60-60/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-8/"
+                href="http://localhost:1313/it/products/60-60/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-8/"
+                href="http://localhost:1313/de/products/60-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-60/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-8/"
+                href="http://localhost:1313/fr/products/60-60/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-10/</loc>
+    <loc>http://localhost:1313/fr/products/60-80/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-10/"
+                href="http://localhost:1313/products/60-80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-10/"
+                href="http://localhost:1313/es/products/60-80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-10/"
+                href="http://localhost:1313/it/products/60-80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-10/"
+                href="http://localhost:1313/de/products/60-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/60-80/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-10/"
+                href="http://localhost:1313/fr/products/60-80/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-13/</loc>
+    <loc>http://localhost:1313/fr/products/72-100/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-13/"
+                href="http://localhost:1313/products/72-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-13/"
+                href="http://localhost:1313/es/products/72-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-13/"
+                href="http://localhost:1313/it/products/72-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-13/"
+                href="http://localhost:1313/de/products/72-100/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-100/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-13/"
+                href="http://localhost:1313/fr/products/72-100/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-15/</loc>
+    <loc>http://localhost:1313/fr/products/72-120/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-15/"
+                href="http://localhost:1313/products/72-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-15/"
+                href="http://localhost:1313/es/products/72-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-15/"
+                href="http://localhost:1313/it/products/72-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-15/"
+                href="http://localhost:1313/de/products/72-120/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-120/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-15/"
+                href="http://localhost:1313/fr/products/72-120/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-17/</loc>
+    <loc>http://localhost:1313/fr/products/72-150/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-17/"
+                href="http://localhost:1313/products/72-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-17/"
+                href="http://localhost:1313/es/products/72-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-17/"
+                href="http://localhost:1313/it/products/72-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-17/"
+                href="http://localhost:1313/de/products/72-150/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-150/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-17/"
+                href="http://localhost:1313/fr/products/72-150/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-19/</loc>
+    <loc>http://localhost:1313/fr/products/72-160/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-19/"
+                href="http://localhost:1313/products/72-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-19/"
+                href="http://localhost:1313/es/products/72-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-19/"
+                href="http://localhost:1313/it/products/72-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-19/"
+                href="http://localhost:1313/de/products/72-160/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-160/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-19/"
+                href="http://localhost:1313/fr/products/72-160/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-2/</loc>
+    <loc>http://localhost:1313/fr/products/72-180/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-2/"
+                href="http://localhost:1313/products/72-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-2/"
+                href="http://localhost:1313/es/products/72-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-2/"
+                href="http://localhost:1313/it/products/72-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-2/"
+                href="http://localhost:1313/de/products/72-180/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-180/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-2/"
+                href="http://localhost:1313/fr/products/72-180/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-4/</loc>
+    <loc>http://localhost:1313/fr/products/72-200/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-4/"
+                href="http://localhost:1313/products/72-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-4/"
+                href="http://localhost:1313/es/products/72-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-4/"
+                href="http://localhost:1313/it/products/72-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-4/"
+                href="http://localhost:1313/de/products/72-200/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-200/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-4/"
+                href="http://localhost:1313/fr/products/72-200/"
                 />
   </url><url>
-    <loc>http://localhost:1313/fr/products/rio-furniture-6/</loc>
+    <loc>http://localhost:1313/fr/products/72-300/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/products/rio-furniture-6/"
+                href="http://localhost:1313/products/72-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es-ES"
-                href="http://localhost:1313/es/products/rio-furniture-6/"
+                href="http://localhost:1313/es/products/72-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="it-IT"
-                href="http://localhost:1313/it/products/rio-furniture-6/"
+                href="http://localhost:1313/it/products/72-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-at"
-                href="http://localhost:1313/de/products/rio-furniture-6/"
+                href="http://localhost:1313/de/products/72-300/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-300/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/rio-furniture-6/"
+                href="http://localhost:1313/fr/products/72-300/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/products/72-30/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/72-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/72-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/72-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/72-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-30/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/72-30/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/products/72-60/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/72-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/72-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/72-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/72-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-60/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/72-60/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/fr/products/72-80/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/72-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/72-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/72-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/72-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/72-80/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/72-80/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/author/</loc>
@@ -1164,6 +1355,38 @@
                 href="http://localhost:1313/fr/author/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/honors/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/honors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/honors/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1194,38 +1417,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/contact/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/products/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="http://localhost:1313/de/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/products/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/products/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/about/</loc>
@@ -1356,6 +1547,38 @@
                 href="http://localhost:1313/fr/pricing/"
                 />
   </url><url>
+    <loc>http://localhost:1313/fr/products/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es-ES"
+                href="http://localhost:1313/es/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it-IT"
+                href="http://localhost:1313/it/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-at"
+                href="http://localhost:1313/de/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="http://localhost:1313/zh/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-FR"
+                href="http://localhost:1313/fr/products/"
+                />
+  </url><url>
     <loc>http://localhost:1313/fr/service/</loc>
     <xhtml:link
                 rel="alternate"
@@ -1386,38 +1609,6 @@
                 rel="alternate"
                 hreflang="fr-FR"
                 href="http://localhost:1313/fr/service/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/fr/honors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/honors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es-ES"
-                href="http://localhost:1313/es/honors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it-IT"
-                href="http://localhost:1313/it/honors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-at"
-                href="http://localhost:1313/de/honors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://localhost:1313/zh/honors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-FR"
-                href="http://localhost:1313/fr/honors/"
                 />
   </url>
 </urlset>

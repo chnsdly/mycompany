@@ -1,75 +1,46 @@
 ---
-title: "Caso Cliente: Resolviendo la Eficiencia en los 'Últimos Tres Kilómetros'"
+title: "Caso de cliente: descifrando la eficiencia de los «últimos tres kilómetros»"
 date: 2024-08-20T11:07:10+06:00
 author: Wei Benlong
-image : "images/blog/news3.jpg"
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Casos Cliente"]
-tags: ["Transporte Logístico", "Energía Nueva"]
-description: "Hengli New Energy Empodera a Hutong Express para Construir Flota Eléctrica de Microdistribución Urbana"
+categories: ["Casos de cliente"]
+tags: ["Logística & Transporte","Energías nuevas"]
+description: "Hengli New Energy ayuda a Hutong Express a crear una flota urbana de micro-entrega eléctrica flexible y eficiente"
 draft: false
 type: "post"
 ---
 
 **Cliente**  
 **`Hutong Express Supply Chain (Shanghai) Co., Ltd.`**  
-**Industria:** Distribución urbana, entregas instantáneas retail/farmacéutico  
-**Escenario:** Distribución de alta frecuencia en "últimos tres kilómetros" urbanos (triciclos y furgonetas microeléctricas)  
-**Cooperación:** Junio 2023 - Actualidad  
-**Productos:** Baterías LiFePO4 (LFP) Alta Densidad/Larga Vida de Hengli  
+**Sector:** Distribución urbana, entregas inmediatas retail/farmacéuticas  
+**Escenario de aplicación:** Entregas frecuentes y de pequeño volumen en los «últimos tres kilómetros» del centro (triciclos eléctricos y micro-furgonetas)  
+**Periodo de colaboración:** Junio 2023 – presente  
+**Producto:** Paquetes LFP de Hengli New Energy, alta densidad energética y larga vida útil  
+
 <!--more-->
-## Desafíos: "Ansiedad de Autonomía" en Callejuelas
-Hutong Express, proveedor líder en Shanghái para tiendas y e-commerce, opera flotas de triciclos y furgonetas micro (0.6-1t) para distribución urbana.
 
-Su electrificación enfrentó retos únicos:
+## Retos del cliente
 
-### Autonomía Insuficiente
-Baterías existentes no soportaban carga completa con aire acondicionado/calefacción en tráfico intenso.
+- **Autonomía < 200 km/día** con baterías anteriores  
+- **Tiempo de carga** lento (4-6 h) reduce la utilización de vehículos  
+- **Fiabilidad** comprometida por vibraciones; conectores flojos y errores BMS  
+- **TCO** muy sensible a costes de batería y mantenimiento
 
-### Tiempos de Carga Críticos
-Recargas lentas (4-6h) reducían disponibilidad de vehículos.
+## Solución Hengli **HL-M50**
 
-### Fiabilidad en Calles Adoquinadas
-Calles irregulares causaban fallos en conectores y errores de BMS.
+- +15 % de densidad energética (50-60 kWh) en el mismo espacio  
+- Carga rápida 1,5 C: 30 → 80 % en 40-45 min  
+- Carcasa de aluminio reforzada y diseño anti-vibración, test superados  
+- > 3 500 ciclos, garantía 5 años / 300 000 km
 
-### Presión de Costos
-Ciclos cortos y reparaciones erosionaban márgenes estrechos.
+## Resultados
 
-## Solución Hengli: Energía Duradera para "Duendes Urbanos"
-Baterías LiFePO4 Serie HL-M50 personalizadas:
+- Autonomía real **220-250 km** (máx. 280 km)  
+- +**1,8 h** de operación/día, +**15 %** pedidos, disponibilidad **98 %**  
+- Coste energético –**60 %**, fallos batería –**40 %**, TCO ventajoso  
+- **0** incidentes de seguridad tras > 12 meses
 
-### Packs Compactos de Alta Densidad
-Packs HL-M50 de 50-60 kWh (+15% densidad) amplían autonomía.
-
-### "Carga Express en Tiempo de Café"
-Carga rápida 1.5C: 30%-80% en 40-45 minutos.
-
-### Diseño Antivibraciones
-Estructuras reforzadas superan pruebas de vibración rigurosas.
-
-### Economía de Larga Vida
->3500 ciclos (@80% DoD) con garantía 5 años/300,000 km.
-
-## Resultados: Transformación Eficiencia-Costo
-Tras implementación en 2023:
-
-### Autonomía Revolucionaria
-**220-250 km** reales (máx. **280 km/día**), eliminando ansiedad vespertina.
-
-### Eficiencia Superior
-- **+1.8h** operación diaria con carga rápida
-- **15% más** entregas por conductor
-- **>98% disponibilidad** de flota
-
-### Optimización de Costos
-- **>60% menos** costos energéticos vs. combustible
-- **40% menos** reparaciones
-- TCO líder para operaciones de bajo margen
-
-### Seguridad Impecable
-Cero incidentes tras operación de **200+ km/día** en calles difíciles.
-
-## Testimonio
-> "Las baterías HL-M50 resolvieron nuestro cuello de botella. Conductores se 'recargan al máximo' en almuerzos y reparten más lejos. ¡Su durabilidad sorprendió! Fallos mínimos pese a calles irregulares. Más allá del producto robusto, el equipo de Hengli ofrece servicio ágil. Estas baterías son socios confiables para nuestros 'navegantes urbanos'! Estamos reemplazando baterías antiguas en toda la flota."  
-> **— Zhang Wei, Director de Operaciones**  
-> *Hutong Express Supply Chain (Shanghai) Co., Ltd.*
+## Opinión del cliente
+> «La HL-M50 elimina nuestro cuello de botella. Una carga durante la comida y volvemos al 100 %. Resiste las calles irregulares de Shanghái, menos averías y menos costes. Hengli entiende nuestro modelo de “hormigas obreras” de la entrega.»  
+> **— Zhang Wei, Director de Operaciones**

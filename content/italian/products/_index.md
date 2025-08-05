@@ -1,6 +1,7 @@
 ---
-title: "Extreme Power, Enduring Performance"
-description: "Leading solid-state battery technology delivers ultra-high energy density and exceptional safety, empowering your EVs and energy storage systems with unstoppable range"
+title: "Pacco batteria al fosfato di ferro e litio (LFP) ad alte prestazioni"
+description: "Realizzato con celle di grado A per uso automotive, garantisce elevata sicurezza e alta densità energetica."
 draft: false
 bg_image: "images/feature-bg.jpg"
 ---
+

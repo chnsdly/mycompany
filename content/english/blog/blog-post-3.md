@@ -1,20 +1,22 @@
 ---
-title: "Company Named Core Supplier for Industry Leader"
+title: "Company Named Core Supplier to an Industry Giant"
 date: 2024-05-20T11:07:10+06:00
 author: Wei Benlong
-image : "images/blog/news3.jpg"
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Market Activities"]
+categories: ["Market Activity"]
 tags: ["Market"]
 description: "this is meta description"
 draft: false
 type: "post"
 ---
 
-Through sustained dedication in the new energy power sector, we've achieved another major milestone: Secured a strategic order from Jiebu Power and officially become their core lithium battery supplier. This partnership demonstrates strong market recognition of our solutions and elevates our comprehensive competitiveness in power lithium batteries to new heights.
+After years of deep cultivation in the new-energy power sector, we have reached another major milestone today: thanks to our leading technology and outstanding product quality, the company has secured a significant strategic order from Jeboo Power and has officially become its core lithium-battery supplier. This in-depth cooperation not only demonstrates strong market recognition of our solutions but also elevates our overall competitiveness in the power-lithium field to a new level.
+
 <!--more-->
-The client representative stated during partnership confirmation: "After systematic evaluation of multiple suppliers, we selected your company based on confidence in your technical expertise, large-scale lean manufacturing capabilities, and product consistency. We look forward to establishing a long-term strategic partnership to advance power solutions together."
 
-The core product enabling this partnership is our flagship standardized lithium platform. Featuring prismatic aluminum-shell LiFePO4 batteries, this series achieves industry benchmark levels in safety, energy density, cycle life, and environmental adaptability.
+A customer representative stated when the cooperation was confirmed: “We conducted a comprehensive evaluation of many suppliers and ultimately chose your company because of our strong confidence in your solid technical background, lean large-scale manufacturing capability, and product consistency. We look forward to building a long-term and stable strategic partnership and jointly promoting progress in power solutions.”
 
-"Becoming a core supplier to key strategic clients represents a significant leap in our development," stated Wei Benlong, Chairman. "This validates our technology roadmap and product competitiveness while laying a solid foundation for expanding into diverse applications. We'll seize this opportunity to increase R&D investment, deepen lean manufacturing, and enhance service experiences - empowering global partners with safer, more efficient, reliable lithium solutions to drive green energy advancement."
+The core product of this cooperation is our market-proven, standardized lithium-battery platform. Centered on prismatic aluminum-case LFP cells, the series sets industry benchmarks for safety, energy density, cycle life, and environmental adaptability.
+
+“Becoming a core supplier to an important strategic customer is a major leap in our company’s development,” said Chairman **Wei Benlong**. “It validates the rightness of our technical roadmap and the competitiveness of our products, while laying a solid foundation for exploring broader diversified applications. Seizing this opportunity, we will continue to increase R&D investment, deepen lean manufacturing, and optimize service, empowering global partners with safer, more efficient, and more reliable lithium solutions to drive the flourishing growth of green energy applications.”

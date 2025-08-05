@@ -1,12 +1,11 @@
 ---
-title: "权威认证 ｜ 实力铸就信任 "
-description: "见证恒锂创新与实力"
+title: "Certificazioni autorevoli ｜ La solidità crea fiducia"
+description: "Scoprite l’innovazione e la forza di Hengli"
 bg_image: "images/feature-bg.jpg"
 layout: "honors"
 draft: false
 ---
-## 我们的荣誉与认证
 
-凭借卓越的品质和持续的创新，我们荣获了多项行业认可与权威认证。这些荣誉不仅是对我们技术实力和管理水平的肯定，更是客户对我们信任的基石。
+## I nostri riconoscimenti e certificazioni
 
-以下是我们获得的部分重要证书：
+Grazie a un’eccellente qualità e a un’innovazione continua, abbiamo ottenuto numerosi riconoscimenti di settore e certificazioni autorevoli. Questi attestati confermano la nostra competenza tecnica e l’efficacia della nostra gestione e rappresentano il fondamento della fiducia dei nostri clienti.

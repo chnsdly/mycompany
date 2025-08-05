@@ -101,10 +101,11 @@ funfacts:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Join Us in Global Cooperation"
-  content: "Attractive Profit Margins  |  Comprehensive Market Support  |  Professional Technical Services"
+  title: "Global Partnership Invitation"
+  content: "Tell us your requirements and we will provide professional service."
   button:
     enable: true
     label: "Contact Us"
     link: "contact/"
+
 ---

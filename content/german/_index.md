@@ -99,11 +99,12 @@ funfacts:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Globale Zusammenarbeit – Jetzt mitmachen"
-  content: "Attraktive Gewinnmargen | Umfassende Marktbegleitung | Professioneller technischer Service"
+  title: "Weltweite Partnerschaften willkommen"
+  content: "Teilen Sie uns Ihre Anforderungen mit, wir bieten Ihnen einen professionellen Service."
   button:
     enable: true
     label: "Kontaktieren Sie uns"
     link: "contact/"
+
 
 ---

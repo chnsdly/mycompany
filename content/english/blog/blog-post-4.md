@@ -1,75 +1,78 @@
 ---
-title: "Customer Case: Solving the Efficiency Puzzle in the 'Last Three Kilometers'"
+title: "Customer Case: Cracking the “Last-Three-Kilometre” Efficiency Code"
 date: 2024-08-20T11:07:10+06:00
 author: Wei Benlong
-image : "images/blog/news3.jpg"
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
 categories: ["Customer Cases"]
-tags: ["Logistics Transportation", "New Energy"]
-description: "Hengli New Energy Empowers Hutong Express to Build Agile Urban Micro-Distribution Electric Fleet"
+tags: ["Logistics & Transport","New Energy"]
+description: "Hengli New Energy helps Hutong Express build a flexible, high-efficiency urban micro-delivery EV fleet"
 draft: false
 type: "post"
 ---
 
 **Client**  
 **`Hutong Express Supply Chain (Shanghai) Co., Ltd.`**  
-**Industry:** Urban supply chain distribution, community retail/pharmaceutical instant delivery  
-**Application Scenario:** High-frequency, small-batch "last three kilometers" distribution in urban cores (using small electric trikes and micro-vans)  
-**Cooperation Period:** June 2023 - Present  
-**Products Used:** Hengli New Energy High-Energy-Density, Long-Life LiFePO4 (LFP) Battery Packs  
+**Industry:** Urban supply-chain distribution, community retail / pharma instant-delivery provider  
+**Application Scenario:** High-frequency, small-batch deliveries in city cores’ “last three kilometres” (using small electric tricycles and micro electric vans)  
+**Cooperation Period:** June 2023 – present  
+**Products in Use:** Hengli New Energy high-energy-density, long-life Lithium Iron Phosphate (LFP) battery packs  
+
 <!--more-->
-## Client Challenges: "Range Anxiety" in Alleyway Navigation
-Hutong Express, a leading Shanghai supply chain provider for convenience stores, pharmacies and e-commerce platforms, operates fleets of small electric trikes and micro-vans (0.6-1 ton class) for high-frequency urban deliveries.
 
-Their electrification journey faced unique small-vehicle challenges:
+## Customer Challenges: Range Anxiety and Efficiency Dead-Ends in Narrow Lanes
 
-### "200km Daily Range" Insufficient
-Existing batteries couldn't sustain full loads with AC/heating in frequent start-stop operations, forcing mid-shift recharging.
+Hutong Express serves instant-delivery needs of convenience chains, community pharmacies, premium fresh stores and e-commerce platforms in Shanghai. Its fleet of small e-trikes and micro vans (0.6 t – 1 t) must run frequent, multi-stop routes.
 
-### "Minute-Counting" Charging Time
-Drivers wasted hours daily with 4-6 hour slow charging at service points, reducing vehicle utilization.
+### “200 km per Day” Range Shortfall  
+Limited battery capacity plus heavy load, HVAC use and stop-and-go driving leave existing packs unable to finish daily routes, forcing mid-day charging and delaying deliveries.
 
-### Reliability Under "Bumpy Road Tests"
-Shanghai's brick alleyways caused connector failures and BMS errors in existing batteries.
+### Charging Time Equals Lost Territory  
+Couriers must squeeze in daytime top-ups at hubs or partner stores. Slow charging (4-6 h) slashes vehicle utilisation and orders per driver.
 
-### TCO Pressure in "Cost-Sensitive" Operations
-Short battery life and frequent repairs eroded thin profit margins.
+### Reliability Under Constant Bumps  
+Old city roads—brick, cobblestones, narrow alleys—cause severe vibration. Some packs suffer loose connectors and rising BMS errors.
 
-## Hengli Solution: Enduring Power for "Urban Sprites"
-Customized HL-M50 Series LiFePO4 batteries addressed these pain points:
+### TCO Pressure in Cost-Sensitive Operations  
+Thin margins make the fleet highly sensitive to battery purchase, replacement and maintenance costs. Short life or frequent failures erode profits.
 
-### Compact High-Energy Packs
-50-60 kWh HL-M50 packs (15% higher volumetric density) fit small vehicles while extending range.
+## Hengli New Energy Solution: Durable Power for “City Sprites”
 
-### "Coffee Break" Fast Charging
-1.5C fast charging enables 30%-80% recharge during 40-45 min lunch breaks.
+For these constraints Hengli delivered a tailored **HL-M50** LFP solution:
 
-### Vibration-Tough Design
-Reinforced aluminum shells with cushioning structures pass rigorous vibration tests.
+### Higher Energy Density  
+HL-M50 standard packs (~50-60 kWh) boost volumetric energy by 15 % within the same footprint, fitting mainstream e-trikes and micro vans.
 
-### Extended Life Economics
->3500 cycles (@80% DoD) with 5-year/300,000-km warranty reduce per-km costs.
+### “Coffee-Break” Fast Charging  
+1.5 C charging brings SOC from 30 % to 80 % in ≈ 40-45 min during lunch, maximising daytime uptime and eliminating long night charges.
 
-## Results: Efficiency-Cost Transformation
-Since late 2023 deployment, Hutong Express's fleet has transformed:
+### Reinforced Structure  
+High-strength aluminium housing and shock-absorption design withstand high-frequency bumps; packs passed rigorous vibration testing.
 
-### Range Breakthrough
-**220-250 km** real-world range (peak **280 km/day**) eliminates "afternoon anxiety".
+### Ultra-Long Cycle Life  
+Premium LFP chemistry and proprietary processes deliver > 3 500 cycles @ 80 % DoD, backed by a 5-year / 300 000 km warranty, lowering per-kilometre battery cost.
 
-### Efficiency Leap
-- **+1.8 hrs** daily operation via lunch charging
-- **15% higher** deliveries per driver
-- **>98% fleet availability** (vs. 92% previously)
+## Results: Small Size, Big Power—Efficiency & Cost Wins
 
-### Cost Optimization
-- **>60% lower** energy costs vs. fuel vehicles
-- **40% fewer** battery-related repairs
-- Industry-leading TCO for thin-margin operations
+Since phased adoption in H2 2023:
 
-### Flawless Safety Record
-Zero safety incidents after **200+ km/day** operation on Shanghai's toughest roads.
+### Range Barrier Removed  
+Real-world range now **220-250 km** (record **280 km**), eliminating mid-day anxiety and expanding service radius.
 
-## Client Testimonial
-> "Hengli's HL-M50 batteries solved our urban delivery bottleneck. Drivers now 'recharge to full' during lunch and deliver farther with confidence. Their durability amazed us - minimal failures despite Shanghai's bumpy roads. Beyond the robust product, Hengli's team offers rapid, insightful service. These batteries are trusted partners for our 'city navigators'! We're phasing out older batteries across our fleet."  
+### Operating Efficiency Up  
+- +**1.8 h** average effective operating time per vehicle  
+- +**15 %** orders per driver; peak-hour capacity relief  
+- Fleet uptime > **98 %** (was ≈ 92 %)
+
+### Cost Down, Profit Up  
+- **Energy:** > **60 %** cheaper than comparable ICE vehicles  
+- **Maintenance:** battery-related fault reports down **40 %**  
+- TCO advantage clear for low-margin micro-delivery business
+
+### Zero-Compromise Safety  
+Over a year of heavy-duty service (200 + km/day) achieved **zero** safety incidents, winning driver trust.
+
+## Customer Testimonial
+> “Hengli’s HL-M50 batteries truly solved our bottleneck. A quick charge over lunch gets us back on the road with peace of mind. Even Shanghai’s jolting old streets haven’t rattled them—fewer faults, easier maintenance, lower costs. Hengli’s team gets what our ‘ant-style’ delivery needs. These packs are partners we can rely on!”  
 > **— Zhang Wei, Operations Director**  
 > *Hutong Express Supply Chain (Shanghai) Co., Ltd.*

@@ -1,52 +1,46 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-4.jpg"
+title: "Caso cliente: svelare il codice di efficienza degli «ultimi tre chilometri»"
+date: 2024-08-20T11:07:10+06:00
+author: Wei Benlong
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Legacy Support"]
-tags: ["Mechine","Retro"]
-description: "this is meta description"
+categories: ["Casi cliente"]
+tags: ["Logistica & Trasporto","Nuova energia"]
+description: "Hengli New Energy supporta Hutong Express nel creare una flotta urbana di micro-consegna elettrica efficiente e flessibile"
 draft: false
 type: "post"
 ---
 
+**Cliente**  
+**`Hutong Express Supply Chain (Shanghai) Co., Ltd.`**  
+**Settore:** Distribuzione urbana, consegna immediata retail/farmacie  
+**Scenario d’uso:** Consegne ad alta frequenza e piccoli lotti negli «ultimi tre chilometri» del centro città (tricicli elettrici e micro-van)  
+**Periodo di collaborazione:** Giugno 2023 – oggi  
+**Prodotto:** Pacchi batteria LFP Hengli New Energy, alta densità energetica e lunga durata  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+<!--more-->
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+## Sfide del cliente
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+- **Autonomia < 200 km/giorno** con pacchi esistenti  
+- **Tempi di ricarica** lunghi (4-6 h) riducono l’utilizzo dei veicoli  
+- **Affidabilità** su strade sconnesse; connettori allentati, errori BMS  
+- **TCO** sensibile a costi d’acquisto, sostituzione e manutenzione
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+## Soluzione Hengli **HL-M50**
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+- +15 % densità energetica (50-60 kWh) nello stesso spazio  
+- Ricarica 1,5 C: 30 → 80 % in 40-45 min  
+- Guscio in alluminio rinforzato, design anti-urto, test vibrazioni superati  
+- > 3 500 cicli, garanzia 5 anni / 300 000 km
+
+## Risultati
+
+- Autonomia **220-250 km** (record 280 km)  
+- +**1,8 h** tempo operativo, +**15 %** consegne, disponibilità **98 %**  
+- Costi energia –**60 %**, guasti batteria –**40 %**, TCO competitivo  
+- **0** incidenti di sicurezza in oltre un anno
+
+## Testimonianza
+> «La HL-M50 ha risolto il collo di bottiglia della nostra micro-flotta. Una pausa caffè e si riparte carichi. Robusta e affidabile, riduce i costi. Hengli capisce le nostre esigenze di “formica operaia” della consegna.»  
+> **— Zhang Wei, Direttore Operativo**

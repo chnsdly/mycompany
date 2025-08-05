@@ -1,143 +1,164 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Extreme Power, Enduring Performance on Henli | Energy</title>
+    <title>High-Performance Lithium Iron Phosphate (LFP) Battery Pack on Henli | Energy</title>
     <link>http://localhost:1313/products/</link>
-    <description>Recent content in Extreme Power, Enduring Performance on Henli | Energy</description>
+    <description>Recent content in High-Performance Lithium Iron Phosphate (LFP) Battery Pack on Henli | Energy</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <atom:link href="http://localhost:1313/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>60V100Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-7/</link>
+      <title>24V-72V</title>
+      <link>http://localhost:1313/products/custom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-7/</guid>
+      <guid>http://localhost:1313/products/custom/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>24V300Ah</title>
+      <link>http://localhost:1313/products/24-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/24-300/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>24V320Ah</title>
+      <link>http://localhost:1313/products/24-320/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/24-320/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>60V100Ah</title>
+      <link>http://localhost:1313/products/60-100/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/60-100/</guid>
       <description></description>
     </item>
     <item>
       <title>60V120Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-9/</link>
+      <link>http://localhost:1313/products/60-120/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-9/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>60V125Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-11/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-11/</guid>
+      <guid>http://localhost:1313/products/60-120/</guid>
       <description></description>
     </item>
     <item>
       <title>60V150Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-12/</link>
+      <link>http://localhost:1313/products/60-150/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-12/</guid>
+      <guid>http://localhost:1313/products/60-150/</guid>
       <description></description>
     </item>
     <item>
       <title>60V160Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-14/</link>
+      <link>http://localhost:1313/products/60-160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-14/</guid>
+      <guid>http://localhost:1313/products/60-160/</guid>
       <description></description>
     </item>
     <item>
       <title>60V180Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-16/</link>
+      <link>http://localhost:1313/products/60-180/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-16/</guid>
+      <guid>http://localhost:1313/products/60-180/</guid>
       <description></description>
     </item>
     <item>
       <title>60V200Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-18/</link>
+      <link>http://localhost:1313/products/60-200/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-18/</guid>
+      <guid>http://localhost:1313/products/60-200/</guid>
       <description></description>
     </item>
     <item>
       <title>60V30Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-1/</link>
+      <link>http://localhost:1313/products/60-30/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-1/</guid>
+      <guid>http://localhost:1313/products/60-30/</guid>
       <description></description>
     </item>
     <item>
       <title>60V60Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-3/</link>
+      <link>http://localhost:1313/products/60-60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-3/</guid>
+      <guid>http://localhost:1313/products/60-60/</guid>
       <description></description>
     </item>
     <item>
       <title>60V80Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-5/</link>
+      <link>http://localhost:1313/products/60-80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-5/</guid>
+      <guid>http://localhost:1313/products/60-80/</guid>
       <description></description>
     </item>
     <item>
       <title>72V100Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-8/</link>
+      <link>http://localhost:1313/products/72-100/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-8/</guid>
+      <guid>http://localhost:1313/products/72-100/</guid>
       <description></description>
     </item>
     <item>
       <title>72V120Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-10/</link>
+      <link>http://localhost:1313/products/72-120/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-10/</guid>
+      <guid>http://localhost:1313/products/72-120/</guid>
       <description></description>
     </item>
     <item>
       <title>72V150Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-13/</link>
+      <link>http://localhost:1313/products/72-150/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-13/</guid>
+      <guid>http://localhost:1313/products/72-150/</guid>
       <description></description>
     </item>
     <item>
       <title>72V160Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-15/</link>
+      <link>http://localhost:1313/products/72-160/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-15/</guid>
+      <guid>http://localhost:1313/products/72-160/</guid>
       <description></description>
     </item>
     <item>
       <title>72V180Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-17/</link>
+      <link>http://localhost:1313/products/72-180/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-17/</guid>
+      <guid>http://localhost:1313/products/72-180/</guid>
       <description></description>
     </item>
     <item>
       <title>72V200Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-19/</link>
+      <link>http://localhost:1313/products/72-200/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-19/</guid>
+      <guid>http://localhost:1313/products/72-200/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>72V300Ah</title>
+      <link>http://localhost:1313/products/72-300/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/products/72-300/</guid>
       <description></description>
     </item>
     <item>
       <title>72V30Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-2/</link>
+      <link>http://localhost:1313/products/72-30/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-2/</guid>
+      <guid>http://localhost:1313/products/72-30/</guid>
       <description></description>
     </item>
     <item>
       <title>72V60Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-4/</link>
+      <link>http://localhost:1313/products/72-60/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-4/</guid>
+      <guid>http://localhost:1313/products/72-60/</guid>
       <description></description>
     </item>
     <item>
       <title>72V80Ah</title>
-      <link>http://localhost:1313/products/rio-furniture-6/</link>
+      <link>http://localhost:1313/products/72-80/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/products/rio-furniture-6/</guid>
+      <guid>http://localhost:1313/products/72-80/</guid>
       <description></description>
     </item>
   </channel>

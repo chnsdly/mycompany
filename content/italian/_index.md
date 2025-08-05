@@ -99,11 +99,12 @@ funfacts:
 cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
-  title: "Invito alla Collaborazione Globale"
-  content: "Margini di Profitto Attraenti | Supporto di Mercato Completo | Servizi Tecnici Professionali"
+  title: "Invito alla collaborazione globale"
+  content: "Comunicateci le vostre esigenze e vi offriremo un servizio professionale."
   button:
     enable: true
     label: "Contattaci"
     link: "contact/"
+
 
 ---

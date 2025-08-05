@@ -100,10 +100,11 @@ cta:
   enable: true
   bg_image: "images/call-to-action-bg.jpg"
   title: "Invitación a la cooperación global"
-  content: "Márgenes de beneficio atractivos | Soporte de mercado integral | Servicios técnicos profesionales"
+  content: "Cuéntenos sus necesidades y le brindaremos un servicio profesional."
   button:
     enable: true
     label: "Contáctenos"
     link: "contact/"
+
 
 ---

@@ -1,52 +1,53 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: John Doe
-image : "images/blog/blog-post-4.jpg"
+title: "Étude de cas : décoder l’efficacité des « trois derniers kilomètres »"
+date: 2024-08-20T11:07:10+06:00
+author: Wei Benlong
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Legacy Support"]
-tags: ["Mechine","Retro"]
-description: "this is meta description"
+categories: ["Études de cas clients"]
+tags: ["Logistique & Transport","Énergies nouvelles"]
+description: "Hengli New Energy aide Hutong Express à créer une flotte urbaine de micro-livraison électrique, flexible et performante"
 draft: false
 type: "post"
 ---
 
+**Client**  
+**`Hutong Express Supply Chain (Shanghai) Co., Ltd.`**  
+**Secteur :** Distribution urbaine, livraison immédiate pour commerce de proximité / pharmacie  
+**Scénario d’application :** Livraison haute fréquence, petits volumes, « trois derniers kilomètres » en centre-ville (triporteurs électriques et mini-vans)  
+**Période de coopération :** Juin 2023 – aujourd’hui  
+**Produit utilisé :** Packs LFP Hengli New Energy, haute densité énergétique et longue durée de vie  
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+<!--more-->
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+## Défis du client : anxiété d’autonomie et casse-tête d’efficacité
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+### Autonomie insuffisante pour « 200 km/jour »  
+Capacité limitée + charges élevées + climatisation = recharges imprévues et retards.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
+### Temps de charge « au mètre carré »  
+Recharge lente (4-6 h) durant les tournées ; utilisation véhicule et productivité affectées.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+### Fiabilité sous vibrations  
+Routes pavées et ruelles étroites provoquent desserrage de connecteurs et erreurs BMS.
+
+### Pression TCO sur activité à faible marge  
+Coût d’achat, remplacement et maintenance des batteries doit être minimal.
+
+## Solution Hengli : série **HL-M50**
+
+- **Densité énergétique +15 %** (50-60 kWh) dans le même volume.  
+- **Recharge 1,5 C** : 30 % → 80 % en 40-45 min.  
+- **Structure renforcée** en aluminium, validée par tests de vibration.  
+- **> 3 500 cycles / 5 ans ou 300 000 km** de garantie.
+
+## Résultats
+
+- Autonomie réelle **220-250 km** (pic 280 km).  
+- +**1,8 h** d’exploitation / jour, +**15 %** de commandes, disponibilité **98 %**.  
+- Coût énergie ↓ **60 %**, pannes batterie ↓ **40 %**, TCO avantageux.  
+- **0** incident sécurité en > 1 an.
+
+## Témoignage
+> « La HL-M50 a débloqué notre flotte. Un café, une charge, et on repart. Elle résiste aux pavés de Shanghai ! Moins de pannes, coûts réduits. Hengli comprend nos besoins de micro-livraison. »  
+> **— Zhang Wei, Directeur des opérations**

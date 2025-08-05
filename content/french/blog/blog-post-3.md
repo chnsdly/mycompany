@@ -1,52 +1,22 @@
 ---
-title: "How To Wear Bright Shoes"
-date: 2018-09-24T11:07:10+06:00
-author: Mark Dinn
-image : "images/blog/blog-post-3.jpg"
+title: "L’entreprise nommée fournisseur clé d’un géant du secteur"
+date: 2024-05-20T11:07:10+06:00
+author: Wei Benlong
+image: "images/blog/news3.jpg"
 bg_image: "images/feature-bg.jpg"
-categories: ["Legacy Support"]
-tags: ["Android","Retro"]
+categories: ["Activité marché"]
+tags: ["Marché"]
 description: "this is meta description"
 draft: false
 type: "post"
 ---
 
+Après avoir consolidé sa présence dans le secteur des batteries de puissance pour les énergies nouvelles, l’entreprise franchit aujourd’hui une étape majeure : grâce à sa technologie de pointe et à la qualité supérieure de ses produits, elle décroche une commande stratégique significative de **Jeboo Power** et devient officiellement son fournisseur principal de batteries lithium. Cette coopération approfondie témoigne de la confiance du marché dans nos solutions et propulse notre compétitivité à un niveau inédit.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores
-vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem
-ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis
-a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. 
+<!--more-->
 
-> Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes
-nemo minima rerums unsers sadips amets.. Sed ut perspiciatis unde omnis iste natus error
+Le représentant du client a déclaré lors de la signature : « Nous avons évalué de nombreux fournisseurs et avons finalement choisi votre société en raison de votre solide expertise technologique, de votre production lean à grande échelle et de la constance de vos produits. Nous attendons une coopération stratégique durable pour faire progresser ensemble les solutions de puissance. »
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum illo deserunt necessitatibus quibusdam sint,
-eos explicabo tenetur molestiae vero facere, aspernatur sit mollitia perferendis reiciendis. Deleniti magni
-explicabo sed alias fugit amet animi molestias ipsum maiores. Praesentium sint, id laborum quos. Tempora
-inventore est, dolor corporis quis doloremque nostrum, eos velit culpa quasi labore. Provident laborum porro
-nihil iste, magnam officia nemo praesentium autem, libero vel officiis. Omnis pariatur nam voluptatem voluptate
-at officia repellat ea beatae eligendi? Mollitia error saepe, aperiam facere. Optio maiores deleniti veritatis
-eaque commodi atque aperiam, debitis iste alias eligendi ut facilis earum! Impedit, tempore.
+Le produit phare de ce partenariat est notre plateforme lithium standardisée à coque aluminium prismatique LFP, référence du secteur en matière de sécurité, densité énergétique, durée de vie et adaptabilité environnementale.
 
-```
-  .blog-classic {
-  margin-bottom: 70px;
-  padding-bottom: 70px;
-  border-bottom: 1px solid #efefef;
-  }
-```
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex error esse a dolore, architecto sapiente, aliquid
-commodi, laudantium eius nemo enim. Enim, fugit voluptatem rem molestiae. Sed totam quis accusantium iste
-nesciunt id exercitationem cumque repudiandae voluptas perspiciatis, consequatur quasi, molestias, culpa odio
-adipisci. Nesciunt optio fugiat iste quam modi, ex vitae odio pariatur! Corrupti explicabo at harum qui
-doloribus, sit dicta nemo, dolor, enim eum molestias fugiat obcaecati autem eligendi? Nisi delectus eaque
-architecto voluptatibus, unde sit minus quae quod eligendi soluta recusandae doloribus, officia, veritatis
-voluptatum eius aliquam quos. Consectetur, nisi? Veritatis totam, unde nostrum exercitationem tempora suscipit,
-molestias, deserunt ipsum laborum aut iste eaque? Vitae delectus dicta maxime non mollitia? Sapiente eos a quia
-eligendi deserunt repudiandae modi molestias tenetur autem pariatur ullam itaque, quas eveniet, illo quam rerum
-ex obcaecati voluptatum nesciunt incidunt culpa provident illum soluta. Voluptas possimus nesciunt inventore
-perspiciatis neque fugiat, magnam natus repellendus praesentium eum voluptatum, alias incidunt, tempora
-reprehenderit recusandae et numquam itaque ratione dolor voluptatibus in commodi ut! Neque deserunt nostrum
-commodi dolor natus quo, non vitae deleniti, vero voluptatem error aspernatur veniam expedita numquam amet quia
-in dolores velit esse molestiae! Iusto architecto accusantium quisquam recusandae quod vero quia.
+« Devenir fournisseur clé d’un client stratégique est un bond en avant pour notre développement », souligne le Président **Wei Benlong**. « Cela confirme la justesse de notre feuille de route technologique et la compétitivité de nos produits, tout en posant les bases d’applications plus diversifiées. Nous renforcerons encore la R&D, le lean manufacturing et le service, afin d’offrir des solutions lithium plu
