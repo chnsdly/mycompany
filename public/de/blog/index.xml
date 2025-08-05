@@ -2,60 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neuigkeiten on Henli | Energy</title>
-    <link>http://localhost:1313/de/blog/</link>
+    <link>https://xinnenglifang.com/de/blog/</link>
     <description>Recent content in Neuigkeiten on Henli | Energy</description>
     <generator>Hugo</generator>
     <language>de-at</language>
     <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://xinnenglifang.com/de/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kundenstory: Effizienzlösung für die „letzten drei Kilometer“</title>
-      <link>http://localhost:1313/de/blog/blog-post-4/</link>
+      <link>https://xinnenglifang.com/de/blog/blog-post-4/</link>
       <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-4/</guid>
+      <guid>https://xinnenglifang.com/de/blog/blog-post-4/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Kunde&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;&lt;code&gt;Hutong Express Supply Chain (Shanghai) Co., Ltd.&lt;/code&gt;&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;Branche:&lt;/strong&gt; Städtische Supply-Chain-Distribution, Sofortlieferung Retail/Pharma&lt;br&gt;&#xA;&lt;strong&gt;Einsatzszenario:&lt;/strong&gt; Hochfrequente Kleinmengen-Zustellung in der City („letzte drei Kilometer“) mit E-Dreirädern &amp;amp; Micro-Vans&lt;br&gt;&#xA;&lt;strong&gt;Kooperation:&lt;/strong&gt; Juni 2023 bis heute&lt;br&gt;&#xA;&lt;strong&gt;Produkt:&lt;/strong&gt; Hochenergiedichte LFP-Batteriepacks von Hengli New Energy&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unternehmen wird Kernlieferant eines Branchengiganten</title>
-      <link>http://localhost:1313/de/blog/blog-post-3/</link>
+      <link>https://xinnenglifang.com/de/blog/blog-post-3/</link>
       <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-3/</guid>
+      <guid>https://xinnenglifang.com/de/blog/blog-post-3/</guid>
       <description>&lt;p&gt;Heute erreicht unser Unternehmen einen weiteren Meilenstein: Dank führender Technologie und herausragender Produktqualität haben wir einen bedeutenden strategischen Auftrag von &lt;strong&gt;Jeboo Power&lt;/strong&gt; erhalten und sind nun offizieller Kernlieferant für Lithiumbatterien. Diese enge Kooperation bestätigt die hohe Marktakzeptanz unserer Lösungen und hebt unsere Wettbewerbsfähigkeit im Power-Lithium-Bereich auf ein neues Niveau.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unternehmen startet kraftvolle Auslandsstrategie</title>
-      <link>http://localhost:1313/de/blog/blog-post-2/</link>
+      <link>https://xinnenglifang.com/de/blog/blog-post-2/</link>
       <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-2/</guid>
+      <guid>https://xinnenglifang.com/de/blog/blog-post-2/</guid>
       <description>&lt;p&gt;Nachdem das Unternehmen seine führende Position im chinesischen Markt für Antriebs-Lithiumbatterien gefestigt hat, startet es nun offiziell die Expansion ins Ausland. Mit starker Technologie, exzellenter Produktqualität und skalierbarer Fertigung bringen wir sichere, effiziente und zuverlässige Lithiumlösungen auf die internationale Bühne und beteiligen uns aktiv an der globalen Energiewende.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Erneuter Durchbruch in der Kerntechnologie-F&amp;E des Unternehmens</title>
-      <link>http://localhost:1313/de/blog/blog-post-1/</link>
+      <link>https://xinnenglifang.com/de/blog/blog-post-1/</link>
       <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-1/</guid>
+      <guid>https://xinnenglifang.com/de/blog/blog-post-1/</guid>
       <description>&lt;p&gt;Inmitten rascher Technologiezyklen meldet unser F&amp;amp;E-Zentrum einen weiteren bedeutenden Erfolg. Dank starker Eigenentwicklung und vorausschauender Planung erzielten wir große Fortschritte bei Materialsystemen, Zellarchitektur und Systemintegration. Das verbessert die Gesamtleistung unserer Produkte deutlich und festigt unsere führende Rolle im Bereich Leistungslithium. Dieser Meilenstein hebt unsere F&amp;amp;E-Fähigkeiten auf ein neues Niveau und unterstützt die wachsende Nachfrage nach leistungsstarken, sicheren und langlebigen Lithiumbatterien.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Pretty-print dates</title>
-      <link>http://localhost:1313/de/blog/date-i18n/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/de/blog/date-i18n/</guid>
-      <description>&lt;p&gt;Um einen &lt;a href=&#34;https://en.wikipedia.org/wiki/ISO_8601&#34;&gt;ISO-8601&lt;/a&gt;-Zeitstempel in der aktuellen Sprache auszuschreiben, kann der Shortcode &lt;code&gt;date_l10n&lt;/code&gt; verwendet werden:&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>http://localhost:1313/de/blog/blog-post-5/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-5/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere. &lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How To Wear Bright Shoes</title>
-      <link>http://localhost:1313/de/blog/blog-post-6/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/blog/blog-post-6/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit vitae placeat ad architecto nostrum asperiores&#xA;vel aperiam, veniam eum nulla. Maxime cum magnam, adipisci architecto quibusdam cumque veniam fugiat quae. Lorem&#xA;ipsum dolor sit amet, consectetur adipisicing elit. Odio vitae ab doloremque accusamus sit, eos dolorum officiis&#xA;a perspiciatis aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, facere.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

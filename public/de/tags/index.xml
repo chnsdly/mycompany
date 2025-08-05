@@ -2,73 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Henli | Energy</title>
-    <link>http://localhost:1313/de/tags/</link>
+    <link>https://xinnenglifang.com/de/tags/</link>
     <description>Recent content in Tags on Henli | Energy</description>
     <generator>Hugo</generator>
     <language>de-at</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://xinnenglifang.com/de/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>How To</title>
-      <link>http://localhost:1313/de/tags/how-to/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/de/tags/how-to/</guid>
+      <title>Logistik &amp; Transport</title>
+      <link>https://xinnenglifang.com/de/tags/logistik--transport/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/de/tags/logistik--transport/</guid>
       <description></description>
     </item>
     <item>
-      <title>Technology</title>
-      <link>http://localhost:1313/de/tags/technology/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/de/tags/technology/</guid>
+      <title>Neue Energie</title>
+      <link>https://xinnenglifang.com/de/tags/neue-energie/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/de/tags/neue-energie/</guid>
       <description></description>
     </item>
     <item>
-      <title>Advice</title>
-      <link>http://localhost:1313/de/tags/advice/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/advice/</guid>
+      <title>Markt</title>
+      <link>https://xinnenglifang.com/de/tags/markt/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/de/tags/markt/</guid>
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/de/tags/ai/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/ai/</guid>
+      <title>Unternehmensgeschäft</title>
+      <link>https://xinnenglifang.com/de/tags/unternehmensgesch%C3%A4ft/</link>
+      <pubDate>Sun, 24 Sep 2023 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/de/tags/unternehmensgesch%C3%A4ft/</guid>
       <description></description>
     </item>
     <item>
-      <title>Android</title>
-      <link>http://localhost:1313/de/tags/android/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/android/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Company</title>
-      <link>http://localhost:1313/de/tags/company/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/company/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mechine</title>
-      <link>http://localhost:1313/de/tags/mechine/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/mechine/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>News</title>
-      <link>http://localhost:1313/de/tags/news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Retro</title>
-      <link>http://localhost:1313/de/tags/retro/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/de/tags/retro/</guid>
+      <title>F&amp;E</title>
+      <link>https://xinnenglifang.com/de/tags/fe/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/de/tags/fe/</guid>
       <description></description>
     </item>
   </channel>

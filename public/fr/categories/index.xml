@@ -2,38 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Henli | Energy</title>
-    <link>http://localhost:1313/fr/categories/</link>
+    <link>https://xinnenglifang.com/fr/categories/</link>
     <description>Recent content in Categories on Henli | Energy</description>
     <generator>Hugo</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/fr/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://xinnenglifang.com/fr/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Technical Assistance</title>
-      <link>http://localhost:1313/fr/categories/technical-assistance/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0100</pubDate>
-      <guid>http://localhost:1313/fr/categories/technical-assistance/</guid>
+      <title>Études De Cas Clients</title>
+      <link>https://xinnenglifang.com/fr/categories/%C3%A9tudes-de-cas-clients/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/fr/categories/%C3%A9tudes-de-cas-clients/</guid>
       <description></description>
     </item>
     <item>
-      <title>Artificial Intelligence</title>
-      <link>http://localhost:1313/fr/categories/artificial-intelligence/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/fr/categories/artificial-intelligence/</guid>
+      <title>Activité Marché</title>
+      <link>https://xinnenglifang.com/fr/categories/activit%C3%A9-march%C3%A9/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/fr/categories/activit%C3%A9-march%C3%A9/</guid>
       <description></description>
     </item>
     <item>
-      <title>Company News</title>
-      <link>http://localhost:1313/fr/categories/company-news/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/fr/categories/company-news/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Legacy Support</title>
-      <link>http://localhost:1313/fr/categories/legacy-support/</link>
-      <pubDate>Mon, 24 Sep 2018 11:07:10 +0600</pubDate>
-      <guid>http://localhost:1313/fr/categories/legacy-support/</guid>
+      <title>Avancée Technologique</title>
+      <link>https://xinnenglifang.com/fr/categories/avanc%C3%A9e-technologique/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/fr/categories/avanc%C3%A9e-technologique/</guid>
       <description></description>
     </item>
   </channel>
