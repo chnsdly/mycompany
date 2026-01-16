@@ -1,0 +1,64 @@
+############# chinese navigation ##############
+
+# main menu
+[[main]]
+name = "首页"
+url = ""
+weight = 1
+
+[[main]]
+name = "关于公司"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "产品"
+url = "products/"
+weight = 3
+
+[[main]]
+name = "荣誉资质"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "新闻"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "联系我们"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "关于公司"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "产品"
+url = "products/"
+weight = 3
+
+[[footer]]
+name = "新闻"
+url = "blog/"
+weight = 4
+
+# [[footer]]
+# name = "价格"
+# url = "pricing/"
+# weight = 5
+
+# [[footer]]
+# name = "问答"
+# url = "faq/"
+# weight = 6
+
+[[footer]]
+name = "联系我们"
+url = "contact/"
+weight = 7

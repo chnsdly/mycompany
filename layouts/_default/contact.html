@@ -1,0 +1,106 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+<section class="contact-form">
+  <div class="container">
+    {{ with site.Params.contact.form }}{{ if .enable -}}
+    <div class="row">
+      <form method="POST" {{ if .use_netlify }}name="{{ printf "contact_%s" $.Language.Lang }}" action="{{ "/message_sent" | relLangURL }}" netlify netlify-honeypot="nhp"{{ else }}name="contact" action="{{ .action | safeURL }}"{{ end }}>
+        <div class="col-md-6 col-sm-12">
+          <div class="block">
+            <div class="form-group">
+              <label for="name" hidden>{{ i18n "contact_form_name" }}</label>
+              <input id="name" name="name" type="text" class="form-control" placeholder="{{ i18n "contact_form_name" }}" required>
+            </div>
+            <div class="form-group">
+              <label for="email" hidden>{{ i18n "contact_form_email" }}</label>
+              <input id="email" name="email" type="email" autocomplete="email" class="form-control" placeholder="{{ i18n "contact_form_email" }}" required>
+            </div>
+            <div class="form-group">
+              <label for="subject" hidden>{{ i18n "contact_form_subject" }}</label>
+              <input id="subject" name="subject" type="text" class="form-control" placeholder="{{ i18n "contact_form_subject" }}" required>
+            </div>
+            {{ if .use_netlify -}}
+            <div class="form-group-h">
+              <input name="nhp" type="text" class="form-control" placeholder="Are you made of flesh and bone?">
+            </div>
+            {{- end }}
+            {{ if .use_recaptcha -}}
+            <div class="form-group-h">
+              <input type="hidden" id="captchaResponse" name="g-recaptcha-response">
+            </div>
+            {{- end }}
+          </div>
+        </div>
+        <div class="col-md-6 col-sm-12">
+          <div class="block">
+            <div class="form-group-2">
+              <label for="message" hidden>{{ i18n "contact_form_message" }}</label>
+              <textarea id="message" name="message" class="form-control" rows="4" placeholder="{{ i18n "contact_form_message" }}" required></textarea>
+            </div>
+            <button class="btn btn-default" type="submit">{{ i18n "submit" }}</button>
+          </div>
+        </div>
+      </form>
+    </div>
+    {{- end }}{{ end }}
+    
+  </div>
+</section>
+
+
+<section class="contact-overview">
+  <div class="container">
+    <div class="contact-overview__inner">
+      
+      <!-- 地址模块 -->
+      {{ with site.Params.contact }}
+      <div class="contact-overview__block contact-overview__block--info">
+        <h2>{{ i18n "address_title" }}</h2>
+        <ul class="address-list">
+          {{ with site.Params.location }}
+          <li><i class="fas fa-map-marker-alt"></i><span>{{ . | markdownify }}</span></li>
+          {{ end }}
+          {{ with site.Params.email }}
+          <li><i class="fas fa-envelope"></i><span>{{ partial "cloak_email" . }}</span></li>
+          {{ end }}
+          {{ with site.Params.phone }}
+          <li><i class="fas fa-phone-alt"></i><span>{{ . }}</span></li>
+          {{ end }}
+          {{ with site.Params.phone2 }}
+          <li><i class="fas fa-phone-alt"></i><span>{{ . }}</span></li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      <!-- 社交模块 -->
+      <div class="contact-overview__block contact-overview__block--social">
+        <h2>{{ i18n "social_title" | default "关注我们" }}</h2>
+        <div class="contact-social contact-social--compact">
+          <!-- 遍历 params.social 列表 -->
+          {{ range .Site.Params.social }}
+          <a href="{{ .link | safeURL }}" target="_blank" rel="noopener" title="{{ .title }}">
+            <i class="{{ .icon }}"></i>
+          </a>
+          {{ end }}
+          <!-- 微信二维码 -->
+          <div class="wechat-qr">
+            <img src="/images/wechat-qr.png" alt="扫码加微信">
+            <p style="text-align: center;">wechat</p>
+          </div>
+          <div class="wechat-qr">
+              <img src="/images/whatsapp.jpg" alt="WhatsApp">
+              <p style="text-align: center;">WhatsApp</p>
+            </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+
+{{ partial "leaflet-map.html" }}
+{{ end }}

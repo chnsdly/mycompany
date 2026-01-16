@@ -1,0 +1,35 @@
+{{ with site.GetPage "/service" }}
+{{ with .Params.service }}
+<section class="service">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        {{ with .title }}<h2>{{ . | markdownify }}</h2>{{ end }}
+        {{ with .description }}<p>{{ . | markdownify }}</p>{{ end }}
+      </div>
+    </div>
+    <div class="row">
+      {{ range .service_item }}
+      <div class="col-sm-6 col-md-3">
+        <div class="service-item" style="min-height: 260px; display: flex; flex-direction: column; align-items: center; text-align: center;">
+          <i class="{{ .icon }}"></i>
+          <h4 style="
+            margin-bottom: 0.5rem;
+            display: -webkit-box;
+            -webkit-line-clamp: 2;  /* 最多2行 */
+            -webkit-box-orient: vertical;
+            overflow: hidden;">
+            {{ .name | markdownify }}</h4>
+          <p style="
+            display: -webkit-box;
+            -webkit-line-clamp: 3;   /* 最多3行 */
+            -webkit-box-orient: vertical;
+            overflow: hidden;">{{ .content | markdownify }}</p>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}

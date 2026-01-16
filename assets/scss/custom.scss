@@ -1,0 +1,217 @@
+/*----------更换主题颜色后，首页大图透明图层修改颜色----------*/
+.overly::before, .page-title::before {
+  background: rgba(0, 0, 0, 0.8) !important;
+}
+
+
+/* ----------首页场景布局------------- */
+.products-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px; /* 卡片间距 */
+  justify-content: center; /* 居中排列 */
+}
+
+/* 卡片容器 */
+.product-card {
+  flex: 1 1 calc(33.333% - 30px); /* 每行3列 */
+  max-width: calc(33.333% - 30px); /* 响应式限制 */
+  min-width: 280px; /* 最小宽度 */
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* 图片区域 */
+.card-image {
+  height: 300px; /* 固定图片高度 */
+  overflow: hidden;
+  
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease;
+  }
+  
+  &:hover img {
+    transform: scale(1.05);
+  }
+}
+
+/* 内容区域 */
+.card-content {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; /* 关键：内容区域自适应 */
+}
+
+.card-content h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+/* 描述文本处理 */
+.card-description {
+  flex-grow: 1; /* 关键：使描述区域填充剩余空间 */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4; /* 限制显示行数 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.5;
+  max-height: 6em; /* 后备方案 */
+}
+
+/* 响应式调整 */
+@media (max-width: 992px) {
+  .product-card {
+    flex: 1 1 calc(50% - 30px); /* 平板每行2列 */
+    max-width: calc(50% - 30px);
+  }
+}
+
+@media (max-width: 576px) {
+  .product-card {
+    flex: 1 1 100%; /* 手机单列 */
+    max-width: 100%;
+  }
+}
+
+
+
+/* 核心解决方案 - 仅需这些样式 */
+.equal-height {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.equal-height > [class*="col-"] {
+  display: flex;
+  flex-direction: column;
+}
+
+.service-arrow .block {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.service-content {
+  flex-grow: 1;
+}
+
+/* 可选的美化样式 */
+.service-icon {
+  margin-bottom: 15px;
+  font-size: 2rem;
+}
+
+.service-title {
+  font-size: 1.4rem;
+  margin-bottom: 12px;
+  color: white;
+}
+
+.service-content {
+  color: rgba(255, 255, 255, 0.9);
+  line-height: 1.6;
+}
+
+/* 响应式调整 */
+@media (max-width: 768px) {
+  .equal-height {
+    display: block; /* 小屏幕恢复默认 */
+  }
+  
+  .service-arrow .col-md-4 {
+    margin-bottom: 20px;
+  }
+}
+
+
+
+/* 整体容器 */
+.contact-overview {
+  padding: 3rem 0;
+  background-color: #fafafa;
+}
+
+/* 两列并排，中间留空 */
+.contact-overview__inner {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+}
+
+/* 每块统一卡片风格 */
+.contact-overview__block {
+  background: #fff;
+  padding: 2rem;
+  border-radius: 0.75rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+  flex: 1 1 300px; /* 最小 300px，超过则等比扩展 */
+}
+
+/* 地址列表 */
+.address-list {
+  list-style: none;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  li {
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    i {
+      margin-right: 0.75rem;
+      color: #0077b5;
+      font-size: 1.25rem;
+      line-height: 1.25;
+    }
+    span {
+      line-height: 1.4;
+    }
+  }
+}
+
+/* 社交标题居中 */
+.contact-overview__block--social h2 {
+  text-align: center;
+}
+
+/* 社交图标区 */
+.contact-social--compact {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 1.5rem;
+}
+
+/* 图标按钮 */
+.contact-social--compact a {
+  font-size: 5rem;
+  color: #444;
+  transition: transform 0.2s, color 0.2s;
+}
+.contact-social--compact a:hover {
+  transform: scale(1.2);
+  color: #1da1f2;
+}
+
+/* 微信二维码 */
+.wechat-qr {
+  width: 8rem;
+}
+.wechat-qr img {
+  width: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}

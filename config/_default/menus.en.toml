@@ -1,0 +1,52 @@
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "About Us"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Products"
+url = "products/"
+weight = 3
+
+[[main]]
+name = "Honors & Certifications"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "News"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "Contact Us"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "About Us"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Products"
+url = "products/"
+weight = 3
+
+[[footer]]
+name = "News"
+url = "blog/"
+weight = 4
+
+[[footer]]
+name = "Contact Us"
+url = "contact/"
+weight = 7

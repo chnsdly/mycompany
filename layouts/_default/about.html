@@ -1,0 +1,200 @@
+{{ define "main" }}
+
+{{ partial "page-title.html" . }}
+
+{{ with .Params.about }}
+{{ if .enable }}
+<section class="about section">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="about-img">
+          <img class="img-responsive" src="{{ .image | relURL }}">
+        </div>
+      </div>
+      <div class="col-md-6">
+        {{ with .title }}<h2 class="mt-20">{{ . | markdownify }}</h2>{{ end }}
+        {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        {{ with .button }}
+        {{ if .enable }}
+        <a href="{{ .link | relURL }}" class="btn btn-small mt-20">{{ .label }}</a>
+        {{ end }}
+        {{ end }}
+      </div>
+    </div>
+    <!--<div class="row counter-box text-center mt-50">
+      {{ range .funfacts }}
+      <div class="col-md-2">
+        <div class="counter-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .count }}<h4 class="count" data-count="{{ . }}">0</h4>{{ end }}
+          {{ with .name }}<span>{{ . }}</span>{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>-->
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.features }}
+{{ if .enable }}
+<section class="about-feature bg-dark section dark-service">
+  <div class="container">
+    {{ with .title }}
+    <div class="row">
+      <div class="col-md-12">
+        <div class="title">
+          <h2>{{ . | markdownify }}</h2>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+    <div class="row">
+      {{ range .feature_item }}
+      <div class="col-md-4">
+        <div class="service-item">
+          {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+          {{ with .name }}<h4>{{ . | markdownify }}</h4>{{ end }}
+          {{ with .content }}{{ . | $.Page.RenderString (dict "display" "block") }}{{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+
+{{ with .Params.product_section }}
+{{ if .enable }}
+<section id="product-section">
+  <div class="container">
+    <div class="section-header">
+      <h2>{{ .header_title }}</h2>
+      <p>{{ .header_text | markdownify }}</p>
+    </div>
+
+    <div class="feature-grid">
+      <div class="feature-card">
+        <img src="/images/company/oem.jpg">
+        <div class="feature-content">
+          <h3>{{ .feature1.title }}</h3>
+          <p>{{ .feature1.content | markdownify }}</p>
+        </div>
+      </div>
+
+      <div class="feature-card">
+        <img src="/images/company/company.jpg" >
+        <div class="feature-content">
+          <h3>{{ .feature3.title }}</h3>
+          <p>{{ .feature3.content | markdownify }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+{{ end }}
+
+<style>
+/* 产品模块外层 */
+#product-section {
+  background-color: #f8f9fa;
+  padding: 80px 20px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#product-section .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.section-header {
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.section-header h2 {
+  font-size: 32px;
+  color: #222;
+  margin-bottom: 20px;
+}
+
+.section-header p {
+  font-size: 18px;
+  color: #666;
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.feature-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center; /* Changed from space-between to center for better alignment when less than 3 items */
+}
+
+.feature-card {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  /* Default: 3 cards per row on large screens */
+  flex: 1 1 calc(33.333% - 30px); /* Adjusted calc to match new gap placement */
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+}
+
+.feature-card img {
+  width: 100%;
+  height: 350px;
+  object-fit: cover;
+}
+
+.feature-content {
+  padding: 0 20px 20px 20px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* --- Responsive Adjustments for Feature Cards --- */
+
+/* For screens smaller than 992px (typically tablets) */
+@media (max-width: 991.98px) {
+  .feature-card {
+    flex: 1 1 calc(50% - 20px); /* 2 cards per row, accounting for gap */
+  }
+}
+
+/* For screens smaller than 768px (typically mobile phones) */
+@media (max-width: 767.98px) {
+  .feature-card {
+    flex: 1 1 100%; /* 1 card per row */
+  }
+  .section-header h2 {
+    font-size: 28px; /* Slightly smaller title on mobile */
+  }
+  .section-header p {
+    font-size: 16px; /* Slightly smaller text on mobile */
+  }
+}
+
+</style>
+
+<!-- Call to action -->
+{{ if .Params.cta.enable }}
+{{ partial "cta.html" . }}
+{{ end }}
+<!-- /Call to action -->
+
+{{ end }}

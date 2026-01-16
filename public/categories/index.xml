@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Henli | Energy</title>
+    <link>https://xinnenglifang.com/categories/</link>
+    <description>Recent content in Categories on Henli | Energy</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 20 Aug 2024 11:07:10 +0600</lastBuildDate>
+    <atom:link href="https://xinnenglifang.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Customer Cases</title>
+      <link>https://xinnenglifang.com/categories/customer-cases/</link>
+      <pubDate>Tue, 20 Aug 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/categories/customer-cases/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Market Activity</title>
+      <link>https://xinnenglifang.com/categories/market-activity/</link>
+      <pubDate>Mon, 20 May 2024 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/categories/market-activity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology Breakthrough</title>
+      <link>https://xinnenglifang.com/categories/technology-breakthrough/</link>
+      <pubDate>Thu, 08 Sep 2022 11:07:10 +0600</pubDate>
+      <guid>https://xinnenglifang.com/categories/technology-breakthrough/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

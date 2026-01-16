@@ -1,0 +1,84 @@
+<section>
+  <div class="container">
+    <div
+      id="map"
+      class="leaflet-map"
+      data-latitude="{{ .Params.latitude | default "35.015956" }}"
+      data-longitude="{{ .Params.longitude | default "118.400828" }}"
+      data-address="{{ .Params.address | default "Xincheng Technology Tower" | safeHTMLAttr }}"
+    ></div>
+  </div>
+</section>
+
+<style>
+  .leaflet-map {
+    height: 400px;
+    max-width: 100%;
+    width: 100%;
+    margin: 0 auto 20px auto;
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  const mapElement = document.getElementById('map');
+
+  if (!mapElement) {
+    return;
+  }
+
+  const options = {
+    root: null, // 表示视口
+    rootMargin: '0px',
+    threshold: 0.1 // 当目标元素的10%进入视口时触发
+  };
+
+  const observer = new IntersectionObserver((entries, observer) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        // 地图进入视口，加载Leaflet并初始化地图
+        loadLeafletAndInitializeMap();
+        observer.disconnect(); // 一旦加载完成，停止观察
+      }
+    });
+  }, options);
+
+  observer.observe(mapElement);
+
+  function loadLeafletAndInitializeMap() {
+    // 动态加载 Leaflet CSS
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.css';
+    document.head.appendChild(link);
+
+    // 动态加载 Leaflet JS
+    const script = document.createElement('script');
+    script.src = 'https://cdn.staticfile.org/leaflet/1.9.4/leaflet.js';
+    script.onload = () => {
+      // Leaflet 脚本加载完成后，初始化地图
+      const latitude = mapElement.dataset.latitude || "35.101525";
+      const longitude = mapElement.dataset.longitude || "118.348651";
+      const address = mapElement.dataset.address || "1Xincheng Technology Tower";
+
+      const map = L.map('map', {
+        center: [parseFloat(latitude), parseFloat(longitude)],
+        zoom: 15,
+        scrollWheelZoom: false,
+      });
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '&copy; OpenStreetMap contributors',
+      }).addTo(map);
+
+      L.marker([parseFloat(latitude), parseFloat(longitude)])
+        .addTo(map)
+        .bindPopup(address)
+        .openPopup();
+
+      setTimeout(() => map.invalidateSize(), 200);
+    };
+    document.body.appendChild(script);
+  }
+});
+</script>

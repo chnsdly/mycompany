@@ -1,0 +1,52 @@
+# main menu
+[[main]]
+name = "Accueil"
+url = ""
+weight = 1
+
+[[main]]
+name = "À propos de l'entreprise"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Produits"
+url = "products/"
+weight = 3
+
+[[main]]
+name = "Distinctions & Certifications"
+url = "honors/"
+weight = 3
+
+[[main]]
+name = "Actualités"
+url = "blog/"
+weight = 4
+
+[[main]]
+name = "Contactez-nous"
+url = "contact/"
+weight = 6
+
+
+# footer menu
+[[footer]]
+name = "À propos de l'entreprise"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Produits"
+url = "products/"
+weight = 3
+
+[[footer]]
+name = "Actualités"
+url = "blog/"
+weight = 4
+
+[[footer]]
+name = "Contactez-nous"
+url = "contact/"
+weight = 7

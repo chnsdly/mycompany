@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{ partial "page-title.html" . }}
+{{ $data := index site.Data site.Language.Lang }}
+<section class="section">
+  <div class="container">
+    <div class="row mt-5">
+      <div class="col-12">
+        {{ .Content }} </div>
+    </div>
+
+    <div class="row justify-content-center mt-5">
+      <div class="col-lg-10">
+        <div class="row">
+          {{ range seq 1 6 }}
+          <div class="col-md-4 col-sm-6 mb-4">
+            <div class="honor-card text-center p-3 border rounded shadow-sm h-100 d-flex flex-column justify-content-between">
+              <img src="/images/honors/honors-{{ . }}.jpg" class="img-fluid rounded" alt="荣誉资质证书 {{ . }}" style="max-height: 300px; object-fit: contain; width: 100%;">
+            </div>
+          </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  /* 页面整体样式 */
+  .section {
+    padding: 80px 0;
+    background-color: #f8f9fa; /* 浅灰色背景，简洁专业 */
+  }
+
+  .section-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #212529; /* 深色标题 */
+    margin-bottom: 15px;
+  }
+
+  .section-description {
+    font-size: 1.1rem;
+    color: #6c757d; /* 灰色描述 */
+    max-width: 800px;
+    margin: 0 auto 40px auto;
+  }
+
+  /* 荣誉卡片样式 */
+  .honor-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    margin-bottom: 30px;
+  }
+
+  .honor-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+
+  .honor-card img {
+    max-width: 100%;
+    height: auto;
+    display: block; /* 确保图片居中 */
+    margin: 0 auto; /* 确保图片居中 */
+  }
+
+  /* 响应式调整 */
+  @media (max-width: 768px) {
+    .section-title {
+      font-size: 2rem;
+    }
+    .section-description {
+      font-size: 1rem;
+    }
+  }
+</style>
+
+{{ end }}
+
