@@ -4,7 +4,7 @@ description: ""
 draft: false
 image : "images/products/24V300AH.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Personalizable"
+category: "Batería de litio"
 information:
   - label : "Grado de celda"
     info : "Celdas LiFePO₄ grado A automotriz"

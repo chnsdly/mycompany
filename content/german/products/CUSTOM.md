@@ -4,7 +4,7 @@ description: ""
 draft: false
 image : "images/products/24V300AH.jpg"
 bg_image: "images/feature-bg.jpg"
-category: "Anpassbar"
+category: "Lithiumbatterie"
 information:
   - label : "Zellqualität"
     info : "Automotive-Grade-A Lithium-Eisen-Phosphat-Zellen"
