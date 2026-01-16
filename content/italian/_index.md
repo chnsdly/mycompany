@@ -14,32 +14,32 @@ banner:
 ############################# About #################################
 products:
   enable: true
-  title: "Soluzioni Energetiche Complete"
-  description: "Forniamo sistemi di batterie al litio ferro fosfato ad alta sicurezza e lunga durata, con sviluppo personalizzato, ampiamente applicabili a diversi scenari globali di energia e accumulo."
+  title: "Prodotti export per e‑bike e consegna di produzione"
+  description: "Per buyer esteri, distributori e brand, presentiamo una struttura informativa chiara “prodotto – prestazioni – scelta – capacità – consegna”, così potete valutare rapidamente se il modello è adatto al vostro mercato, se può essere fornito con continuità e se abbiamo una capacità di consegna export stabile."
   items:
-    - title: "Tricicli Passeggeri e da Carico & Veicoli Commerciali Leggeri"
-      content: "Progettati per la logistica urbana e veicoli commerciali leggeri, offrono eccellente stabilità sotto carico e garantiscono operatività efficiente in condizioni di frequenti avviamenti e arresti."
-      image: "images/company/sanlun.jpg"
+    - title: "Piattaforme modello principali"
+      content: "Se state cercando un modello di punta da promuovere a lungo in un mercato, partiamo dalle nostre piattaforme rappresentative per allineare rapidamente stile e posizionamento, e usarle come base per preventivi, campionature e acquisti in volume."
+      image: "images/company/img1.jpg"
 
-    - title: "Mobilità Elettrica Personale"
-      content: "Ideale per e-bike, golf cart e scooter per la mobilità, con un BMS intelligente che fornisce protezione completa per un utilizzo sicuro."
-      image: "images/company/golf.jpg"
+    - title: "Specifiche chiave allineate"
+      content: "Per facilitare confronti e approvazioni interne, evidenziamo le componenti decisive e i dettagli di lavorazione: la comunicazione passa da “sembra buono” a “ogni specifica è verificabile e riutilizzabile come standard per i lotti successivi”."
+      image: "images/company/img2.jpg"
 
-    - title: "Sistemi di Energia Off‑grid e di Backup"
-      content: "Scelta ottimale per aree senza rete, stazioni base telecom e impianti residenziali/commerciali: durata ultra‑lunga (8–10 anni) con erogazione stabile e continua."
-      image: "images/company/sun.jpg"
+    - title: "Adattamento al terreno e prestazioni"
+      content: "Se la vostra clientela include percorsi in salita o strade ondulate, forniamo scenari dedicati per valutare l’adattamento e i limiti d’uso, riducendo la pressione di marketing e post‑vendita dovuta a scelte errate."
+      image: "images/company/img3.jpg"
 
-    - title: "Apparecchiature per Automazione Industriale"
-      content: "Soluzione di energia pulita per AGV e carrelli elevatori: certificata per resistenza a forature e compressione, design senza manutenzione e alta efficienza per funzionamento continuo."
-      image: "images/company/chache.jpg"
+    - title: "Serie multi‑specifica"
+      content: "Se dovete coprire diverse fasce di prezzo e canali (negozi/wholesale/e‑commerce/progetti), offriamo serie con più specifiche e stili per costruire un mix “modello di richiamo – best‑seller – modello d’immagine”."
+      image: "images/company/img4.jpg"
 
-    - title: "Veicoli per Operazioni Speciali"
-      content: "Sistemi di potenza per spazzatrici stradali e bus turistici: conformi a elevati standard di sicurezza pubblica, design compatto per adattarsi a spazi ristretti."
-      image: "images/company/guanguang.jpg"
+    - title: "Fornitura in volume e coerenza"
+      content: "Se vi interessa la stabilità delle forniture nel lungo periodo, mostriamo lo stato di produzione in serie dello stesso modello: coerenza tra lotti, pianificazione sostenibile e prontezza per forniture continuative."
+      image: "images/company/img5.jpg"
 
-    - title: "Alimentatori Portatili"
-      content: "Energia dedicata per accumulatori portatili e attrezzature outdoor, con alta densità energetica e tecnologia di ricarica rapida per garantire alimentazione affidabile in mobilità."
-      image: "images/company/camp.jpg"
+    - title: "Catena di consegna export"
+      content: "Se dovete valutare la capacità di consegna della fabbrica, visualizziamo i passaggi chiave di produzione, stock, imballaggio e preparazione alla spedizione, così potete confermare ritmo di uscita, coordinamento imballo/container e un processo di consegna chiaro e controllabile."
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:

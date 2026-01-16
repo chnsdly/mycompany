@@ -14,32 +14,32 @@ banner:
 ############################# About #################################
 products:
   enable: true
-  title: "Umfassende Energielösungen für alle Szenarien"
-  description: "Wir bieten hochsichere, langlebige Lithium‑Eisenphosphat‑Batteriesysteme, unterstützen kundenspezifische Entwicklungen und sind weltweit in vielfältigen Energie‑ und Speicherszenarien einsetzbar."
+  title: "Exportprodukte für E‑Bikes und Fertigungsauslieferung"
+  description: "Für internationale Einkäufer, Händler und Marken strukturieren wir die Informationen klar nach „Produkt – Leistung – Auswahl – Kapazität – Lieferung“, damit Sie schnell beurteilen können, ob ein Modell zu Ihrem Markt passt, dauerhaft lieferbar ist und ob wir stabil exportfähig liefern."
   items:
-    - title: "Dreiräder für Personen‑ und Warentransport & leichte Nutzfahrzeuge"
-      content: "Speziell für städtische Logistik und leichte Nutzfahrzeuge entwickelt, mit ausgezeichneter Laststabilität und effizientem Betrieb bei häufigem Start‑Stopp."
-      image: "images/company/sanlun.jpg"
+    - title: "Kernmodelle als Plattform"
+      content: "Wenn Sie für einen Markt ein langfristig führendes Modell suchen, zeigen wir zuerst unsere repräsentativen Plattformmodelle: zur schnellen Abstimmung von Design und Positionierung und als Basis für Angebot, Musterung und Mengenbeschaffung."
+      image: "images/company/img1.jpg"
 
-    - title: "Persönliche Elektromobilität"
-      content: "Ideal für E‑Bikes, Golfcarts und Seniorenmobilitätshilfen, mit intelligentem BMS für umfassenden Schutz und sichere Nutzung."
-      image: "images/company/golf.jpg"
+    - title: "Schlüsselkonfigurationen abgestimmt"
+      content: "Für einfache Vergleichbarkeit und interne Freigaben bündeln wir die entscheidenden Komponenten und Verarbeitungsdetails. So wird aus „sieht gut aus“ ein „jede Spezifikation ist bestätigt und als Standard für Folgechargen nutzbar“."
+      image: "images/company/img2.jpg"
 
-    - title: "Inselsysteme und Notstromversorgung"
-      content: "Die optimale Wahl für netzferne Gebiete, Mobilfunkstationen und private/gewerbliche Kraftwerke: Ultra‑lange Lebensdauer (8–10 Jahre) und stabile, kontinuierliche Stromversorgung."
-      image: "images/company/sun.jpg"
+    - title: "Straßenanpassung und Fahrleistung"
+      content: "Wenn Ihre Kunden in hügeligem oder welligem Gelände unterwegs sind, zeigen wir passende Szenarien. So erkennen Sie Eignung und Nutzungsgrenzen und reduzieren den Marketing‑ und Serviceaufwand durch Fehlwahl."
+      image: "images/company/img3.jpg"
 
-    - title: "Industrielle Automatisierungsgeräte"
-      content: "Saubere Energie für AGVs und Gabelstapler: Geprüft auf Durchstich‑ und Drucksicherheit, wartungsfrei und hocheffizient für Dauerbetrieb."
-      image: "images/company/chache.jpg"
+    - title: "Mehrere Spezifikationen zur Auswahl"
+      content: "Wenn Sie verschiedene Preisniveaus und Kanäle (Einzelhandel/Großhandel/E‑Commerce/Projekte) abdecken möchten, bieten wir Serien in unterschiedlichen Spezifikationen und Designs, um einen Mix aus „Zugmodell – Volumenmodell – Image‑Modell“ aufzubauen."
+      image: "images/company/img4.jpg"
       
-    - title: "Spezialfahrzeuge"
-      content: "Antriebssysteme für Kehrmaschinen und Sightseeing‑Busse: Konform mit hohen Sicherheitsstandards für den öffentlichen Betrieb, kompaktes Design für begrenzte Einbauräume."
-      image: "images/company/guanguang.jpg"
+    - title: "Großserienlieferung und Konsistenz"
+      content: "Wenn Ihnen langfristige Lieferfähigkeit und stabile Nachlieferung wichtig sind, zeigen wir den Serienfertigungsstatus desselben Modells: Chargenkonsistenz, nachhaltige Produktionsplanung und Bereitschaft zur kontinuierlichen Belieferung."
+      image: "images/company/img5.jpg"
       
-    - title: "Tragbare Energieversorgung"
-      content: "Für mobile Energiespeicherung und Outdoor‑Ausrüstung: Hohe Energiedichte und Schnellladefunktion gewährleisten zuverlässige Stromversorgung unterwegs."
-      image: "images/company/camp.jpg"
+    - title: "Export‑Lieferkette"
+      content: "Wenn Sie die Lieferfähigkeit der Fabrik bewerten möchten, visualisieren wir die Schlüsselbereiche Produktion, Bestand, Verpackung und Versandvorbereitung. So können Sie Versandrhythmus, Verpackungs‑/Containerabstimmung und einen klar steuerbaren Lieferprozess prüfen."
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:
