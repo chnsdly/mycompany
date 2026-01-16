@@ -19,27 +19,27 @@ products:
   items:
     - title: "主推车型平台"
       content: "如果您正在为某个市场寻找可长期主推的车型，这里先给出我们的代表性平台款：用于快速对齐外观风格与定位，并作为后续报价、打样与批量采购沟通的基准。"
-      image: "images/company/1.jpg" 
+      image: "images/company/img1.jpg" 
 
     - title: "关键配置可对齐"
       content: "为方便您做横向对比与内部评审，我们把影响采购决策的关键部位与做工细节集中呈现，让沟通从“看起来不错”变成“配置点可逐项确认、标准可复用到后续批次”。"
-      image: "images/company/2.jpg" 
+      image: "images/company/img2.jpg" 
 
     - title: "路况适配与表现"
       content: "如果您的客户群体包含坡道路况或起伏道路，我们提供对应的场景呈现，帮助您判断车型的路况适配与使用边界，减少选型偏差带来的推广与售后压力。"
-      image: "images/company/3.jpg"
+      image: "images/company/img3.jpg"
 
     - title: "多规格系列供选"
       content: "如果您需要覆盖不同价位与渠道（门店/批发/电商/项目），我们提供多规格与多样式的系列化选择，便于您搭建“引流款—走量款—形象款”的产品组合。"
-      image: "images/company/4.jpg"
+      image: "images/company/img4.jpg"
       
     - title: "批量供货与一致性"
       content: "如果您关心的是长期供货与补货稳定性，我们展示同型号批量生产状态，核心信息是：批次一致性、排产可持续、以及同款可持续供货的准备度。"
-      image: "images/company/5.jpg"
+      image: "images/company/img5.jpg"
       
     - title: "出口交付链路"
       content: "如果您需要评估工厂的交付能力，我们把生产、库存、包装与发运准备的关键环节可视化呈现，便于您确认：出货节奏如何协同、包装与装柜如何配合、交付流程是否清晰可控。"
-      image: "images/company/6.jpg"
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:
