@@ -14,32 +14,32 @@ banner:
 ############################# About #################################
 products:
   enable: true
-  title: "Soluciones de Energía Integrales"
-  description: "Ofrecemos sistemas de baterías de fosfato de hierro y litio con alta seguridad y larga vida útil, con desarrollo personalizado y amplia aplicabilidad a diversos escenarios globales de energía y almacenamiento."
+  title: "Productos de exportación para e‑bikes y entrega de fabricación"
+  description: "Para compradores internacionales, distribuidores y marcas, presentamos una estructura clara de información “producto – rendimiento – selección – capacidad – entrega”, para que puedan evaluar rápidamente si el modelo encaja en su mercado, si el suministro es sostenible y si contamos con capacidad de entrega exportable estable."
   items:
-    - title: "Triciclos de Pasajeros y Carga y Vehículos Comerciales Ligeros"
-      content: "Diseñados para logística urbana y vehículos comerciales ligeros: excelente estabilidad de carga y operación eficiente en condiciones de frecuentes arranques y paradas."
-      image: "images/company/sanlun.jpg"
+    - title: "Plataformas de modelos clave"
+      content: "Si busca un modelo principal para impulsar a largo plazo en un mercado, aquí presentamos nuestras plataformas representativas: ayudan a alinear rápidamente el estilo y el posicionamiento, y sirven como base para cotizaciones, muestras y compras por volumen."
+      image: "images/company/img1.jpg"
 
-    - title: "Movilidad Eléctrica Personal"
-      content: "Ideal para bicicletas eléctricas, carritos de golf y scooters de movilidad, con un BMS inteligente que proporciona protección completa para un uso seguro."
-      image: "images/company/golf.jpg"
+    - title: "Especificaciones clave alineadas"
+      content: "Para facilitar comparaciones y revisiones internas, mostramos las piezas críticas y los detalles de acabado que influyen en la decisión de compra, de modo que la conversación pase de “se ve bien” a “cada punto de especificación es verificable y reutilizable como estándar para futuros lotes”."
+      image: "images/company/img2.jpg"
 
-    - title: "Sistemas de Energía Fuera de Red y de Respaldo"
-      content: "Opción óptima para áreas sin red, estaciones base de telecomunicaciones e instalaciones residenciales/comerciales: vida útil ultra‑larga (8–10 años) con suministro de energía estable y continuo."
-      image: "images/company/sun.jpg"
+    - title: "Adaptación a la carretera y desempeño"
+      content: "Si su base de clientes incluye pendientes o caminos ondulados, presentamos escenarios específicos para ayudarle a evaluar la adaptación y los límites de uso, reduciendo la presión comercial y posventa causada por una mala selección."
+      image: "images/company/img3.jpg"
 
-    - title: "Equipos de Automatización Industrial"
-      content: "Solución de energía limpia para AGV y montacargas: certificado en resistencia a la perforación y compresión, diseño sin mantenimiento y alta eficiencia para operación continua."
-      image: "images/company/chache.jpg"
+    - title: "Serie con múltiples especificaciones"
+      content: "Si necesita cubrir distintos niveles de precio y canales (tiendas/mayoristas/e‑commerce/proyectos), ofrecemos series con varias especificaciones y estilos, para construir una combinación de “modelo gancho – superventas – modelo de imagen”."
+      image: "images/company/img4.jpg"
 
-    - title: "Vehículos de Operaciones Especiales"
-      content: "Sistemas de potencia para barredoras de calles y autobuses turísticos: cumplen con altos estándares de seguridad para operaciones públicas, diseño compacto para espacios limitados."
-      image: "images/company/guanguang.jpg"
+    - title: "Suministro masivo y consistencia"
+      content: "Si le preocupa la estabilidad de suministro y reposición a largo plazo, mostramos el estado de producción en serie del mismo modelo: consistencia de lotes, programación sostenible y preparación para un suministro continuo."
+      image: "images/company/img5.jpg"
 
-    - title: "Dispositivos de Energía Portátiles"
-      content: "Energía dedicada para almacenamiento portátil y equipos de exterior, con alta densidad energética y tecnología de carga rápida para garantizar suministro fiable en movilidad."
-      image: "images/company/camp.jpg"
+    - title: "Cadena de entrega de exportación"
+      content: "Si necesita evaluar la capacidad de entrega de la fábrica, visualizamos los pasos clave de producción, inventario, embalaje y preparación de envíos, para confirmar el ritmo de salida, la coordinación de embalaje/contenedor y un proceso de entrega claro y controlable."
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:

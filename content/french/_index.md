@@ -14,32 +14,32 @@ banner:
 ############################# About #################################
 products:
   enable: true
-  title: "Solutions d’alimentation tous scénarios"
-  description: "Nous fournissons des systèmes de batteries lithium‑fer phosphate à haute sécurité et longue durée de vie, avec développement sur mesure, adaptés à divers scénarios mondiaux de puissance et de stockage d’énergie."
+  title: "Produits d’exportation pour vélos électriques et livraison de fabrication"
+  description: "Pour les acheteurs, distributeurs et marques à l’international, nous structurons l’information autour du triptyque « produit – performances – sélection – capacité – livraison » afin de vous aider à juger rapidement l’adéquation au marché, la continuité d’approvisionnement et notre capacité de livraison à l’export."
   items:
-    - title: "Tricycles passagers et de fret & véhicules utilitaires légers"
-      content: "Conçus pour la logistique urbaine et les véhicules utilitaires légers, offrant une excellente stabilité sous charge et garantissant une exploitation efficace dans les conditions de démarrages et arrêts fréquents."
-      image: "images/company/sanlun.jpg"
+    - title: "Plateformes de modèles phares"
+      content: "Si vous cherchez un modèle principal à promouvoir durablement sur un marché, nous présentons d’abord nos plateformes représentatives pour aligner rapidement le style et le positionnement, et servir de base aux devis, échantillons et achats en volume."
+      image: "images/company/img1.jpg"
 
-    - title: "Mobilité électrique personnelle"
-      content: "Idéal pour vélos électriques, voiturettes de golf et scooters de mobilité, avec un BMS intelligent assurant une protection complète pour une utilisation en toute sécurité."
-      image: "images/company/golf.jpg"
+    - title: "Configurations clés alignées"
+      content: "Pour faciliter les comparaisons et les validations internes, nous mettons en avant les composants clés et les détails de fabrication qui influencent la décision d’achat, afin de passer de « ça a l’air bien » à « chaque point de spécification est vérifié et réutilisable comme standard »."
+      image: "images/company/img2.jpg"
 
-    - title: "Systèmes d’énergie hors réseau et de secours"
-      content: "Choix optimal pour zones hors réseau, stations de base télécoms et centrales domestiques/commerciales : durée de vie ultra‑longue (8–10 ans) avec alimentation stable et continue."
-      image: "images/company/sun.jpg"
+    - title: "Adaptation au terrain et performances"
+      content: "Si votre clientèle roule sur des routes en pente ou vallonnées, nous présentons des scénarios dédiés pour évaluer l’adaptation et les limites d’usage, et réduire la pression marketing et SAV liée à un mauvais choix."
+      image: "images/company/img3.jpg"
 
-    - title: "Équipements d’automatisation industrielle"
-      content: "Solution d’énergie propre pour AGV et chariots élévateurs : certifiée résistance à la perforation et à la compression, conception sans maintenance et haute efficacité pour un fonctionnement continu."
-      image: "images/company/chache.jpg"
+    - title: "Séries multi‑spécifications"
+      content: "Si vous devez couvrir différents niveaux de prix et canaux (magasins/wholesale/e‑commerce/projets), nous proposons des séries multi‑spécifications et multi‑styles pour construire un mix « produit d’appel – best‑seller – modèle d’image »."
+      image: "images/company/img4.jpg"
 
-    - title: "Véhicules d’exploitation spéciaux"
-      content: "Systèmes de puissance pour balayeuses de rues et bus touristiques : conformes aux normes de sécurité élevées pour les opérations publiques, design compact s’adaptant aux espaces réduits des véhicules spécialisés."
-      image: "images/company/guanguang.jpg"
+    - title: "Approvisionnement en volume et cohérence"
+      content: "Si votre priorité est la stabilité de l’approvisionnement et des réassorts, nous montrons l’état de production en série d’un même modèle : cohérence des lots, planification durable et préparation à l’approvisionnement continu."
+      image: "images/company/img5.jpg"
 
-    - title: "Appareils d’alimentation portables"
-      content: "Alimentation dédiée pour stockage portable et équipements extérieurs, offrant une haute densité énergétique et une charge rapide pour garantir une alimentation fiable en mobilité."
-      image: "images/company/camp.jpg"
+    - title: "Chaîne de livraison export"
+      content: "Si vous devez évaluer la capacité de livraison de l’usine, nous visualisons les étapes clés de production, stock, emballage et préparation à l’expédition, afin de valider le rythme d’envoi, la coordination emballage/conteneur et un processus de livraison clair et maîtrisé."
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:

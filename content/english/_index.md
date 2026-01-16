@@ -14,32 +14,32 @@ banner:
 ############################# About #################################
 products:
   enable: true
-  title: "Comprehensive Power Solutions"
-  description: "We provide high-safety, long-lifespan lithium iron phosphate battery systems, supporting customized development and widely applicable to diverse global power and energy storage scenarios."
+  title: "Export E-bike Products and Manufacturing Delivery"
+  description: "For overseas buyers, distributors, and brands, we present a clear “product–performance–selection–capacity–delivery” information structure so you can quickly judge whether a model fits your market, can be supplied continuously, and whether we can deliver exports reliably."
   items:
-    - title: "Passenger and Cargo Tricycles & Light Commercial Vehicles"
-      content: "Tailored for urban logistics and light commercial vehicles, delivering excellent load stability and ensuring efficient operation under frequent start-stop conditions."
-      image: "images/company/sanlun.jpg"
+    - title: "Core platform models"
+      content: "If you’re looking for a long-term hero model in a market, we start with representative platform bikes to align styling and positioning quickly, and to serve as the baseline for quotes, samples, and volume purchasing."
+      image: "images/company/img1.jpg"
 
-    - title: "Personal Electric Mobility"
-      content: "Ideal for e‑bikes, golf carts, and mobility scooters, with a smart BMS providing full-range protection for safe operation."
-      image: "images/company/golf.jpg"
+    - title: "Key specs aligned"
+      content: "To make side-by-side comparison and internal review easier, we highlight the key components and workmanship details that influence purchasing decisions, so discussions move from “looks good” to “each spec point confirmed and reusable as a standard for future batches.”"
+      image: "images/company/img2.jpg"
 
-    - title: "Off‑grid and Backup Energy Systems"
-      content: "An optimal choice for off‑grid areas, telecom base stations, and home/commercial power stations: ultra‑long lifespan (8–10 years) with stable and continuous power output."
-      image: "images/company/sun.jpg"
+    - title: "Road-condition fit and performance"
+      content: "If your customers ride on hilly or undulating terrain, we provide scenario visuals to help judge road suitability and usage limits, reducing marketing and after-sales pressure from mismatched selections."
+      image: "images/company/img3.jpg"
 
-    - title: "Industrial Automation Equipment"
-      content: "A clean power solution for AGVs and forklifts: certified for puncture and compression safety, featuring zero‑maintenance design and high efficiency for continuous operation."
-      image: "images/company/chache.jpg"
+    - title: "Multiple specs to choose from"
+      content: "If you need to cover different price tiers and channels (retail/wholesale/e‑commerce/projects), we offer series options across specs and styles to help you build a mix of “traffic draw–volume seller–image model.”"
+      image: "images/company/img4.jpg"
 
-    - title: "Special Operation Vehicles"
-      content: "Power systems for street sweepers and sightseeing buses: built to high safety standards for public operations, with compact design to fit limited spaces in special‑purpose vehicles."
-      image: "images/company/guanguang.jpg"
+    - title: "Bulk supply and consistency"
+      content: "If long-term supply and replenishment stability matter most, we show the mass-production status of the same model—batch consistency, sustainable scheduling, and readiness for continuous supply."
+      image: "images/company/img5.jpg"
 
-    - title: "Portable Power Devices"
-      content: "Dedicated energy for portable storage and outdoor equipment, offering high energy density and fast charging to ensure reliable power in mobile scenarios."
-      image: "images/company/camp.jpg"
+    - title: "Export delivery chain"
+      content: "If you need to evaluate factory delivery capability, we visualize the key steps in production, inventory, packaging, and shipping preparation, so you can confirm shipping cadence, packing/container coordination, and a clear, controllable delivery process."
+      image: "images/company/img6.jpg"
 
 ######################### Portfolio ###############################
 portfolio:
